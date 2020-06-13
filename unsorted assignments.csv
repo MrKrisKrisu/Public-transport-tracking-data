@@ -1,9 +1,16 @@
 bssid,possible_assignments
 00:02:6F:53:7E:97,"2520,2530,7409,ÜSTRA Betriebshof Glocksee"
 00:02:6F:66:8C:2D,"8328,Hannover Hbf EAP"
+00:02:6F:66:8C:55,"Bhf Doehren"
+00:02:6F:66:8C:5A,"Bhf Doehren"
 00:02:6F:66:8D:6F,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
+00:02:6F:66:8D:88,"Bhf Doehren"
+00:02:6F:66:8F:3A,"Bhf Doehren"
+00:02:6F:66:8F:52,"Bhf Doehren"
 00:02:6F:66:8F:57,"RTLS wo?"
+00:02:6F:75:6C:92,"Bhf Doehren"
 00:02:6F:75:70:15,"BMS R,bruch"
+00:02:6F:75:70:16,"Bhf Doehren"
 00:02:6F:75:70:17,"BMS R,bruch"
 00:02:6F:75:70:18,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
 00:02:6F:75:70:28,"2520,2530,7409,ÜSTRA Betriebshof Glocksee"
@@ -140,7 +147,8 @@ bssid,possible_assignments
 00:1A:DD:26:85:71,"8303,8423"
 00:1A:DD:26:85:C1,"2504,2508,2521,2546,3046,3103,8321,RTLS Haltenhoffstraße"
 00:1A:DD:26:86:01,"3061,3085,3086,3095,3124,3142,7947,8336,8409,8425"
-00:1A:DD:26:87:61,7951
+00:1A:DD:26:87:61,"7951,Stadtbahn"
+00:1A:DD:26:87:71,"7951,Stadtbahn"
 00:1A:DD:26:87:E1,8414
 00:1A:DD:26:87:F1,8414
 00:1A:DD:26:8A:61,"7931,8314,Haltenhoffstraße"
@@ -210,6 +218,7 @@ bssid,possible_assignments
 00:1A:DD:28:CC:A1,"3040,3095,3122,8409"
 00:1A:DD:28:CC:B1,8409
 00:1A:DD:39:25:08,3058
+00:1A:DD:39:59:68,"Bhf Doehren"
 00:1A:DD:42:8B:31,"3025,3056,3103"
 00:1A:DD:42:8B:A1,"3032,3143,3149"
 00:1A:DD:42:8C:71,"3017,3148"
@@ -218,7 +227,7 @@ bssid,possible_assignments
 00:1A:DD:42:8F:91,"3016,3107,3121"
 00:1A:DD:42:93:C1,"3072,3111"
 00:1A:DD:42:93:D1,"3072,3111"
-00:1A:DD:42:96:A1,3069
+00:1A:DD:42:96:A1,"3069,Bhf Doehren"
 00:1A:DD:42:97:01,"74xx,8337,Bahn ausgeschlossen"
 00:1A:DD:42:97:11,????
 00:1A:DD:42:9A:81,"3114,3126,3131,7953,EZW"
@@ -256,7 +265,7 @@ bssid,possible_assignments
 00:1A:DD:58:CA:71,"2517,2596"
 00:1A:DD:58:CA:A1,"2030,2033,2038,2525,2543,2558,2577"
 00:1A:DD:58:CA:B1,"2030,2033,2038,2525,2543,2558,2577"
-00:1A:DD:58:CA:D1,"2005,2006"
+00:1A:DD:58:CA:D1,"2005,2006,Bhf Doehren"
 00:1A:DD:58:CB:31,2546
 00:1A:DD:58:CB:61,"2540,2545"
 00:1A:DD:58:CB:71,"2540,2545"
@@ -359,7 +368,7 @@ bssid,possible_assignments
 00:1A:DD:58:E2:F1,"2557,2576"
 00:1A:DD:58:E3:21,"3021,3038"
 00:1A:DD:58:E3:31,"3021,3038"
-00:1A:DD:58:E3:51,"2041,2532,2570,3043,3061,3139"
+00:1A:DD:58:E3:51,"2041,2532,2570,3043,3061,3139,Bhf Doehren"
 00:1A:DD:58:E3:71,"3034,3045,3076"
 00:1A:DD:58:E3:F1,2017
 00:1A:DD:58:E4:01,"2529,2533,2548,2572,2586"
@@ -444,6 +453,9 @@ bssid,possible_assignments
 00:90:7F:B3:61:2B,"RegioBus Wunstorf"
 00:A0:57:16:3B:27,"3xxx,RTLS Kröpcke"
 00:A0:57:22:1B:CE,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
+00:A0:57:2A:D2:4A,"Bhf Doehren"
+00:A0:57:2A:DC:BB,"Bhf Doehren"
+00:A0:57:2A:DD:B4,"Bhf Doehren"
 00:A0:57:2D:A2:A8,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
 00:A0:57:2D:A4:F8,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
 00:A0:57:2D:AC:2C,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
@@ -458,9 +470,14 @@ bssid,possible_assignments
 00:BE:75:7B:30:82,"ICE Tz 9002 FS"
 00:BE:75:88:1F:F2,"ICE Tz 9002 FS"
 02:02:6F:53:7E:97,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
+02:02:6F:66:8C:55,"Bhf Doehren"
 02:02:6F:66:8D:6F,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
+02:02:6F:66:8D:88,"Bhf Doehren"
+02:02:6F:66:8F:3A,"Bhf Doehren"
+02:02:6F:66:8F:52,"Bhf Doehren"
 02:02:6F:66:8F:57,"RTLS wo?"
 02:02:6F:75:70:15,"BMS R,bruch"
+02:02:6F:75:70:16,"Bhf Doehren"
 02:02:6F:75:70:17,"BMS R,bruch"
 02:02:6F:75:70:18,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
 02:02:6F:75:70:28,"2520,2530,7409,ÜSTRA Betriebshof Glocksee"
@@ -570,6 +587,8 @@ bssid,possible_assignments
 02:90:7F:B3:61:2B,"RegioBus Wunstorf"
 02:A0:57:16:3E:15,"3xxx,RTLS Kröpcke"
 02:A0:57:22:1B:CE,"2520,2530,7409,ÜSTRA Betriebshof Glocksee"
+02:A0:57:2A:DD:B4,"Bhf Doehren"
+02:A0:57:2A:DF:C2,"Bhf Doehren"
 02:A0:57:2D:A2:A8,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
 02:A0:57:2D:AC:2C,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
 02:A0:57:37:E0:2B,Göttingen
