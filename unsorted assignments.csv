@@ -1,9 +1,14 @@
 bssid,possible_assignments
+00:02:6F:66:8B:4D,"25xx,7404,7421,Bhf Vahrenwald"
 00:02:6F:66:8C:2D,"8328,Hannover Hbf EAP"
 00:02:6F:66:8C:3D,"2527,2548,2555,2586,BH Glocksee,RH574"
 00:02:6F:66:8C:40,"2527,2548,2555,2586,BH Glocksee,RH574"
+00:02:6F:66:8C:43,"Bhf Vahrenwald,Bus"
+00:02:6F:66:8C:57,"Bhf Vahrenwald,Bus"
 00:02:6F:66:8D:78,Glocksee
+00:02:6F:66:8D:92,"Bhf Vahrenwald,Bus"
 00:02:6F:66:8F:57,"RTLS wo?"
+00:02:6F:75:6D:9D,"20xx,Bhf Vahrenwald"
 00:02:6F:75:6D:BC,Glocksee
 00:02:6F:75:70:15,"BMS R,bruch"
 00:02:6F:75:70:17,"BMS R,bruch"
@@ -272,7 +277,7 @@ bssid,possible_assignments
 00:1A:DD:58:C9:61,"3015,3068,3078,3120,3133"
 00:1A:DD:58:C9:71,8423
 00:1A:DD:58:C9:E1,"2538,2588"
-00:1A:DD:58:C9:F1,"2040,2538,2588"
+00:1A:DD:58:C9:F1,"2040,2538,2588,25xx"
 00:1A:DD:58:CA:61,"2517,2583,2596"
 00:1A:DD:58:CA:71,"2583,2596"
 00:1A:DD:58:CB:31,2546
@@ -427,6 +432,7 @@ bssid,possible_assignments
 00:A0:57:2A:DD:B4,"Bhf Doehren"
 00:A0:57:2A:DE:81,Doehren
 00:A0:57:2D:A3:15,Glocksee
+00:A0:57:2D:A3:B3,"Bhf Vahrenwald,Bus"
 00:A0:57:2D:A4:F8,"2xxx,7409,ÜSTRA Betriebshof Glocksee"
 00:A0:57:2D:F8:5C,"Üstra Zentrale"
 00:A0:57:35:C8:BD,"Üstra Zentrale"
@@ -443,12 +449,17 @@ bssid,possible_assignments
 00:BE:75:7B:30:82,"ICE Tz 9002 FS"
 00:BE:75:88:1F:F2,"ICE Tz 9002 FS"
 00:E0:20:6C:C8:B1,Glocksee
+02:02:6F:66:8B:4D,"25xx,7404,7421,Bhf Vahrenwald,Bus"
 02:02:6F:66:8C:3D,"2527,2548,2555,2586,BH Glocksee,RH574"
 02:02:6F:66:8C:40,"2527,2548,2555,2586,BH Glocksee,RH574"
+02:02:6F:66:8C:43,"Bhf Vahrenwald,Bus"
+02:02:6F:66:8C:57,"Bhf Vahrenwald,Bus"
 02:02:6F:66:8C:5A,Doehren
+02:02:6F:66:8D:92,"Bhf Vahrenwald,Bus"
 02:02:6F:66:8F:57,"RTLS wo?"
 02:02:6F:75:6C:92,Doehren
 02:02:6F:75:6D:6E,Doehren
+02:02:6F:75:6D:9D,"20xx,Bhf Vahrenwald,Bus"
 02:02:6F:75:6D:BC,Glocksee
 02:02:6F:75:6D:C4,Doehren
 02:02:6F:75:70:15,"BMS R,bruch"
@@ -571,6 +582,7 @@ bssid,possible_assignments
 02:A0:57:2A:DD:B4,"Bhf Doehren"
 02:A0:57:2A:DE:81,Doehren
 02:A0:57:2A:DF:C2,"Bhf Doehren"
+02:A0:57:2D:A3:B3,"Bhf Vahrenwald,Bus"
 02:A0:57:2D:F8:5C,"Üstra Zentrale"
 02:A0:57:35:C8:BD,"Üstra Zentrale"
 02:A0:57:35:CD:73,"Üstra Zentrale"
@@ -669,6 +681,7 @@ bssid,possible_assignments
 06:A0:57:2A:D0:83,Doehren
 06:A0:57:2A:DE:81,Doehren
 06:A0:57:2D:A2:A8,Glocksee
+06:A0:57:2D:A3:B3,"Bhf Vahrenwald,Bus"
 06:A0:57:2D:AC:2C,"BH Glocksee"
 06:A0:57:2D:B8:FE,"Hannover Hbf,ICE Tz 9002"
 06:A0:57:2D:F8:5C,"Üstra Zentrale"
