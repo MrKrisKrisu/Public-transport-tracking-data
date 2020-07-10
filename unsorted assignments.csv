@@ -200,7 +200,7 @@ bssid,possible_assignments
 00:1A:DD:26:7F:F1,"3075,3085,3092,8328,8419,H DA 1073"
 00:1A:DD:26:82:A1,8312
 00:1A:DD:26:86:11,"8425,Misburger Str"
-00:1A:DD:26:87:71,"7951,Stadtbahn"
+00:1A:DD:26:87:71,"7951,Position,Stadtbahn"
 00:1A:DD:26:87:E1,8414
 00:1A:DD:26:87:F1,8414
 00:1A:DD:26:88:A1,"8308,prüfen!"
@@ -296,8 +296,8 @@ bssid,possible_assignments
 00:1A:DD:58:C9:31,"2560,2590"
 00:1A:DD:58:C9:61,"3015,3068,3078,3120,3133"
 00:1A:DD:58:C9:71,8423
-00:1A:DD:58:C9:E1,"2538,2588,2594"
-00:1A:DD:58:C9:F1,"2538,2588,2594,25xx"
+00:1A:DD:58:C9:E1,"2538,2588,2594,Position"
+00:1A:DD:58:C9:F1,"2538,2588,2594,25xx,Position"
 00:1A:DD:58:CA:61,"2040,2517,2583,2596,3129,3138"
 00:1A:DD:58:CA:71,"2583,2596"
 00:1A:DD:58:CB:31,2546
@@ -433,9 +433,12 @@ bssid,possible_assignments
 00:1D:AA:3E:6F:B2,"3045,3068,Appelstraße"
 00:1D:AA:3E:6F:B3,"3045,3068,Appelstraße"
 00:24:FE:A2:5C:CA,"3xxx,RTLS Kröpcke"
+00:26:52:DB:E5:53,Position
 00:27:22:9A:69:EB,"Glocksee,Regiobus"
 00:3A:9A:26:51:51,"Göttingen,ICE Tz Freilassing 85"
 00:3A:9A:48:F9:40,"KVV811,KVV904,Karlsruhe Hbf"
+00:4E:35:AD:EF:50,Position
+00:4E:35:AD:EF:51,Position
 00:90:7F:B3:5E:C3,"RegioBus Wunstorf"
 00:90:7F:B3:61:2A,"RegioBus Wunstorf"
 00:90:7F:B3:61:2B,"RegioBus Wunstorf"
@@ -444,6 +447,7 @@ bssid,possible_assignments
 00:A0:57:24:28:69,Glocksee
 00:A0:57:24:DF:02,Glocksee
 00:A0:57:24:DF:A6,Glocksee
+00:A0:57:24:FB:AA,Position
 00:A0:57:2A:D0:66,Doehren
 00:A0:57:2A:D0:83,Doehren
 00:A0:57:2A:DC:BB,"Bhf Doehren"
@@ -457,6 +461,7 @@ bssid,possible_assignments
 00:A0:57:35:CD:73,"Üstra Zentrale"
 00:A0:57:37:DF:AB,Göttingen
 00:A0:57:37:E0:2B,Göttingen
+00:A0:57:37:FE:62,Position
 00:A0:57:3F:DB:91,"Hannover Hbf,ICE Tz 9002"
 00:A0:57:40:30:09,Glocksee
 00:A3:8E:26:B4:F0,"DB Regio,Hannover Hbf"
@@ -624,12 +629,16 @@ bssid,possible_assignments
 02:A0:57:35:C8:BD,"Üstra Zentrale"
 02:A0:57:35:CD:73,"Üstra Zentrale"
 02:A0:57:37:E0:2B,Göttingen
+02:A0:57:37:FE:62,Position
 02:A0:57:40:30:09,Glocksee
 04:35:3B:C3:AB:7F,Glocksee
 04:53:7C:2D:16:37,Glocksee
 04:53:7C:93:8B:6A,Glocksee
+04:A2:22:36:47:AA,Position
+04:A2:22:36:47:AD,Position
 04:A2:22:4A:63:80,"3045,3068,Appelstraße"
 04:A2:22:4A:63:83,"3045,3068,Appelstraße"
+04:BF:6D:4C:FA:2E,Position
 04:F0:21:21:8C:CC,"Bahnhof Fulda,WestBahn"
 04:F0:21:27:24:94,"Irgendein Fahrzeug in Lübeck"
 04:F0:21:27:24:9A,"Irgendein Fahrzeug in Lübeck"
@@ -770,6 +779,10 @@ bssid,possible_assignments
 06:A0:57:3F:DB:91,"Hannover Hbf,ICE Tz 9002"
 06:A0:57:40:25:88,"Hannover Hbf,ICE Tz 9002"
 06:A0:57:40:30:09,Glocksee
+06:A2:22:36:47:AA,Position
+06:A2:22:36:47:AB,Position
+06:A2:22:36:47:AC,Position
+06:A2:22:36:47:AD,Position
 06:A2:22:4A:63:80,"3045,3068,Appelstraße"
 06:A2:22:4A:63:81,"3045,3068,Appelstraße"
 06:A2:22:4A:63:82,"3045,3068,Appelstraße"
@@ -803,6 +816,10 @@ bssid,possible_assignments
 0A:A0:57:40:30:09,Glocksee
 0C:80:63:41:F6:88,Glocksee
 0E:2F:B0:88:6E:D4,Glocksee
+0E:8E:29:50:72:DE,Position
+0E:8E:29:50:72:DF,Position
+0E:8E:29:50:72:E0,Position
+0E:8E:29:50:72:E1,Position
 0E:8E:5B:E7:51:00,"...,DB Regio,Mannheim Hbf,S-Bahn RheinNeckar"
 0E:90:E8:36:F5:A3,"Enno 108"
 0E:90:E8:36:F5:F2,"Enno 108,Enno 124"
@@ -922,6 +939,7 @@ bssid,possible_assignments
 2C:5A:0F:3D:85:70,"Hannover Hbf,Zug"
 2E:3A:FD:9D:80:F8,"3022,3145"
 2E:3A:FD:C9:BB:16,"2511,2513,8323,Haltenhoff"
+30:D3:2D:EB:65:30,Position
 34:1F:E4:DD:BF:43,Glocksee
 34:31:C4:9E:9E:20,"3022,3145"
 34:31:C4:FA:21:31,Glocksee
@@ -937,6 +955,7 @@ bssid,possible_assignments
 38:0E:4D:B9:8D:31,"Hannover Hbf,ICE Tz9007,Tz1174"
 38:0E:4D:F7:A8:83,"KVV811,KVV904,Karlsruhe Hbf"
 38:0E:4D:F7:A8:8F,"KVV811,KVV904,Karlsruhe Hbf"
+38:10:D5:3C:C0:31,Position
 38:10:D5:DA:16:F1,Glocksee
 38:10:D5:DA:16:F2,Glocksee
 38:1C:1A:3E:13:EE,"ICE Tz 1158,Kassel-Wilhelmshöhe"
@@ -968,6 +987,7 @@ bssid,possible_assignments
 40:01:7A:83:7C:10,"Hannover Hbf,Zug"
 40:B0:34:D8:02:06,"2578,2586"
 44:4E:6D:00:A1:7E,"3022,3145"
+44:4E:6D:01:FE:12,Position
 44:4E:6D:26:54:E8,Glocksee
 44:4E:6D:50:19:4B,Glocksee
 44:4E:6D:52:77:8F,Glocksee
@@ -975,16 +995,26 @@ bssid,possible_assignments
 44:4E:6D:97:7F:72,8315
 44:4E:6D:EB:6F:10,Glocksee
 44:D9:E7:FA:9D:23,Göttingen
+44:FE:3B:F1:C4:D4,Position
+44:FE:3B:F1:C4:D7,Position
 46:4E:6D:50:19:4B,Glocksee
 46:67:51:48:4B:17,Glocksee
 46:67:51:B7:78:75,Glocksee
 46:D9:E7:FB:9D:23,Göttingen
+46:FE:3B:F1:C4:D4,Position
 48:BA:4E:A3:6B:1F,Glocksee
 4A:67:51:48:4B:17,Glocksee
 4A:67:51:B7:78:75,Glocksee
 4C:09:D4:C2:B1:B6,Glocksee
 4C:09:D4:C2:B1:B7,Glocksee
 4C:12:65:F4:76:3C,Glocksee
+4C:1B:86:8A:2A:65,Position
+4C:1B:86:8A:F2:0F,Position
+4C:1B:86:8A:F2:11,Position
+4C:1B:86:8A:F2:12,Position
+4E:1B:86:8A:F2:0F,Position
+4E:1B:86:8A:F2:10,Position
+4E:1B:86:8A:F2:11,Position
 4E:1D:41:A2:FE:59,"ICE Tz 104 ""Fulda"" FS"
 50:D4:F7:89:7E:60,"Leibniz Universität ohne Bahn"
 50:D4:F7:D8:EE:7E,"ICE Tz Freilassing 85"
@@ -1013,7 +1043,10 @@ bssid,possible_assignments
 5C:83:8F:BF:C5:E4,"Leibniz Universität"
 5C:83:8F:BF:C5:ED,"Leibniz Universität"
 5C:83:8F:BF:C5:EE,"Leibniz Universität"
+60:E3:27:C8:79:59,Position
 60:E3:27:CE:E4:1C,"Glocksee,Regiobus"
+64:CC:22:2F:CD:1C,Position
+64:CC:22:2F:CD:20,Position
 64:CC:22:61:89:EA,Glocksee
 64:E9:50:11:B3:81,"Hannover Hbf,Zug"
 64:E9:50:7C:00:E0,"...,DB Regio,Mannheim Hbf,S-Bahn RheinNeckar"
@@ -1143,6 +1176,7 @@ bssid,possible_assignments
 70:B3:17:94:FD:6F,"Hannover Hbf,ICE Tz 9002"
 70:DB:98:2C:E6:70,"DB Regio,Hannover Hbf"
 72:4F:57:15:5C:A4,"Betriebshof Glocksee,Glocksee"
+74:31:70:01:E3:9D,Position
 74:31:70:B5:36:78,Glocksee
 74:4D:28:22:8E:B0,"Bus Göttingen?"
 74:4D:28:22:B2:3C,"Bus Göttingen?"
@@ -1156,6 +1190,13 @@ bssid,possible_assignments
 76:4F:57:95:A4:7D,Glocksee
 76:83:C2:34:8B:96,Glocksee
 78:44:FD:40:BA:D7,Glocksee
+78:94:B4:34:AF:92,Position
+78:DD:12:85:F2:DA,Position
+78:DD:12:85:F2:DD,Position
+7A:DD:12:85:F2:DA,Position
+7A:DD:12:85:F2:DB,Position
+7A:DD:12:85:F2:DC,Position
+7A:DD:12:85:F2:DD,Position
 7C:8B:CA:9E:4F:C2,Glocksee
 7C:DB:98:C4:40:81,Glocksee
 7C:DB:98:C4:40:84,Glocksee
@@ -1202,6 +1243,7 @@ bssid,possible_assignments
 86:5C:44:DA:A1:2E,"3022,3145"
 88:03:55:40:D6:54,"3022,3145"
 88:5B:DD:17:9A:D4,"Wo kommt der denn her? Im Tunnel der Üstra Gleis 5/6 b. Kröpcke"
+88:71:B1:83:79:2A,Position
 88:71:B1:99:48:F6,Glocksee
 88:EF:16:12:7A:7B,Glocksee
 88:EF:16:12:7A:7C,"Glocksee,Regiobus"
@@ -1218,18 +1260,26 @@ bssid,possible_assignments
 94:4A:0C:B3:3D:BE,"""61 80 20-91 321-5"",Tz 1127"
 94:4A:0C:E4:F3:2C,Glocksee
 94:57:A5:A0:4C:1B,"2511,2513,8323,Haltenhoff"
+94:6A:B0:AD:B0:2D,Position
+94:6A:B0:AD:B0:30,Position
 94:87:7C:9B:FF:60,Glocksee
 94:87:7C:A1:46:C0,Glocksee
 94:87:7C:A4:03:E0,Glocksee
 94:87:7C:A6:FE:30,"Glocksee,Regiobus"
 94:87:7C:A8:48:90,Glocksee
+96:6A:B0:AD:B0:2D,Position
+96:6A:B0:AD:B0:2E,Position
+96:6A:B0:AD:B0:2F,Position
+96:6A:B0:AD:B0:30,Position
 98:9B:CB:26:33:AE,8315
 98:9B:CB:31:7F:78,Glocksee
 98:9B:CB:9F:BB:B6,"""61 80 20-91 321-5"",Tz 1127"
 98:DE:D0:4B:F6:DE,"""61 80 20-91 321-5"",Tz 1127"
+9A:0E:14:49:7F:77,Position
 9A:8A:20:5B:2E:3A,"KVV Bus 732?"
 9A:B8:BA:26:8D:24,Glocksee
 9C:2A:70:67:B0:25,Glocksee
+9C:7B:EF:00:B3:79,Position
 9C:80:DF:10:91:F0,Glocksee
 9C:8C:D8:92:77:10,"KVV340,Stationär Kronenplatz Karlsruhe"
 9C:8C:D8:93:F0:60,"KVV340,Stationär Kronenplatz Karlsruhe"
@@ -1262,6 +1312,8 @@ A8:9D:21:83:12:60,"Leibniz Universität"
 A8:9D:21:83:12:61,"Leibniz Universität"
 A8:9D:21:83:12:62,"Leibniz Universität"
 A8:9D:21:83:12:64,"Leibniz Universität"
+A8:F5:DD:CF:ED:9F,Position
+A8:F5:DD:CF:ED:A0,Position
 AC:22:05:17:1C:08,"2578,2586"
 AC:22:05:86:4F:15,"2578,2586"
 AC:22:05:B4:A2:04,8315
@@ -1278,6 +1330,7 @@ B0:26:80:DD:92:B0,"648 343/xxx,648 352/852,648 835/335,648 843/343,648 956/456,6
 B0:26:80:DD:92:F0,"648 352/852,648 835/335,648 843/343,648 956/456,648 965/xxx,648 xxx"
 B2:00:73:0E:A9:9A,Glocksee
 B2:00:73:1E:A9:9A,Glocksee
+B2:28:6D:60:5A:F6,Position
 B2:FC:0D:BC:35:6F,Glocksee
 B4:E9:B0:E4:16:41,"""61 80 20-91 321-5"",Tz 1127"
 B4:E9:B0:E4:16:42,"""61 80 20-91 321-5"",Tz 1127"
@@ -1310,20 +1363,31 @@ C8:0C:C8:9C:1C:15,Glocksee
 C8:0C:C8:9C:1C:16,"Glocksee,Regiobus"
 C8:0E:14:06:B0:4F,Glocksee
 C8:0E:14:06:B0:50,Glocksee
+C8:0E:14:49:7F:78,Position
 C8:0E:14:6F:4E:4F,Glocksee
+C8:0E:14:81:15:71,Position
+C8:0E:14:81:15:72,Position
+C8:0E:14:82:71:FF,Position
 C8:0E:14:98:CB:59,Glocksee
 C8:0E:14:A3:94:76,"2578,2586"
 C8:0E:14:A3:94:77,"2578,2586"
+C8:0E:14:A6:12:09,Position
+C8:0E:14:A6:12:0A,Position
+C8:0E:14:BD:93:67,Position
 C8:0E:14:C1:16:6A,Glocksee
 C8:B5:AD:25:C0:20,"KVV340,Stationär Kronenplatz Karlsruhe"
 CA:0E:14:6F:4E:4F,Glocksee
 CA:0E:14:6F:4E:50,Glocksee
 CA:0E:14:A3:94:77,"2578,2586"
+CC:2D:E0:32:73:2E,Position
 CC:32:E5:BF:8B:F6,Glocksee
 CC:CE:1E:19:F8:24,Glocksee
 CC:CE:1E:5B:EE:F8,Glocksee
 CC:CE:1E:91:6B:4C,Glocksee
 CC:CE:1E:91:6B:4D,Glocksee
+CC:CE:1E:A2:B6:56,Position
+CC:CE:1E:B1:73:01,Position
+CC:CE:1E:B1:73:02,Position
 CC:CE:1E:B4:C6:93,Glocksee
 CC:CE:1E:C1:40:33,Glocksee
 CE:50:E3:0B:6A:83,"ICE Tz 104 ""Fulda"" FS"
@@ -1337,12 +1401,17 @@ D4:60:E3:B2:F8:44,"Glocksee,Regiobus"
 D4:60:E3:B2:F8:46,Glocksee
 D4:63:FE:41:40:8C,Glocksee
 D4:CA:6E:22:0D:76,Glocksee
+D8:D7:75:69:C0:ED,Position
+D8:D7:75:69:C0:EE,Position
+DC:39:6F:58:D2:6E,Position
+DC:39:6F:58:D2:6F,Position
 DC:39:6F:5A:8E:D2,"ICE Tz Freilassing 85"
 DC:39:6F:5A:8E:D3,"ICE Tz Freilassing 85"
 DC:39:6F:CA:B9:C8,"2578,2586"
 DC:39:6F:CA:B9:C9,"2578,2586"
 DC:53:7C:0E:F8:7F,8315
 DC:53:7C:2D:16:35,Glocksee
+DC:53:7C:68:AC:EE,Position
 DC:8C:37:27:06:CE,"Karlsruhe Hbf"
 DC:8C:37:27:06:CF,"Karlsruhe Hbf"
 DC:8C:37:27:08:C0,"Karlsruhe Hbf"
@@ -1386,9 +1455,12 @@ DC:8C:37:F9:C1:6F,"KVV811,KVV904,Karlsruhe Hbf"
 DC:8C:37:F9:C1:8E,"KVV811,KVV904,Karlsruhe Hbf"
 DC:8C:37:F9:C1:8F,"KVV811,KVV904,Karlsruhe Hbf"
 DC:8C:37:F9:C2:22,"KVV811,KVV904,Karlsruhe Hbf"
+DE:39:6F:58:D2:6E,Position
+DE:39:6F:58:D2:6F,Position
 DE:39:6F:5A:8E:D3,"ICE Tz Freilassing 85"
 E0:28:6D:3F:EA:90,"2511,2513,8323,Haltenhoff"
 E0:28:6D:41:62:88,8315
+E0:28:6D:60:5A:F6,Position
 E0:28:6D:79:2D:59,"2578,2586"
 E0:28:6D:FB:CB:D2,"Glocksee,Regiobus"
 E0:51:63:0E:3D:E5,83KEEP
@@ -1421,10 +1493,13 @@ E8:D8:D1:0B:22:35,83KEEP
 E8:DE:27:DA:EC:F0,Glocksee
 E8:DF:70:06:32:58,Glocksee
 E8:DF:70:CE:0D:B8,Glocksee
+E8:DF:70:D7:D2:7F,Position
+E8:DF:70:D7:D2:80,Position
 E8:DF:70:E4:6D:A3,Glocksee
 E8:DF:70:E8:46:19,"2578,2586"
 E8:DF:70:E8:60:A0,"""61 80 20-91 321-5"",Tz 1127"
-EA:DF:70:D7:D2:80,"2047,2526,2537"
+EA:DF:70:D7:D2:7F,Position
+EA:DF:70:D7:D2:80,"2047,2526,2537,Position"
 EC:08:6B:83:89:C8,"Leibniz Universität ohne Bahn"
 EC:BD:1D:41:9E:0B,"Leibniz Universität"
 EC:BD:1D:41:9E:0D,"Leibniz Universität"
@@ -1461,4 +1536,6 @@ F8:0F:6F:D9:6D:21,"Hannover Hbf"
 F8:2D:C0:27:83:69,"""61 80 20-91 321-5"",Tz 1127"
 FA:8F:CA:88:CC:E0,"2511,2513,8323,Haltenhoff"
 FC:EC:DA:3C:21:D5,"KVV811,KVV904,Karlsruhe Hbf"
+FC:EC:DA:A7:ED:D9,Position
+FC:EC:DA:A8:ED:D9,Position
 FE:EC:DA:3B:1F:83,"KVV811,KVV904,Karlsruhe Hbf"
