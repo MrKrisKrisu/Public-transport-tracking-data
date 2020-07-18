@@ -156,8 +156,8 @@ bssid,possible_assignments
 00:1A:DD:26:3B:51,7942
 00:1A:DD:26:43:C1,"74xx,84(2/3)x"
 00:1A:DD:26:43:D1,"74xx,84(2/3)x"
-00:1A:DD:26:46:41,8439
-00:1A:DD:26:46:51,8439
+00:1A:DD:26:4A:41,"3019,3089,7401,8311,8329,8424"
+00:1A:DD:26:4A:51,"3019,3089,7401,8311,8329,8424"
 00:1A:DD:26:51:81,"3xx,76xx,7936,PeinerStr"
 00:1A:DD:26:51:91,"3xx,76xx,7936,PeinerStr"
 00:1A:DD:26:52:41,"2511,2513,8323,Haltenhoff"
@@ -166,8 +166,8 @@ bssid,possible_assignments
 00:1A:DD:26:54:51,"2542,2565,8316"
 00:1A:DD:26:62:E1,8429
 00:1A:DD:26:62:F1,8429
-00:1A:DD:26:6A:01,"3046,3102,3109,79xx"
-00:1A:DD:26:6A:11,"3046,3102,3109"
+00:1A:DD:26:6A:01,"7939,79xx"
+00:1A:DD:26:6A:11,"7414,7417,7939"
 00:1A:DD:26:72:21,"7922,8319"
 00:1A:DD:26:72:31,"7922,8319"
 00:1A:DD:26:72:E1,"2029,2032,2531,2539,2541,2593,7423,79x4"
@@ -195,7 +195,6 @@ bssid,possible_assignments
 00:1A:DD:26:98:41,7912
 00:1A:DD:26:98:51,"3024,3085,7912,79xx,8425,8437,anderes"
 00:1A:DD:26:99:31,7935
-00:1A:DD:26:9A:01,"3102,3108,3113,7404,8333"
 00:1A:DD:26:9A:11,8333
 00:1A:DD:26:9A:61,8xxx
 00:1A:DD:26:9A:71,8xxx
@@ -225,7 +224,6 @@ bssid,possible_assignments
 00:1A:DD:28:A8:E1,8416
 00:1A:DD:28:AB:E1,"7920,840(6/8),84xx"
 00:1A:DD:28:AB:F1,"7920,840(6/8),84xx"
-00:1A:DD:28:AC:A1,"3016,3053,3056,3106,3133"
 00:1A:DD:28:AC:B1,"3056,3106"
 00:1A:DD:28:AD:61,8325
 00:1A:DD:28:AD:E1,8436
@@ -233,13 +231,11 @@ bssid,possible_assignments
 00:1A:DD:28:B0:11,"2503,2506,2547,2553,7901,7937,8314,8318,RH471,RH846"
 00:1A:DD:28:B3:21,"7914?,7944,7948,794x"
 00:1A:DD:28:B3:31,"7914?,794x"
-00:1A:DD:28:B5:21,"7402,8437,8438"
-00:1A:DD:28:B5:31,"7402,8437,8438"
 00:1A:DD:28:B5:81,"8427,Buchholz,anderes"
 00:1A:DD:28:B5:91,"8427,Buchholz,anderes"
 00:1A:DD:28:BB:01,7909
 00:1A:DD:28:BB:11,7909
-00:1A:DD:28:BB:B1,8315
+00:1A:DD:28:BB:A1,8315
 00:1A:DD:28:BB:C1,"8324,H AL 2315 Grund Lehrte"
 00:1A:DD:28:BB:D1,"8324,H AL 2315 Grund Lehrte"
 00:1A:DD:28:BC:11,"2547,2553,3146,7905,7947"
@@ -255,7 +251,6 @@ bssid,possible_assignments
 00:1A:DD:28:C7:51,"Bus,aber nicht üstra?"
 00:1A:DD:28:C7:81,"2xxx,7916,8413,PeinerStrasse"
 00:1A:DD:28:C7:91,"2xxx,7916,8413,PeinerStrasse"
-00:1A:DD:28:C8:F1,"3075,3085,3092,8328,8419,H DA 1073"
 00:1A:DD:28:CC:A1,"3040,3095,3122,8409"
 00:1A:DD:28:CC:B1,8409
 00:1A:DD:39:25:08,3058
@@ -265,7 +260,7 @@ bssid,possible_assignments
 00:1A:DD:42:8C:51,"3076,3105,3142,3xxx"
 00:1A:DD:42:8F:91,"3016,3107,3121"
 00:1A:DD:42:93:C1,"3072,3111"
-00:1A:DD:42:96:A1,"3129,3138,Bhf Doehren"
+00:1A:DD:42:96:A1,"3129,3138"
 00:1A:DD:42:B4:11,"3127,EZW"
 00:1A:DD:42:B6:81,"3059,3090,3137,3146,3147"
 00:1A:DD:42:B6:D1,"3018,3071,3083,3123"
@@ -275,9 +270,7 @@ bssid,possible_assignments
 00:1A:DD:58:C8:D1,"2039,2528,2587,2589"
 00:1A:DD:58:C9:21,"2560,2590"
 00:1A:DD:58:C9:31,"2560,2590"
-00:1A:DD:58:C9:61,"3015,3068,3078,3120,3133"
-00:1A:DD:58:C9:71,8423
-00:1A:DD:58:C9:E1,"2538,2588,2594"
+00:1A:DD:58:C9:71,"3015,3132,8423"
 00:1A:DD:58:C9:F1,2538
 00:1A:DD:58:CA:61,"2517,2583,2596"
 00:1A:DD:58:CA:71,"2583,2596"
@@ -294,7 +287,7 @@ bssid,possible_assignments
 00:1A:DD:58:CC:F1,"2047,2557,2576"
 00:1A:DD:58:CD:01,"3007,3075"
 00:1A:DD:58:CD:11,3007
-00:1A:DD:58:CE:81,"2043,2526,2537,3117,3128,3145"
+00:1A:DD:58:CE:81,"2526,2537"
 00:1A:DD:58:CE:91,"2526,2537"
 00:1A:DD:58:CF:01,"2039,2524,2575,3058,3118"
 00:1A:DD:58:CF:61,"3076,3120,3133,3xxx"
@@ -303,7 +296,6 @@ bssid,possible_assignments
 00:1A:DD:58:D1:21,"2547,2553"
 00:1A:DD:58:D1:31,"2547,2553"
 00:1A:DD:58:D1:B1,"3013,3048,3149,7947,8306,8307,8335,8337,Misburger Str,Misburger Str."
-00:1A:DD:58:D2:81,"2012,2013,2505,2508"
 00:1A:DD:58:D2:91,"2012,2013"
 00:1A:DD:58:D3:31,"2568,2587"
 00:1A:DD:58:D3:D1,"2531,2593,25xx"
@@ -649,10 +641,9 @@ bssid,possible_assignments
 04:F0:21:56:09:0A,"Hannover Hbf,Westfalenbahn ET 609"
 04:F0:21:56:09:3B,"Hannover Hbf,Westfalenbahn ET 609"
 04:F0:21:56:0F:DE,"RH595,RH760"
-04:F0:21:56:0F:E0,"RH310,RH730"
+04:F0:21:56:0F:E0,"RH310,RH337,RH477,RH715,RH730,RHxxx"
 04:F0:21:56:0F:E6,"RH352,RH465,RH885"
 04:F0:21:56:0F:EE,"RH 381"
-04:F0:21:56:0F:EF,"7950,HRH704,HRH809"
 04:F0:21:56:0F:F0,"384,492,Regiobus RH 305"
 04:F0:21:56:0F:F3,"H RH 380"
 04:F0:21:56:0F:FB,"H RH 760"
@@ -736,6 +727,7 @@ bssid,possible_assignments
 0A:90:E8:30:DF:7C,"Enno 108,Enno 124"
 0A:90:E8:45:41:E6,"Enno 84 80 1440 123-6,Enno xxx"
 0A:90:E8:45:41:EA,"94 80 1440 111-1"
+0A:90:E8:45:41:F0,Enno
 0A:90:E8:45:41:FB,Enno
 0A:90:E8:45:42:01,"Enno 111,Enno 121"
 0A:90:E8:45:42:07,"Enno 108,Enno 124"
@@ -753,6 +745,8 @@ bssid,possible_assignments
 0E:90:E8:40:21:94,"Enno 107,Enno 124"
 0E:90:E8:40:84:AB,"Enno 108,Enno 124"
 0E:90:E8:40:DE:AF,"Enno 111,Enno 121"
+0E:90:E8:40:DE:B3,"Enno 119,und weitere Ennos"
+0E:90:E8:40:DE:BF,"Enno 119,und weitere Ennos"
 0E:90:E8:40:DE:C6,"Enno 108,Enno 124"
 0E:90:E8:4F:16:71,"Enno 84 80 1440 123-6,Enno xxx"
 0E:90:E8:4F:2F:D9,"Enno 108,Enno 124"
@@ -853,6 +847,36 @@ bssid,possible_assignments
 38:1C:1A:3E:13:EE,"ICE Tz 1158,Kassel-Wilhelmshöhe"
 38:3F:B3:0A:AB:30,8315
 38:43:7D:0E:0F:4B,Glocksee
+3C:5E:C3:60:82:82,"Hannover Pferdeturm (DB)"
+3C:5E:C3:60:82:84,"Hannover Pferdeturm (DB)"
+3C:5E:C3:60:82:86,"Hannover Pferdeturm (DB)"
+3C:5E:C3:60:82:87,"Hannover Pferdeturm (DB)"
+3C:5E:C3:60:82:88,"Hannover Pferdeturm (DB)"
+3C:5E:C3:60:82:89,"Hannover Pferdeturm (DB)"
+3C:5E:C3:60:82:8B,"Hannover Pferdeturm (DB)"
+3C:5E:C3:60:82:8D,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:20:66,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:20:67,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:20:6B,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:20:6D,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:20:C6,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:20:C7,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:20:CB,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:20:CD,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:22:C2,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:22:C4,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:22:C6,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:22:C7,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:22:C8,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:22:C9,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:22:CB,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:22:CD,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:34:C6,"Hannover Pferdeturm (DB)"
+3C:5E:C3:61:34:C7,"Hannover Pferdeturm (DB)"
+3C:5E:C3:73:91:C6,"Hannover Pferdeturm (DB)"
+3C:5E:C3:73:91:C7,"Hannover Pferdeturm (DB)"
+3C:5E:C3:73:91:CB,"Hannover Pferdeturm (DB)"
+3C:5E:C3:73:91:CD,"Hannover Pferdeturm (DB)"
 3C:67:8C:7C:E8:B5,"Glocksee,Regiobus"
 40:01:7A:01:19:F0,"DB Regio Taufname Walkenried,Göttingen"
 40:01:7A:02:9C:60,"648456/956,Dosto mit Taufname Ostholstein,Lübeck Hbf"
@@ -1038,6 +1062,10 @@ bssid,possible_assignments
 86:5C:44:DA:A1:2E,"3022,3145"
 88:03:55:40:D6:54,"3022,3145"
 88:5B:DD:17:9A:D4,"Wo kommt der denn her? Im Tunnel der Üstra Gleis 5/6 b. Kröpcke"
+88:90:8D:67:E4:81,"Hannover Pferdeturm (DB)"
+88:90:8D:67:E4:82,"Hannover Pferdeturm (DB)"
+88:90:8D:67:F1:01,"Hannover Pferdeturm (DB)"
+88:90:8D:67:F1:0F,"Hannover Pferdeturm (DB)"
 88:EF:16:12:7A:7C,"Glocksee,Regiobus"
 8A:5C:44:79:FB:90,Glocksee
 8A:8A:20:5B:2E:3A,"KVV Bus 732?"
@@ -1094,7 +1122,6 @@ B0:26:80:98:37:10,"648 846/346,648 853/xxx"
 B0:26:80:98:37:40,"648 846/346,648 853/xxx"
 B0:26:80:DD:67:C0,"648352/852,648835/335,648843/343,648956/456,648965/xxx,648xxx,Dosto Regio Taufname Scharbeutz,ICE Taufname Tutzing,Lübeck Hbf"
 B0:26:80:DD:68:60,"648352/852,648835/335,648843/343,648956/456,648965/xxx,648xxx,Dosto Regio Taufname Scharbeutz,ICE Taufname Tutzing,Lübeck Hbf"
-B0:26:80:DD:92:B0,"648 343/xxx,648 352/852,648 835/335,648 843/343,648 956/456,648 965/xxx,648 xxx,Lüneburg Bahnhof"
 B0:26:80:DD:92:F0,"648 352/852,648 835/335,648 843/343,648 956/456,648 965/xxx,648 xxx"
 B2:00:73:0E:A9:9A,Glocksee
 B2:00:73:1E:A9:9A,Glocksee
