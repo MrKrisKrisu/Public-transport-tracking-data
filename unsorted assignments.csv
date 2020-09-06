@@ -61,6 +61,7 @@ bssid,possible_assignments
 00:0E:8E:6E:2A:C4,"ICE Tz 73"
 00:0E:8E:6E:2B:AB,"Hannover Hbf,ICE Tz 210 Fontaneatatt Neuruppin,ICE Tz Essen"
 00:0E:8E:6E:2C:57,"Hannover Hbf,Tz 225"
+00:0E:8E:6E:40:A8,"ICE auf freier Strecke"
 00:0E:8E:6E:40:C2,"Hannover Hbf,Tz 1156,Tz 1160"
 00:0E:8E:6E:40:CF,"Dosto mit Taufname Ostholstein,ICE Taufname Tutzing,Lübeck Hbf"
 00:0E:8E:6E:42:51,"""61 80 20-91 321-5"",Tz 1127"
@@ -80,6 +81,7 @@ bssid,possible_assignments
 00:0E:8E:6E:46:47,"Hannover Hbf,ICE Tz 56,ICE Tz 9036,ICE Tz Bingen am Rhein 1166,ICE Tz Erfurt 1104,ICE Tz Neu-Isenburg 03"
 00:0E:8E:6E:46:56,"ICE Tz Ellwangen 1168,Lüneburg Bahnhof"
 00:0E:8E:6E:46:61,"Hannover Hbf,Tz 225"
+00:0E:8E:6E:46:64,"ICE auf freier Strecke"
 00:0E:8E:6E:46:78,"ICE Tz Ellwangen,Lüneburg Bahnhof"
 00:0E:8E:6E:46:7A,"ICE Tz9007,Tz1174"
 00:0E:8E:6E:46:80,"ICE Tz Geisenheim Rheingau"
@@ -90,6 +92,7 @@ bssid,possible_assignments
 00:0E:8E:6E:46:9C,"ICE Tz1502,Tz1522"
 00:0E:8E:6E:46:AB,"ICE Tz 243,Tz 219"
 00:0E:8E:6E:46:B7,"Dosto mit Taufname Ostholstein,ICE Taufname Tutzing,Lübeck Hbf"
+00:0E:8E:6E:46:BF,"Hannover Hbf,IC 2 Tz 2874 Oberer Necksr,IC2 Tz 2870,ICE Tz 201 Rheinsberg,ICE Tz 208 Bonn,ICE Tz Oldenburg,ICE Tz Uelzen"
 00:0E:8E:6E:46:C0,"ICE Tz 243,Tz 219"
 00:0E:8E:6E:46:C3,"Dosto mit Taufname Ostholstein,ICE Taufname Tutzing,Lübeck Hbf"
 00:0E:8E:6E:46:E5,"Hannover Hbf,ICE Tz Mühlhausen Thüringen 1155"
@@ -156,7 +159,9 @@ bssid,possible_assignments
 00:0E:8E:70:04:95,"ICE Tz 165,Tz 65"
 00:0E:8E:70:04:9B,"Hannover Hbf,ICE Tz 1130 Jena"
 00:0E:8E:70:04:A2,"Hannover Hbf,ICE Tz Neu-Isenburg 03"
+00:0E:8E:70:04:A5,"Hannover Hbf,IC 2 Tz 2874 Oberer Necksr,IC2 Tz 2870,ICE Tz 201 Rheinsberg,ICE Tz 208 Bonn,ICE Tz Oldenburg,ICE Tz Uelzen"
 00:0E:8E:70:04:AD,"Hannover Hbf,ICE Tz 1130,ICE Tz 53"
+00:0E:8E:70:04:B2,"ICE auf freier Strecke"
 00:0E:8E:70:04:CD,"Hannover,Tz 210 Neuruppin,Tz 221 Spreewald,Tz 225 Oldenburg,Tz 234 Minden,Tz 9028 Freistaat Sachsen"
 00:0E:8E:70:04:E4,"Hannover Hbf,ICE Tz Neu-Isenburg 03"
 00:0E:8E:70:04:F4,"Hannover Hbf,ICE Tz 234"
@@ -165,6 +170,7 @@ bssid,possible_assignments
 00:0E:8E:70:05:1D,"Hannover Hbf,ICE Tz 1130,ICE Tz 53"
 00:0E:8E:70:05:2B,"Hannover Hbf,ICE Tz 1130,ICE Tz 53"
 "00:0E:8E:70:05:43  ","ICE Tz 165 FS"
+00:0E:8E:70:05:A1,"ICE auf freier Strecke"
 00:0E:8E:70:31:8B,"Hannover Hbf,Tz 225"
 00:0E:8E:70:35:84,"Hannover Hbf,ICE Tz 9036,ICE Tz Erfurt 1104"
 00:0E:8E:70:35:8A,"Hannover Hbf,ICE Tz 9036,ICE Tz Erfurt 1104"
@@ -191,6 +197,7 @@ bssid,possible_assignments
 00:0E:8E:70:A1:86,"Hannover Hbf,ICE Tz 56,ICE Tz 9036,ICE Tz Bingen am Rhein 1166,ICE Tz Erfurt 1104,ICE Tz Neu-Isenburg 03"
 00:0E:8E:70:A4:30,"Hannover Hbf,ICE Tz 1118 PlauenVogtland"
 00:0E:8E:70:A4:32,"Hannover Hbf,ICE Tz 1118 PlauenVogtland"
+00:0E:8E:70:A4:35,"Hannover Hbf,IC 2 Tz 2874 Oberer Necksr,IC2 Tz 2870,ICE Tz 201 Rheinsberg,ICE Tz 208 Bonn,ICE Tz Oldenburg,ICE Tz Uelzen"
 00:0E:8E:70:A4:4C,"Hannover Hbf,ICE Tz 56,ICE Tz 9036,ICE Tz Bingen am Rhein 1166,ICE Tz Erfurt 1104,ICE Tz Neu-Isenburg 03"
 00:0E:8E:70:A8:41,"ICE Tz 1506"
 00:0E:8E:70:A8:88,"ICE Tz 1506"
@@ -248,6 +255,7 @@ bssid,possible_assignments
 00:0E:8E:71:0A:25,"Hannover Hbf,Tz 14,Tz 88"
 00:0E:8E:71:0A:81,"Hannover Hbf,ICE Tz 234"
 00:0E:8E:71:0A:94,"ICE Tz 1506"
+00:0E:8E:71:0A:B7,"ICE auf freier Strecke"
 00:0E:8E:71:0B:BD,"Hannover Hbf,ICE Tz 234"
 00:0E:8E:71:0C:38,"Hannover Hbf,Tz 13,Tz 225,Westfalenbahn ET 610"
 00:0E:8E:71:0C:E8,"ICE Tz 1506"
@@ -262,6 +270,7 @@ bssid,possible_assignments
 00:0E:8E:71:11:27,"Hannover Hbf,ICE Tz 234"
 00:0E:8E:71:11:3C,"DB Regio Dosto,Hannover Hbf,IC2 Dosto,ICE Tz 08 Lichtenfels"
 00:0E:8E:71:11:83,"ICE Tz 243"
+00:0E:8E:71:12:3C,"ICE auf freier Strecke"
 00:0E:8E:72:CB:A7,"ICE Tz 104 ""Fulda"",Kassel-Wilhelmshöhe"
 00:0E:8E:72:CC:08,"ICE Tz 104 ""Fulda"",Kassel-Wilhelmshöhe"
 00:0E:8E:72:D3:97,"ICE Tz 104 ""Fulda"",Kassel-Wilhelmshöhe"
@@ -598,6 +607,7 @@ bssid,possible_assignments
 02:0E:8E:6E:21:AF,"Hannover Hbf,ICE Tz 1118 PlauenVogtland"
 02:0E:8E:6E:23:73,"Hannover Hbf,ICE Tz 73"
 02:0E:8E:6E:24:4C,"Hannover Hbf,ICE Tz 73"
+02:0E:8E:6E:24:E3,"Hannover Hbf,IC 2 Tz 2874 Oberer Necksr,IC2 Tz 2870,ICE Tz 201 Rheinsberg,ICE Tz 208 Bonn,ICE Tz Oldenburg,ICE Tz Uelzen"
 02:0E:8E:6E:24:E5,"Hannover Hbf,ICE Tz 210 Fontaneatatt Neuruppin,ICE Tz Essen"
 02:0E:8E:6E:25:0B,"Hannover Hbf,ICE Tz 210 Fontaneatatt Neuruppin,ICE Tz Essen"
 02:0E:8E:6E:25:8F,"Hannover Hbf,ICE Tz 9036,ICE Tz Erfurt 1104"
@@ -632,6 +642,7 @@ bssid,possible_assignments
 02:0E:8E:6E:46:2C,"Hannover Hbf,ICE Tz9007,Tz1174"
 02:0E:8E:6E:46:47,"Hannover Hbf,ICE Tz 56,ICE Tz 9036,ICE Tz Bingen am Rhein 1166,ICE Tz Erfurt 1104,ICE Tz Neu-Isenburg 03"
 02:0E:8E:6E:46:56,"ICE Tz Ellwangen,Lüneburg Bahnhof"
+02:0E:8E:6E:46:64,"ICE auf freier Strecke"
 02:0E:8E:6E:46:78,"ICE Tz Ellwangen,Lüneburg Bahnhof"
 02:0E:8E:6E:46:7A,"Hannover Hbf,ICE Tz9007,Tz1174"
 02:0E:8E:6E:46:89,"Hannover Hbf,ICE Tz 1118 PlauenVogtland"
@@ -713,6 +724,7 @@ bssid,possible_assignments
 02:0E:8E:70:04:95,"Hannover Hbf,ICE Tz 165"
 02:0E:8E:70:04:9B,"Hannover Hbf,ICE Tz 1130 Jena"
 02:0E:8E:70:04:A2,"Hannover Hbf,ICE Tz Neu-Isenburg 03"
+02:0E:8E:70:04:A5,"Hannover Hbf,IC 2 Tz 2874 Oberer Necksr,IC2 Tz 2870,ICE Tz 201 Rheinsberg,ICE Tz 208 Bonn,ICE Tz Oldenburg,ICE Tz Uelzen"
 02:0E:8E:70:04:AD,"Hannover Hbf,ICE Tz 1130,ICE Tz 53"
 02:0E:8E:70:04:CD,"Hannover,Tz 210 Neuruppin,Tz 221 Spreewald,Tz 225 Oldenburg,Tz 234 Minden,Tz 9028 Freistaat Sachsen"
 02:0E:8E:70:04:E4,"Hannover Hbf,ICE Tz Neu-Isenburg 03"
@@ -723,6 +735,7 @@ bssid,possible_assignments
 02:0E:8E:70:05:1D,"Hannover Hbf,ICE Tz 1130,ICE Tz 53"
 02:0E:8E:70:05:2B,"Hannover Hbf,ICE Tz 1130,ICE Tz 53"
 "02:0E:8E:70:05:43  ","ICE Tz 165 FS"
+02:0E:8E:70:05:A1,"ICE auf freier Strecke"
 02:0E:8E:70:31:8B,"Hannover Hbf,Tz 225"
 02:0E:8E:70:35:84,"Hannover Hbf,ICE Tz 9036,ICE Tz Erfurt 1104"
 02:0E:8E:70:35:8A,"Hannover Hbf,ICE Tz Bingen am Rhein,ICE Tz Erfurt,ICE Tz Neu-Isenburg 03"
@@ -746,6 +759,7 @@ bssid,possible_assignments
 02:0E:8E:70:A1:86,"Hannover Hbf,ICE Tz 56,ICE Tz 9036,ICE Tz Bingen am Rhein 1166,ICE Tz Erfurt 1104,ICE Tz Neu-Isenburg 03"
 02:0E:8E:70:A4:30,"Hannover Hbf,ICE Tz 1118 PlauenVogtland"
 02:0E:8E:70:A4:32,"Hannover Hbf,ICE Tz 1118 PlauenVogtland"
+02:0E:8E:70:A4:35,"Hannover Hbf,IC 2 Tz 2874 Oberer Necksr,IC2 Tz 2870,ICE Tz 201 Rheinsberg,ICE Tz 208 Bonn,ICE Tz Oldenburg,ICE Tz Uelzen"
 02:0E:8E:70:A4:4C,"Hannover Hbf,ICE Tz 56,ICE Tz 9036,ICE Tz Bingen am Rhein 1166,ICE Tz Erfurt 1104,ICE Tz Neu-Isenburg 03"
 02:0E:8E:70:A5:51,"Hannover Hbf,Tz 13,Tz 225,Westfalenbahn ET 610"
 02:0E:8E:70:A8:41,"Hannover Hbf,ICE Tz 1506"
@@ -809,6 +823,7 @@ bssid,possible_assignments
 02:0E:8E:71:0A:81,"Hannover Hbf,ICE Tz 234"
 02:0E:8E:71:0A:94,"Hannover Hbf,ICE Tz 1506"
 02:0E:8E:71:0A:9A,"Hannover Hbf,Tz 13,Tz 225,Westfalenbahn ET 610"
+02:0E:8E:71:0A:B7,"ICE auf freier Strecke"
 02:0E:8E:71:0B:BD,"Hannover Hbf,ICE Tz 234"
 02:0E:8E:71:0C:E8,"Hannover Hbf,ICE Tz 1506"
 02:0E:8E:71:0C:EC,"Hannover Hbf,ICE Tz 1506"
@@ -821,6 +836,7 @@ bssid,possible_assignments
 02:0E:8E:71:11:27,"Hannover Hbf,ICE Tz 234"
 02:0E:8E:71:11:3C,"DB Regio Dosto,Hannover Hbf,IC2 Dosto,ICE Tz 08 Lichtenfels"
 02:0E:8E:71:11:83,"Hannover Hbf,ICE Tz 243"
+02:0E:8E:71:12:3C,"ICE auf freier Strecke"
 02:0E:8E:72:B1:C7,"ICE Tz Altenburg,Kassel Wilhelmshöhe"
 02:0E:8E:72:CB:A7,"ICE Tz 104 ""Fulda"",Kassel-Wilhelmshöhe"
 02:0E:8E:72:CC:08,"ICE Tz 104 ""Fulda"",Kassel-Wilhelmshöhe"
@@ -865,6 +881,7 @@ bssid,possible_assignments
 04:F0:21:34:A6:B1,"KVV929,KVV954"
 04:F0:21:34:A6:B2,"KVV929,KVV954"
 04:F0:21:34:B3:99,"KVV811,KVV904,Karlsruhe Hbf"
+04:F0:21:37:06:0A,"Landesbus Niedersachsen GÖ-R 1807"
 04:F0:21:3A:C0:86,"Privates Cargo EVU"
 04:F0:21:3A:C0:8F,"Privates Cargo EVU"
 04:F0:21:41:7F:2B,"Regiobus RH 512"
@@ -1375,22 +1392,13 @@ bssid,possible_assignments
 0E:A0:57:35:C8:BD,"UESTRA Hannover RTLS Zentrale"
 0E:A0:57:35:CD:73,"UESTRA Hannover RTLS Zentrale"
 10:B3:D5:70:88:81,Göttingen
-10:B3:D5:70:88:8F,Göttingen
 10:B3:D5:70:89:4F,"Göttingen,Zug"
-10:B3:D5:71:38:2F,"DB Regio Taufname Walkenried,Göttingen,Zug"
-10:B3:D5:AF:D8:00,Göttingen
-10:B3:D5:AF:D8:01,Göttingen
 10:B3:D5:AF:D8:02,Göttingen
 10:B3:D5:AF:D8:0D,Göttingen
-10:B3:D5:AF:D8:0E,Göttingen
 10:B3:D5:AF:D8:0F,Göttingen
-10:B3:D5:B1:F4:E0,Göttingen
-10:B3:D5:B1:F4:E1,Göttingen
 10:B3:D5:B1:F4:E2,Göttingen
 10:B3:D5:C3:34:A0,Göttingen
 10:B3:D5:C3:34:AD,Göttingen
-10:B3:D5:C3:34:AE,Göttingen
-10:B3:D5:C3:34:AF,Göttingen
 10:B3:D5:D1:3B:C0,"Celle Bahnhof ohne Bahn"
 10:B3:D5:D1:3B:C2,"Celle Bahnhof ohne Bahn"
 10:B3:D5:D1:3D:62,"Celle Bahnhof ohne Bahn"
@@ -1496,10 +1504,12 @@ bssid,possible_assignments
 16:90:E8:4F:BB:CA,"DB Regio Nord Dosto,Enno 111,Enno 121,IC2 Tz 2866"
 16:90:E8:56:82:F4,"DB Regio Dosto,Enno 112,Enno 123,Hannover Hbf"
 18:80:90:06:2D:10,"DB Regio 648 267/767,Göttingen"
+18:80:90:06:2E:C0,"648 774/274,648 777/277,Bahnhof Kreiensen"
 18:80:90:08:C3:F0,"Hannover Hbf,ICE Tz 9002"
 18:80:90:11:F6:50,"DB Regio Dosto mit 50-80 36-75 055-4Enno 109,Enno 112,Hannover Hbf"
 18:80:90:11:F6:80,"DB Regio Dosto,Enno 106,Enno 109,Hannover Hbf"
 18:80:90:14:C8:C0,"DB Regio 648 267/767,Göttingen"
+18:80:90:14:CA:70,"648 774/274,648 777/277,Bahnhof Kreiensen"
 18:80:90:14:F0:D0,"50 80 26 81358-6,50 80 26-75 043-2,50 80 26-75 100-0,50 80 26-75 104-2,50 80 26-75 169-5,50 80 86-75 xx,DB Regio Dosto mit 50-80 36-75 055-4,Enno 109,Enno 112,Hannover Hbf,IC2 Dosto 2867"
 18:80:90:24:F0:E0,"50 80 26-75 091-1,50 80 26-75 149-7,50 80 36-75 049-7,DB Regio Dosto,Hannover Hbf,andere Dostos"
 18:80:90:25:1F:D0,"50 80 26-75 091-1,50 80 26-75 149-7,50 80 36-75 049-7,DB Regio Dosto,Hannover Hbf"
@@ -1648,7 +1658,6 @@ bssid,possible_assignments
 38:20:56:88:EB:B2,"Hannover Hbf,ICE Tz 1118 PlauenVogtland"
 38:20:56:88:EB:B3,"Hannover Hbf,ICE Tz 1118 PlauenVogtland"
 3C:51:0E:36:56:81,Göttingen
-3C:51:0E:36:56:82,Göttingen
 3C:51:0E:36:56:83,Göttingen
 3C:51:0E:36:56:8C,Göttingen
 3C:51:0E:36:56:8D,Göttingen
@@ -1718,12 +1727,8 @@ bssid,possible_assignments
 40:01:7A:7A:D2:BE,"Karlsruhe Hbf"
 40:01:7A:7A:D2:BF,"Karlsruhe Hbf"
 40:01:7A:7B:2B:90,"50 80 26-75 091-1,50 80 26-75 149-7,50 80 36-75 049-7,DB Regio Dosto,Enno 105,Enno 114,Hannover Hbf,ICE Tz Erfurt 1104,Zug,andere Dostos"
-40:01:7A:80:FF:30,"612 101,648 772,Göttingen Bahnhof"
-40:01:7A:82:59:C0,"612 101,648 772,Göttingen Bahnhof"
 40:01:7A:83:7C:10,"Hannover Hbf,Zug"
-40:01:7A:83:89:90,"648 255 Osterode am Harz,Bahnhof Göttingen"
 40:01:7A:8C:99:70,"Göttingen,Zug"
-40:01:7A:8E:44:30,"648 255 Osterode am Harz"
 40:CE:24:89:76:80,"50 80 26 81358-6,50 80 26-75 043-2,50 80 26-75 100-0,50 80 26-75 104-2,50 80 26-75 169-5,50 80 86-75 xx,DB Regio Dosto mit 50-80 36-75 055-4,Enno 109,Enno 112,Hannover Hbf,IC2 Dosto 2867"
 40:CE:24:C4:ED:C0,"50 80 26-75 044-0,50 80 26-75 153-9,50 80 26-75 167-9,50 80 26-81 056-6,50 80 36-75 051-3,DB Regio Dosto FS"
 40:CE:24:C7:81:10,"50 80 26-75 044-0,50 80 26-75 153-9,50 80 26-75 167-9,50 80 26-81 056-6,50 80 36-75 051-3,DB Regio Dosto FS"
@@ -1732,12 +1737,12 @@ bssid,possible_assignments
 40:CE:24:FB:78:40,"DB Regio Dosto mit 50-80 36-75 055-4Enno 109,Enno 112,Hannover Hbf"
 40:CE:24:FB:78:70,"DB Regio Dosto,Enno 106,Enno 109,Hannover Hbf"
 44:4E:6D:EB:6F:10,
-46:D9:E7:FB:9D:23,Göttingen
 46:FE:3B:71:03:19,"Bremen Hbf,DB Regio 50 80 26-81 356-0,DB Regio 50 80 86-75 054-6,und weiter DB Regios"
 46:FE:3B:D3:69:6B,"Hannover Hbf,Tz 9002"
 4E:1D:41:A2:FE:59,"ICE Tz 104 ""Fulda"" FS"
 56:20:47:97:F3:9C,"Enno 106,Enno 109,Hannover Hbf,WFB ET 601"
 5C:49:79:BB:BE:C7,
+64:A6:51:9A:65:1F,"648 255/???,648 272/???,Northeim Bahnhof"
 64:E9:50:7C:00:E0,"...,DB Regio,Mannheim Hbf,S-Bahn RheinNeckar"
 64:E9:50:7C:00:E1,"...,DB Regio,Mannheim Hbf,S-Bahn RheinNeckar"
 66:66:B3:2A:9D:B4,"""61 80 20-91 321-5"",Tz 1127"
@@ -2162,9 +2167,9 @@ DC:8C:37:F9:C1:6F,"KVV811,KVV904,Karlsruhe Hbf"
 DC:8C:37:F9:C1:8E,"KVV811,KVV904,Karlsruhe Hbf"
 DC:8C:37:F9:C1:8F,"KVV811,KVV904,Karlsruhe Hbf"
 DC:8C:37:F9:C2:22,"KVV811,KVV904,Karlsruhe Hbf"
+DE:CB:BC:B7:F9:FE,"Hannover Hbf,IC 2 Tz 2874 Oberer Necksr,IC2 Tz 2870,ICE Tz 201 Rheinsberg,ICE Tz 208 Bonn,ICE Tz Oldenburg,ICE Tz Uelzen"
 E0:CB:BC:B7:F9:FE,"WFB ET 613"
-E2:55:6D:AD:8B:11,"Enno 104,Enno 106,Enno 113,Enno 120,Hannover Hbf,ICE Tz 9007,WFB ET 612"
-E2:55:6D:AD:8B:1F,"Hannover Hbf,WFB ET 602,WFB ET 612"
+E2:55:6D:AD:8B:1F,"Hannover Hbf,IC 2 Tz 2874 Oberer Necksr,IC2 Tz 2870,ICE Tz 201 Rheinsberg,ICE Tz 208 Bonn,ICE Tz Oldenburg,ICE Tz Uelzen,WFB ET 602,WFB ET 612"
 E2:55:7D:AA:81:7F,"Hannover Hbf,Tz9019"
 E4:18:6B:8C:F4:2C,"Bremen Hbf,Zug"
 E4:18:6B:8C:F4:2E,"Bremen Hbf,Zug"
