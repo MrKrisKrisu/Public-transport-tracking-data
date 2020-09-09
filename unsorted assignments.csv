@@ -379,6 +379,7 @@ bssid,possible_assignments
 00:1A:DD:28:A8:E1,8416
 00:1A:DD:28:AB:E1,"7920,840(6/8),84xx"
 00:1A:DD:28:AB:F1,"7920,840(6/8),84xx"
+00:1A:DD:28:AF:A1,8431
 00:1A:DD:28:B0:11,"2503,2506,2547,2553,7901,7937,8314,8318,RH471,RH846"
 00:1A:DD:28:B3:21,"7914?,7944,7948,794x"
 00:1A:DD:28:B3:31,"7914?,794x"
@@ -524,6 +525,7 @@ bssid,possible_assignments
 00:2C:C8:DB:36:E0,"DB Regio Dosto,Enno 106,Enno 109,Hannover Hbf"
 00:2C:C8:E0:BE:C0,"DB Regio Dosto,Enno 105,Hannover Hbf"
 00:2C:C8:EC:B6:E0,"50 80 26-75 091-1,50 80 26-75 149-7,50 80 36-75 049-7,DB Regio Dosto,Hannover Hbf"
+00:30:44:25:B2:2F,"H-MO 564"
 00:3A:9A:26:51:51,"Göttingen,ICE Tz Freilassing 85"
 00:3A:9A:48:F9:40,"KVV811,KVV904,Karlsruhe Hbf"
 00:90:7F:B3:5E:C3,"RegioBus Wunstorf"
