@@ -546,6 +546,8 @@ bssid,possible_assignments
 00:1A:DD:5E:14:D5,"RTLS Leibniz Universität,UESTRA Hannover"
 00:1A:DD:6E:98:61,9502
 00:1A:DD:6E:98:71,9502
+00:1A:DD:6E:B1:61,"74xx,9504"
+00:1A:DD:6E:B1:71,"74xx,9504"
 00:1B:2B:37:AF:EB,"RTLS Leibniz Universität,UESTRA Hannover"
 00:1C:58:AF:7F:B0,"ICE Tz 9002 FS"
 00:24:FE:A2:5C:CA,"3xxx,RTLS Kröpcke"
@@ -1343,7 +1345,7 @@ bssid,possible_assignments
 06:90:E8:77:7C:B0,"Hannover Hbf,IC Tz 7711,IC2 Dosto,ICE Tz 9046"
 06:90:E8:77:7C:B8,"Hannover Hbf,IC Tz 7711,IC2 Dosto,ICE Tz 9046"
 06:90:E8:78:C0:4E,"Hannover Hbf,IC Tz 7711,IC2 Dosto,ICE Tz 9046"
-06:A0:57:16:3B:27,"UESTRA Hannover RTLS Kröpcke"
+06:A0:57:16:3B:27,"Kröpcke,UESTRA Hannover RTLS Kröpcke"
 06:A0:57:22:1B:CE,"UESTRA Hannover RTLS Glocksee"
 06:A0:57:2A:D0:66,"UESTRA Hannover RTLS Döhren"
 06:A0:57:2A:D0:83,"UESTRA Hannover RTLS Döhren"
