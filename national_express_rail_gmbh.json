@@ -12,8 +12,8 @@
                 "D4:F5:27:42:2A:48"
             ],
             "last_position": {
-                "latitude": "52.029361",
-                "longitude": "8.532608",
+                "latitude": 52.029,
+                "longitude": 8.533,
                 "timestamp": "2021-01-02T18:00:00+01:00"
             }
         }

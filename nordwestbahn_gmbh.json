@@ -10,8 +10,8 @@
                 "04:F0:21:31:F9:BB"
             ],
             "last_position": {
-                "latitude": "52.196518",
-                "longitude": "8.714096",
+                "latitude": 52.197,
+                "longitude": 8.714,
                 "timestamp": "2021-01-02T19:00:00+01:00"
             }
         }

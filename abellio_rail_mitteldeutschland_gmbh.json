@@ -11,8 +11,8 @@
                 "04:F0:21:39:01:3D"
             ],
             "last_position": {
-                "latitude": "51.911776",
-                "longitude": "10.421068",
+                "latitude": 51.912,
+                "longitude": 10.421,
                 "timestamp": "2021-04-18T18:00:00+02:00"
             }
         }

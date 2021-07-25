@@ -11,8 +11,8 @@
                 "00:1A:DD:28:79:21"
             ],
             "last_position": {
-                "latitude": "52.378979",
-                "longitude": "9.741042",
+                "latitude": 52.379,
+                "longitude": 9.741,
                 "timestamp": "2021-07-24T15:00:00+02:00"
             }
         }
