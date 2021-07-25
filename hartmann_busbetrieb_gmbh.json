@@ -8,27 +8,47 @@
             "bssid": [
                 "00:1A:DD:26:84:71",
                 "00:1A:DD:26:84:61"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.421073",
+                "longitude": "9.738764",
+                "timestamp": "2021-07-23T14:00:00+02:00"
+            }
         },
         {
             "name": "2134",
             "bssid": [
                 "00:1A:DD:26:37:31"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.308938",
+                "longitude": "9.804993",
+                "timestamp": "2021-07-02T13:00:00+02:00"
+            }
         },
         {
             "name": "2162",
             "bssid": [
                 "00:1A:DD:28:C7:B1",
                 "00:1A:DD:28:C7:A1"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.346071",
+                "longitude": "9.724453",
+                "timestamp": "2021-05-13T19:00:00+02:00"
+            }
         },
         {
             "name": "2175",
             "bssid": [
                 "00:1A:DD:28:B0:31",
                 "00:1A:DD:28:B0:21"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.359013",
+                "longitude": "9.722589",
+                "timestamp": "2021-05-16T19:00:00+02:00"
+            }
         }
     ]
 }

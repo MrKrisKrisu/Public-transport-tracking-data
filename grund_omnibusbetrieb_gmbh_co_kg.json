@@ -8,13 +8,23 @@
             "bssid": [
                 "00:1A:DD:28:BB:D1",
                 "00:1A:DD:28:BB:C1"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.293420",
+                "longitude": "9.826644",
+                "timestamp": "2021-06-02T09:00:00+02:00"
+            }
         },
         {
             "name": "H-AL 8988",
             "bssid": [
                 "00:1A:DD:26:91:C1"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376131",
+                "longitude": "9.733110",
+                "timestamp": "2021-07-24T16:00:00+02:00"
+            }
         }
     ]
 }

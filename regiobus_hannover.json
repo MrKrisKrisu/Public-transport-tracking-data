@@ -5,1117 +5,1486 @@
     "vehicles": [
         {
             "name": "RH 305",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 306",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 308",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 309",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 310",
             "bssid": [
                 "04:F0:21:55:FD:AE"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376650",
+                "longitude": "9.733278",
+                "timestamp": "2021-02-24T14:00:00+01:00"
+            }
         },
         {
             "name": "RH 315",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 316",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 319",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 321",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 322",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 323",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 329",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 331",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 335",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 337",
             "bssid": [
                 "04:F0:21:51:6B:43"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.378264",
+                "longitude": "9.741202",
+                "timestamp": "2021-07-24T15:00:00+02:00"
+            }
         },
         {
             "name": "RH 338",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 345",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 349",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 351",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 352",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 356",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 359",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 361",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 364",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 366",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 367",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 370",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 372",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 374",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 376",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 378",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 380",
             "bssid": [
                 "04:F0:21:56:0F:F3"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.379222",
+                "longitude": "9.743023",
+                "timestamp": "2021-07-13T14:00:00+02:00"
+            }
         },
         {
             "name": "RH 381",
             "bssid": [
                 "04:F0:21:56:0F:EE"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.348189",
+                "longitude": "9.717300",
+                "timestamp": "2021-07-14T22:00:00+02:00"
+            }
         },
         {
             "name": "RH 382",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 383",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 384",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 390",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 392",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 394",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 397",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 398",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 401",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 404",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 407",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 409",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 410",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 417",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 423",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 424",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 426",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 429",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 430",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 431",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 434",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 440",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 441",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 444",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 445",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 446",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 447",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 448",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 449",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 452",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 465",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 466",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 467",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 469",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 470",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 471",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 473",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 474",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 477",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 478",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 479",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 483",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 485",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 486",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 491",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 492",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 493",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 494",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 496",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 498",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 500",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 504",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 505",
             "bssid": [
                 "04:F0:21:55:FD:EA"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376992",
+                "longitude": "9.737341",
+                "timestamp": "2021-07-24T15:00:00+02:00"
+            }
         },
         {
             "name": "RH 509",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 510",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 512",
             "bssid": [
                 "04:F0:21:41:7F:2B"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376919",
+                "longitude": "9.738294",
+                "timestamp": "2021-04-20T16:00:00+02:00"
+            }
         },
         {
             "name": "RH 517",
             "bssid": [
                 "04:F0:21:55:FD:88"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376660",
+                "longitude": "9.733302",
+                "timestamp": "2021-06-17T21:00:00+02:00"
+            }
         },
         {
             "name": "RH 521",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 523",
             "bssid": [
                 "04:F0:21:56:10:01"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.378237",
+                "longitude": "9.741461",
+                "timestamp": "2020-07-21T17:00:00+02:00"
+            }
         },
         {
             "name": "RH 524",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 525",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 529",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 532",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 533",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 536",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 538",
             "bssid": [
                 "04:F0:21:55:FD:6A"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377335",
+                "longitude": "9.740385",
+                "timestamp": "2021-03-19T17:00:00+01:00"
+            }
         },
         {
             "name": "RH 541",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 542",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 544",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 546",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 547",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 550",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 551",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 552",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 554",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 557",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 563",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 564",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 565",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 566",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 568",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 569",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 570",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 572",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 573",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 574",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 580",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 581",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 583",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 584",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 585",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 589",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 592",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 595",
             "bssid": [
                 "04:F0:21:51:6B:96"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.375970",
+                "longitude": "9.732551",
+                "timestamp": "2021-03-01T18:00:00+01:00"
+            }
         },
         {
             "name": "RH 596",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 600",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 601",
             "bssid": [
                 "04:F0:21:56:07:D9"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.372094",
+                "longitude": "9.723219",
+                "timestamp": "2021-05-16T14:00:00+02:00"
+            }
         },
         {
             "name": "RH 604",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 605",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 606",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 608",
             "bssid": [
                 "04:F0:21:56:10:04"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.368095",
+                "longitude": "9.720888",
+                "timestamp": "2021-05-03T16:00:00+02:00"
+            }
         },
         {
             "name": "RH 609",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 611",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 613",
             "bssid": [
                 "04:F0:21:59:FD:0C"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376768",
+                "longitude": "9.739369",
+                "timestamp": "2021-06-17T21:00:00+02:00"
+            }
         },
         {
             "name": "RH 614",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 623",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 625",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 629",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 631",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 632",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 634",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 635",
             "bssid": [
                 "04:F0:21:55:FD:AD"
-            ]
+            ],
+            "last_position": []
         },
         {
             "name": "RH 637",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 638",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 640",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 641",
             "bssid": [
                 "04:F0:21:55:FD:B0"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.367395",
+                "longitude": "9.719776",
+                "timestamp": "2021-05-03T15:00:00+02:00"
+            }
         },
         {
             "name": "RH 644",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 645",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 646",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 647",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 648",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 649",
             "bssid": [
                 "04:F0:21:56:07:D3"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.398942",
+                "longitude": "9.735751",
+                "timestamp": "2021-07-23T15:00:00+02:00"
+            }
         },
         {
             "name": "RH 65",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 655",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 656",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 657",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 661",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 667",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 668",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 669",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 670",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 673",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 677",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 678",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 681",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 682",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 683",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 685",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 686",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 687",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 689",
             "bssid": [
                 "04:F0:21:56:10:0F"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.379342",
+                "longitude": "9.744262",
+                "timestamp": "2021-07-10T20:00:00+02:00"
+            }
         },
         {
             "name": "RH 690",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 692",
             "bssid": [
                 "04:F0:21:55:FD:62"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.378238",
+                "longitude": "9.741474",
+                "timestamp": "2020-07-21T17:00:00+02:00"
+            }
         },
         {
             "name": "RH 694",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 696",
             "bssid": [
                 "04:F0:21:56:20:6D"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.374018",
+                "longitude": "9.727933",
+                "timestamp": "2021-07-09T14:00:00+02:00"
+            }
         },
         {
             "name": "RH 697",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 698",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 699",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 701",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 703",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 704",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 705",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 709",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 710",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 712",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 715",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 716",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 717",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 718",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 719",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 720",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 721",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 722",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 725",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 726",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 728",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 729",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 730",
             "bssid": [
                 "04:F0:21:56:0F:E0"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376927",
+                "longitude": "9.738293",
+                "timestamp": "2021-04-20T16:00:00+02:00"
+            }
         },
         {
             "name": "RH 738",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 741",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 742",
             "bssid": [
                 "04:F0:21:55:FD:92"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376856",
+                "longitude": "9.739117",
+                "timestamp": "2021-07-13T19:00:00+02:00"
+            }
         },
         {
             "name": "RH 743",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 744",
             "bssid": [
                 "04:F0:21:55:FD:AF"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377193",
+                "longitude": "9.737330",
+                "timestamp": "2021-02-24T14:00:00+01:00"
+            }
         },
         {
             "name": "RH 749",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 752",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 754",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 760",
             "bssid": [
                 "04:F0:21:56:0F:FB"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.354508",
+                "longitude": "9.630996",
+                "timestamp": "2021-07-22T20:00:00+02:00"
+            }
         },
         {
             "name": "RH 761",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 762",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 765",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 776",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 778",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 782",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 783",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 784",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 791",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 798",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 800",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 801",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 803",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 804",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 805",
             "bssid": [
                 "04:F0:21:56:07:DF"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.388439",
+                "longitude": "9.658468",
+                "timestamp": "2021-06-03T10:00:00+02:00"
+            }
         },
         {
             "name": "RH 806",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 807",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 808",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 809",
             "bssid": [
                 "04:F0:21:56:0F:EF"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.379720",
+                "longitude": "9.741319",
+                "timestamp": "2021-07-13T14:00:00+02:00"
+            }
         },
         {
             "name": "RH 812",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 815",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 817",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 818",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 821",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 822",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 823",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 825",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 827",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 828",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 830",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 831",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 832",
             "bssid": [
                 "04:F0:21:5D:49:4E"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.326909",
+                "longitude": "9.722260",
+                "timestamp": "2021-07-14T22:00:00+02:00"
+            }
         },
         {
             "name": "RH 836",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 841",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 843",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 848",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 852",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 853",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 857",
             "bssid": [
                 "04:F0:21:56:0F:EC"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.367514",
+                "longitude": "9.719519",
+                "timestamp": "2021-05-03T15:00:00+02:00"
+            }
         },
         {
             "name": "RH 858",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 859",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 865",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 866",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 869",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 870",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 871",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 879",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 881",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 884",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 889",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 890",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 892",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 894",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 895",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "RH 897",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         }
     ]
 }

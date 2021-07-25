@@ -7,13 +7,23 @@
             "name": "IC2 Tz 2861",
             "bssid": [
                 "04:F0:21:63:F3:62"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377010",
+                "longitude": "9.741760",
+                "timestamp": "2020-10-25T18:00:00+01:00"
+            }
         },
         {
             "name": "IC2 Tz 2873",
             "bssid": [
                 "00:0E:8E:91:55:E4"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.391542",
+                "longitude": "9.723326",
+                "timestamp": "2021-01-16T17:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 03 \"Neu-Isenburg\"",
@@ -42,7 +52,12 @@
                 "02:0E:8E:70:04:E4",
                 "02:0E:8E:70:04:F7",
                 "00:0E:8E:70:04:F7"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376275",
+                "longitude": "9.743180",
+                "timestamp": "2021-04-18T20:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 06 \"Itzehoe\"",
@@ -50,7 +65,12 @@
                 "00:0E:8E:4B:83:E3",
                 "02:0E:8E:4B:83:E3",
                 "06:0E:8E:4B:83:E3"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377010",
+                "longitude": "9.741760",
+                "timestamp": "2020-10-18T18:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 104",
@@ -101,7 +121,8 @@
                 "00:0E:8E:70:A8:98",
                 "02:0E:8E:70:A8:98",
                 "06:0E:8E:70:A8:98"
-            ]
+            ],
+            "last_position": []
         },
         {
             "name": "ICE Tz 1118 \"Plauen\/Vogtland\"",
@@ -121,19 +142,34 @@
                 "02:0E:8E:70:A4:30",
                 "02:0E:8E:6E:45:C6",
                 "00:0E:8E:6E:45:C6"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376488",
+                "longitude": "9.742093",
+                "timestamp": "2021-07-04T13:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 1127 \"Weimar\"",
             "bssid": [
                 "00:0E:8E:6E:40:E2"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377847",
+                "longitude": "9.740190",
+                "timestamp": "2020-07-24T16:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 1130 \"Jena\"",
             "bssid": [
                 "00:0E:8E:6E:57:BC"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377010",
+                "longitude": "9.741760",
+                "timestamp": "2020-11-30T20:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 1155 \"M\u00fchlhausen\/Th\u00fcringen\"",
@@ -164,7 +200,12 @@
                 "02:0E:8E:70:C4:FE",
                 "00:0E:8E:70:C4:FE",
                 "00:0E:8E:71:05:77"
-            ]
+            ],
+            "last_position": {
+                "latitude": "51.537340",
+                "longitude": "9.926983",
+                "timestamp": "2021-06-15T19:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 1156 \"Waren (M\u00fcritz)\"",
@@ -176,7 +217,12 @@
                 "02:0E:8E:71:09:C8",
                 "00:0E:8E:71:10:C6",
                 "00:0E:8E:70:C4:ED"
-            ]
+            ],
+            "last_position": {
+                "latitude": "51.537332",
+                "longitude": "9.926925",
+                "timestamp": "2021-05-06T17:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 1158",
@@ -221,7 +267,12 @@
                 "06:0E:8E:70:A5:58",
                 "00:0E:8E:70:A5:58",
                 "02:0E:8E:70:A5:58"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.355581",
+                "longitude": "9.770189",
+                "timestamp": "2021-01-11T14:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 182 \"R\u00fcdesheim\"",
@@ -263,25 +314,45 @@
                 "00:0E:8E:71:05:47",
                 "02:0E:8E:71:05:47",
                 "06:0E:8E:71:05:47"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377010",
+                "longitude": "9.741760",
+                "timestamp": "2020-10-25T18:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 203 \"Cottbus\"",
             "bssid": [
                 "00:0E:8E:71:09:C0"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377680",
+                "longitude": "9.741306",
+                "timestamp": "2021-01-02T20:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 208 \"Bonn\"",
             "bssid": [
                 "02:0E:8E:6E:24:E3"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377010",
+                "longitude": "9.741760",
+                "timestamp": "2020-11-30T20:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 210 \"Fontanestadt Neuruppin\"",
             "bssid": [
                 "00:0E:8E:6E:2B:AB"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.620444",
+                "longitude": "10.062255",
+                "timestamp": "2021-03-26T11:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 219 \"Hagen\"",
@@ -291,7 +362,12 @@
                 "02:0E:8E:6E:20:54",
                 "02:0E:8E:6E:45:10",
                 "02:0E:8E:6E:46:C0"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377010",
+                "longitude": "9.741760",
+                "timestamp": "2020-10-06T19:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 225 \"Oldenburg\"",
@@ -313,7 +389,12 @@
                 "00:0E:8E:70:79:C3",
                 "00:0E:8E:70:04:92",
                 "02:0E:8E:70:04:92"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376006",
+                "longitude": "9.743249",
+                "timestamp": "2021-03-26T12:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 239",
@@ -324,20 +405,31 @@
                 "02:0E:8E:71:05:6D",
                 "00:0E:8E:71:05:6D",
                 "66:0E:E5:B1:C4:51"
-            ]
+            ],
+            "last_position": []
         },
         {
             "name": "ICE Tz 239 \"Essen\"",
             "bssid": [
                 "00:0E:8E:71:06:27"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377896",
+                "longitude": "9.741394",
+                "timestamp": "2020-07-09T18:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 243 \"Bautzen\"",
             "bssid": [
                 "00:0E:8E:71:11:87",
                 "02:0E:8E:71:11:87"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.378355",
+                "longitude": "9.739608",
+                "timestamp": "2020-07-24T15:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 58 \"G\u00fctersloh\"",
@@ -371,7 +463,12 @@
                 "02:0E:8E:6E:51:96",
                 "00:0E:8E:6E:51:5A",
                 "06:0E:8E:6E:51:5A"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.365799",
+                "longitude": "9.764760",
+                "timestamp": "2021-01-27T18:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 60 \"M\u00fclheim an der Ruhr\"",
@@ -379,7 +476,12 @@
                 "00:0E:8E:71:0E:23",
                 "00:0E:8E:70:9B:9F",
                 "02:0E:8E:70:9B:9F"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376472",
+                "longitude": "9.742066",
+                "timestamp": "2021-03-07T21:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 67 \"Garmisch Partenkirchen\"",
@@ -406,7 +508,12 @@
                 "00:0E:8E:6E:45:84",
                 "00:0E:8E:6E:44:BE",
                 "02:0E:8E:6E:44:BE"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.376101",
+                "longitude": "9.742796",
+                "timestamp": "2021-01-08T17:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 85",
@@ -422,7 +529,12 @@
                 "06:0E:8E:6E:58:B8",
                 "06:0E:8E:6E:58:E0",
                 "00:0E:8E:6E:45:16"
-            ]
+            ],
+            "last_position": {
+                "latitude": "51.311388",
+                "longitude": "9.447705",
+                "timestamp": "2020-04-28T20:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 9002",
@@ -483,7 +595,12 @@
                 "70:6D:15:AD:AA:60",
                 "70:6D:15:AD:AA:61",
                 "70:6D:15:AD:AA:62"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377010",
+                "longitude": "9.741760",
+                "timestamp": "2020-08-07T07:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 9007",
@@ -502,7 +619,12 @@
                 "38:0E:4D:B0:8A:C1",
                 "38:0E:4D:B9:8D:30",
                 "38:0E:4D:B9:8D:31"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377642",
+                "longitude": "9.740848",
+                "timestamp": "2020-07-25T13:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 9029 \"Freistaat Sachsen\"",
@@ -510,7 +632,12 @@
                 "F8:0F:6F:59:E6:B0",
                 "06:90:E8:6D:95:EF",
                 "70:6D:15:B6:1F:90"
-            ]
+            ],
+            "last_position": {
+                "latitude": "51.536985",
+                "longitude": "9.926319",
+                "timestamp": "2021-04-16T18:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 9031",
@@ -532,7 +659,12 @@
                 "A8:B4:56:3D:09:50",
                 "A8:B4:56:3D:09:51",
                 "F8:0F:6F:EB:03:91"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377927",
+                "longitude": "9.740258",
+                "timestamp": "2020-07-24T15:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 9036",
@@ -540,7 +672,12 @@
                 "F8:0F:6F:09:07:B1",
                 "F8:0F:6F:09:07:B0",
                 "F8:0F:6F:37:4E:72"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.356488",
+                "longitude": "9.769503",
+                "timestamp": "2021-01-07T13:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 9043",
@@ -548,13 +685,19 @@
                 "06:90:E8:77:7C:D6",
                 "06:90:E8:78:C0:4A",
                 "06:90:E8:78:C0:4D"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.387005",
+                "longitude": "9.731341",
+                "timestamp": "2021-04-03T18:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 9044",
             "bssid": [
                 "06:90:E8:78:C0:69"
-            ]
+            ],
+            "last_position": []
         },
         {
             "name": "ICE Tz 9046",
@@ -563,19 +706,34 @@
                 "06:90:E8:70:9E:7C",
                 "06:90:E8:77:7C:B0",
                 "06:90:E8:70:9E:8F"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377411",
+                "longitude": "9.740317",
+                "timestamp": "2021-01-27T18:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 9204",
             "bssid": [
                 "06:90:E8:67:70:D5"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.377321",
+                "longitude": "9.741127",
+                "timestamp": "2021-05-07T21:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 9215",
             "bssid": [
                 "06:90:E8:88:E1:45"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.029315",
+                "longitude": "8.532509",
+                "timestamp": "2021-01-02T18:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 9217",
@@ -590,7 +748,12 @@
                 "64:3A:EA:BE:F7:D1",
                 "6C:31:0E:CF:F3:00",
                 "6C:31:0E:CF:F3:01"
-            ]
+            ],
+            "last_position": {
+                "latitude": "52.453346",
+                "longitude": "10.534758",
+                "timestamp": "2021-01-06T19:00:00+01:00"
+            }
         }
     ]
 }

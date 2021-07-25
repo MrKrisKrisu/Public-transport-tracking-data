@@ -5,27 +5,33 @@
     "vehicles": [
         {
             "name": "3427 030 \/ 3427 530-5",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "3427 031 \/ 3427 531-3",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "3427 034 \/ 3427 534",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "3427 042-1 \/ 3427 545",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "3427 043 \/ 3427 543-8",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "3427 058 \/ 3427 558",
-            "bssid": []
+            "bssid": [],
+            "last_position": []
         }
     ]
 }
