@@ -1,1 +1,13 @@
-{"vehicles":[{"name":"648 189-8 \/ 648 689-7","bssid":["04:F0:21:31:F9:BB"]}]}
+{
+    "company": {
+        "name": "NordWestBahn GmbH"
+    },
+    "vehicles": [
+        {
+            "name": "648 189-8 \/ 648 689-7",
+            "bssid": [
+                "04:F0:21:31:F9:BB"
+            ]
+        }
+    ]
+}

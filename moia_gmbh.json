@@ -1,1 +1,19 @@
-{"vehicles":[{"name":"H-MO 767","bssid":["7A:49:ED:85:A5:08"]},{"name":"H-MO 870 (544)","bssid":["74:49:ED:85:A5:08"]}]}
+{
+    "company": {
+        "name": "MOIA GmbH"
+    },
+    "vehicles": [
+        {
+            "name": "H-MO 767",
+            "bssid": [
+                "7A:49:ED:85:A5:08"
+            ]
+        },
+        {
+            "name": "H-MO 870 (544)",
+            "bssid": [
+                "74:49:ED:85:A5:08"
+            ]
+        }
+    ]
+}

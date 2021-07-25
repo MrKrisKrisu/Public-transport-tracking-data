@@ -1,1 +1,14 @@
-{"vehicles":[{"name":"NI-AL 11","bssid":["00:1A:DD:28:82:61","00:1A:DD:28:82:71"]}]}
+{
+    "company": {
+        "name": "Block Busreisen GmbH & Co. KG"
+    },
+    "vehicles": [
+        {
+            "name": "NI-AL 11",
+            "bssid": [
+                "00:1A:DD:28:82:61",
+                "00:1A:DD:28:82:71"
+            ]
+        }
+    ]
+}
