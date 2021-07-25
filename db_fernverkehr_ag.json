@@ -5,6 +5,7 @@
     "vehicles": [
         {
             "name": "IC2 Tz 2861",
+            "type": "train",
             "bssid": [
                 "04:F0:21:63:F3:62"
             ],
@@ -16,6 +17,7 @@
         },
         {
             "name": "IC2 Tz 2873",
+            "type": null,
             "bssid": [
                 "00:0E:8E:91:55:E4"
             ],
@@ -27,6 +29,7 @@
         },
         {
             "name": "ICE Tz 03 \"Neu-Isenburg\"",
+            "type": "train",
             "bssid": [
                 "02:0E:8E:6E:52:F6",
                 "00:0E:8E:6E:52:F6",
@@ -61,6 +64,7 @@
         },
         {
             "name": "ICE Tz 06 \"Itzehoe\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:4B:83:E3",
                 "02:0E:8E:4B:83:E3",
@@ -74,6 +78,7 @@
         },
         {
             "name": "ICE Tz 104",
+            "type": "train",
             "bssid": [
                 "06:0E:8E:6E:25:77",
                 "02:0E:8E:70:C6:A7",
@@ -126,6 +131,7 @@
         },
         {
             "name": "ICE Tz 1118 \"Plauen\/Vogtland\"",
+            "type": null,
             "bssid": [
                 "02:0E:8E:6E:46:89",
                 "00:0E:8E:6E:46:89",
@@ -151,6 +157,7 @@
         },
         {
             "name": "ICE Tz 1127 \"Weimar\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:6E:40:E2"
             ],
@@ -162,6 +169,7 @@
         },
         {
             "name": "ICE Tz 1130 \"Jena\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:6E:57:BC"
             ],
@@ -173,6 +181,7 @@
         },
         {
             "name": "ICE Tz 1155 \"M\u00fchlhausen\/Th\u00fcringen\"",
+            "type": "train",
             "bssid": [
                 "02:0E:8E:6E:44:D5",
                 "06:0E:8E:6E:46:EE",
@@ -209,6 +218,7 @@
         },
         {
             "name": "ICE Tz 1156 \"Waren (M\u00fcritz)\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:71:06:9A",
                 "02:0E:8E:71:06:9A",
@@ -226,6 +236,7 @@
         },
         {
             "name": "ICE Tz 1158",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:71:06:C6",
                 "02:0E:8E:71:06:C6",
@@ -276,6 +287,7 @@
         },
         {
             "name": "ICE Tz 182 \"R\u00fcdesheim\"",
+            "type": "train",
             "bssid": [
                 "02:0E:8E:70:9B:9C",
                 "00:0E:8E:70:9B:9C",
@@ -323,6 +335,7 @@
         },
         {
             "name": "ICE Tz 203 \"Cottbus\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:71:09:C0"
             ],
@@ -334,6 +347,7 @@
         },
         {
             "name": "ICE Tz 208 \"Bonn\"",
+            "type": "train",
             "bssid": [
                 "02:0E:8E:6E:24:E3"
             ],
@@ -345,6 +359,7 @@
         },
         {
             "name": "ICE Tz 210 \"Fontanestadt Neuruppin\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:6E:2B:AB"
             ],
@@ -356,6 +371,7 @@
         },
         {
             "name": "ICE Tz 219 \"Hagen\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:6E:20:54",
                 "00:0E:8E:6E:45:10",
@@ -371,6 +387,7 @@
         },
         {
             "name": "ICE Tz 225 \"Oldenburg\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:70:04:CD",
                 "02:0E:8E:70:04:CD",
@@ -398,6 +415,7 @@
         },
         {
             "name": "ICE Tz 239",
+            "type": "train",
             "bssid": [
                 "06:0E:8E:71:06:1D",
                 "00:0E:8E:71:06:1D",
@@ -410,6 +428,7 @@
         },
         {
             "name": "ICE Tz 239 \"Essen\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:71:06:27"
             ],
@@ -421,6 +440,7 @@
         },
         {
             "name": "ICE Tz 243 \"Bautzen\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:71:11:87",
                 "02:0E:8E:71:11:87"
@@ -433,6 +453,7 @@
         },
         {
             "name": "ICE Tz 58 \"G\u00fctersloh\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:6E:52:D7",
                 "02:0E:8E:6E:52:D7",
@@ -472,6 +493,7 @@
         },
         {
             "name": "ICE Tz 60 \"M\u00fclheim an der Ruhr\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:71:0E:23",
                 "00:0E:8E:70:9B:9F",
@@ -485,6 +507,7 @@
         },
         {
             "name": "ICE Tz 67 \"Garmisch Partenkirchen\"",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:6E:46:5E",
                 "02:0E:8E:78:66:CA",
@@ -517,6 +540,7 @@
         },
         {
             "name": "ICE Tz 85",
+            "type": "train",
             "bssid": [
                 "00:0E:8E:6E:2A:9D",
                 "00:0E:8E:6E:58:B8",
@@ -538,6 +562,7 @@
         },
         {
             "name": "ICE Tz 9002",
+            "type": "train",
             "bssid": [
                 "06:90:E8:40:48:54",
                 "06:90:E8:40:48:5D",
@@ -604,6 +629,7 @@
         },
         {
             "name": "ICE Tz 9007",
+            "type": "train",
             "bssid": [
                 "06:90:E8:35:60:A8",
                 "06:90:E8:40:48:4B",
@@ -628,6 +654,7 @@
         },
         {
             "name": "ICE Tz 9029 \"Freistaat Sachsen\"",
+            "type": "train",
             "bssid": [
                 "F8:0F:6F:59:E6:B0",
                 "06:90:E8:6D:95:EF",
@@ -641,6 +668,7 @@
         },
         {
             "name": "ICE Tz 9031",
+            "type": "train",
             "bssid": [
                 "F8:0F:6F:EB:27:62",
                 "F8:0F:6F:EB:27:61",
@@ -668,6 +696,7 @@
         },
         {
             "name": "ICE Tz 9036",
+            "type": "train",
             "bssid": [
                 "F8:0F:6F:09:07:B1",
                 "F8:0F:6F:09:07:B0",
@@ -681,6 +710,7 @@
         },
         {
             "name": "ICE Tz 9043",
+            "type": "train",
             "bssid": [
                 "06:90:E8:77:7C:D6",
                 "06:90:E8:78:C0:4A",
@@ -694,6 +724,7 @@
         },
         {
             "name": "ICE Tz 9044",
+            "type": "train",
             "bssid": [
                 "06:90:E8:78:C0:69"
             ],
@@ -701,6 +732,7 @@
         },
         {
             "name": "ICE Tz 9046",
+            "type": "train",
             "bssid": [
                 "06:90:E8:72:58:2B",
                 "06:90:E8:70:9E:7C",
@@ -715,6 +747,7 @@
         },
         {
             "name": "ICE Tz 9204",
+            "type": "train",
             "bssid": [
                 "06:90:E8:67:70:D5"
             ],
@@ -726,6 +759,7 @@
         },
         {
             "name": "ICE Tz 9215",
+            "type": "train",
             "bssid": [
                 "06:90:E8:88:E1:45"
             ],
@@ -737,6 +771,7 @@
         },
         {
             "name": "ICE Tz 9217",
+            "type": "train",
             "bssid": [
                 "06:90:E8:88:E1:42",
                 "06:90:E8:83:DE:FC",

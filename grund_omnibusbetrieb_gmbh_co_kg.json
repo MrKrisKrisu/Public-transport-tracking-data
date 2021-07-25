@@ -5,6 +5,7 @@
     "vehicles": [
         {
             "name": "H-AL 2315",
+            "type": "bus",
             "bssid": [
                 "00:1A:DD:28:BB:D1",
                 "00:1A:DD:28:BB:C1"
@@ -17,6 +18,7 @@
         },
         {
             "name": "H-AL 8988",
+            "type": "bus",
             "bssid": [
                 "00:1A:DD:26:91:C1"
             ],

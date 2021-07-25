@@ -5,6 +5,7 @@
     "vehicles": [
         {
             "name": "H-MO 767",
+            "type": "bus",
             "bssid": [
                 "7A:49:ED:85:A5:08"
             ],
@@ -12,6 +13,7 @@
         },
         {
             "name": "H-MO 870 (544)",
+            "type": "bus",
             "bssid": [
                 "74:49:ED:85:A5:08"
             ],

@@ -5,6 +5,7 @@
     "vehicles": [
         {
             "name": "NI-AL 11",
+            "type": "bus",
             "bssid": [
                 "00:1A:DD:28:82:61",
                 "00:1A:DD:28:82:71"

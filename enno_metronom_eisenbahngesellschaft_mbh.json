@@ -5,21 +5,25 @@
     "vehicles": [
         {
             "name": "Enno 101",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 102",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 103",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 104",
+            "type": "train",
             "bssid": [
                 "0A:90:E8:40:DE:A6",
                 "0E:90:E8:40:DE:A0",
@@ -39,6 +43,7 @@
         },
         {
             "name": "Enno 105",
+            "type": "train",
             "bssid": [
                 "0A:90:E8:45:41:E8",
                 "12:90:E8:45:41:E8",
@@ -65,6 +70,7 @@
         },
         {
             "name": "Enno 106",
+            "type": "train",
             "bssid": [
                 "0A:90:E8:45:42:0B",
                 "12:90:E8:45:42:0B",
@@ -92,11 +98,13 @@
         },
         {
             "name": "Enno 107",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 108",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:36:F5:A3",
                 "0E:90:E8:36:F5:F2",
@@ -111,6 +119,7 @@
         },
         {
             "name": "Enno 109",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:40:DE:C5",
                 "0A:90:E8:45:41:F7",
@@ -127,6 +136,7 @@
         },
         {
             "name": "Enno 110",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:36:F6:13",
                 "0E:90:E8:32:3B:F5",
@@ -153,11 +163,13 @@
         },
         {
             "name": "Enno 111",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 112",
+            "type": "train",
             "bssid": [
                 "0A:90:E8:45:41:F0",
                 "0E:90:E8:40:21:CC",
@@ -176,6 +188,7 @@
         },
         {
             "name": "Enno 113",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:40:84:F9",
                 "0A:90:E8:40:84:F9",
@@ -191,21 +204,25 @@
         },
         {
             "name": "Enno 114",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 115",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 116",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 117",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:40:21:96",
                 "1A:90:E8:40:21:96",
@@ -231,11 +248,13 @@
         },
         {
             "name": "Enno 118",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 119",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:40:DE:BF",
                 "0E:90:E8:40:DE:B3"
@@ -248,6 +267,7 @@
         },
         {
             "name": "Enno 120",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:40:84:D3",
                 "0E:90:E8:4B:0A:AB",
@@ -262,6 +282,7 @@
         },
         {
             "name": "Enno 121",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:4F:BB:CA",
                 "16:90:E8:4F:BB:CA",
@@ -291,11 +312,13 @@
         },
         {
             "name": "Enno 122",
+            "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "Enno 123",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:56:82:F4",
                 "0A:90:E8:45:41:E6",
@@ -324,6 +347,7 @@
         },
         {
             "name": "Enno 124",
+            "type": "train",
             "bssid": [
                 "0E:90:E8:56:82:E4",
                 "0E:90:E8:4F:2F:D9",

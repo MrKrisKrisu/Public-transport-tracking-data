@@ -5,26 +5,31 @@
     "vehicles": [
         {
             "name": "RH 305",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 306",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 308",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 309",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 310",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:55:FD:AE"
             ],
@@ -36,51 +41,61 @@
         },
         {
             "name": "RH 315",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 316",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 319",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 321",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 322",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 323",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 329",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 331",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 335",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 337",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:51:6B:43"
             ],
@@ -92,86 +107,103 @@
         },
         {
             "name": "RH 338",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 345",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 349",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 351",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 352",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 356",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 359",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 361",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 364",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 366",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 367",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 370",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 372",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 374",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 376",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 378",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 380",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:0F:F3"
             ],
@@ -183,6 +215,7 @@
         },
         {
             "name": "RH 381",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:0F:EE"
             ],
@@ -194,266 +227,319 @@
         },
         {
             "name": "RH 382",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 383",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 384",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 390",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 392",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 394",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 397",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 398",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 401",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 404",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 407",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 409",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 410",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 417",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 423",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 424",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 426",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 429",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 430",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 431",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 434",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 440",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 441",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 444",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 445",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 446",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 447",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 448",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 449",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 452",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 465",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 466",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 467",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 469",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 470",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 471",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 473",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 474",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 477",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 478",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 479",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 483",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 485",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 486",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 491",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 492",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 493",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 494",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 496",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 498",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 500",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 504",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 505",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:55:FD:EA"
             ],
@@ -465,16 +551,19 @@
         },
         {
             "name": "RH 509",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 510",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 512",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:41:7F:2B"
             ],
@@ -486,6 +575,7 @@
         },
         {
             "name": "RH 517",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:55:FD:88"
             ],
@@ -497,11 +587,13 @@
         },
         {
             "name": "RH 521",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 523",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:10:01"
             ],
@@ -513,36 +605,43 @@
         },
         {
             "name": "RH 524",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 525",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 529",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 532",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 533",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 536",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 538",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:55:FD:6A"
             ],
@@ -554,141 +653,169 @@
         },
         {
             "name": "RH 541",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 542",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 544",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 546",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 547",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 550",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 551",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 552",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 554",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 557",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 563",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 564",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 565",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 566",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 568",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 569",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 570",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 572",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 573",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 574",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 580",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 581",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 583",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 584",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 585",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 589",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 592",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 595",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:51:6B:96"
             ],
@@ -700,16 +827,19 @@
         },
         {
             "name": "RH 596",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 600",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 601",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:07:D9"
             ],
@@ -721,21 +851,25 @@
         },
         {
             "name": "RH 604",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 605",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 606",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 608",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:10:04"
             ],
@@ -747,16 +881,19 @@
         },
         {
             "name": "RH 609",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 611",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 613",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:59:FD:0C"
             ],
@@ -768,41 +905,49 @@
         },
         {
             "name": "RH 614",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 623",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 625",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 629",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 631",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 632",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 634",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 635",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:55:FD:AD"
             ],
@@ -810,21 +955,25 @@
         },
         {
             "name": "RH 637",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 638",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 640",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 641",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:55:FD:B0"
             ],
@@ -836,31 +985,37 @@
         },
         {
             "name": "RH 644",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 645",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 646",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 647",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 648",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 649",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:07:D3"
             ],
@@ -872,96 +1027,115 @@
         },
         {
             "name": "RH 65",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 655",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 656",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 657",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 661",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 667",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 668",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 669",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 670",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 673",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 677",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 678",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 681",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 682",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 683",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 685",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 686",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 687",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 689",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:10:0F"
             ],
@@ -973,11 +1147,13 @@
         },
         {
             "name": "RH 690",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 692",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:55:FD:62"
             ],
@@ -989,11 +1165,13 @@
         },
         {
             "name": "RH 694",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 696",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:20:6D"
             ],
@@ -1005,116 +1183,139 @@
         },
         {
             "name": "RH 697",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 698",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 699",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 701",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 703",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 704",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 705",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 709",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 710",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 712",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 715",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 716",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 717",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 718",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 719",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 720",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 721",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 722",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 725",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 726",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 728",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 729",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 730",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:0F:E0"
             ],
@@ -1126,16 +1327,19 @@
         },
         {
             "name": "RH 738",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 741",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 742",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:55:FD:92"
             ],
@@ -1147,11 +1351,13 @@
         },
         {
             "name": "RH 743",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 744",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:55:FD:AF"
             ],
@@ -1163,21 +1369,25 @@
         },
         {
             "name": "RH 749",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 752",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 754",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 760",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:0F:FB"
             ],
@@ -1189,76 +1399,91 @@
         },
         {
             "name": "RH 761",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 762",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 765",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 776",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 778",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 782",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 783",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 784",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 791",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 798",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 800",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 801",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 803",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 804",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 805",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:07:DF"
             ],
@@ -1270,21 +1495,25 @@
         },
         {
             "name": "RH 806",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 807",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 808",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 809",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:0F:EF"
             ],
@@ -1296,66 +1525,79 @@
         },
         {
             "name": "RH 812",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 815",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 817",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 818",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 821",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 822",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 823",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 825",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 827",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 828",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 830",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 831",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 832",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:5D:49:4E"
             ],
@@ -1367,36 +1609,43 @@
         },
         {
             "name": "RH 836",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 841",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 843",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 848",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 852",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 853",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 857",
+            "type": "bus",
             "bssid": [
                 "04:F0:21:56:0F:EC"
             ],
@@ -1408,81 +1657,97 @@
         },
         {
             "name": "RH 858",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 859",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 865",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 866",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 869",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 870",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 871",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 879",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 881",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 884",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 889",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 890",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 892",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 894",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 895",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         },
         {
             "name": "RH 897",
+            "type": "bus",
             "bssid": [],
             "last_position": []
         }
