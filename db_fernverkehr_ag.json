@@ -539,6 +539,20 @@
             }
         },
         {
+            "name": "ICE Tz 70",
+            "type": null,
+            "bssid": [
+                "02:0E:8E:70:03:E9",
+                "00:0E:8E:70:03:E9",
+                "02:0E:8E:6E:57:A5"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.742,
+                "timestamp": "2021-07-30T17:00:00+02:00"
+            }
+        },
+        {
             "name": "ICE Tz 85",
             "type": "train",
             "bssid": [
@@ -785,9 +799,9 @@
                 "6C:31:0E:CF:F3:01"
             ],
             "last_position": {
-                "latitude": 52.453,
-                "longitude": 10.535,
-                "timestamp": "2021-01-06T19:00:00+01:00"
+                "latitude": 52.377,
+                "longitude": 9.742,
+                "timestamp": "2021-07-30T17:00:00+02:00"
             }
         }
     ]
