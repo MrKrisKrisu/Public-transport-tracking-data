@@ -1,0 +1,13 @@
+{
+    "company": {
+        "name": "metronom Eisenbahngesellschaft mbH"
+    },
+    "vehicles": [
+        {
+            "name": "metronom dummy",
+            "type": null,
+            "bssid": [],
+            "last_position": []
+        }
+    ]
+}
