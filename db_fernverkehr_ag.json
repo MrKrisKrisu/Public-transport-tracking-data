@@ -439,6 +439,18 @@
             }
         },
         {
+            "name": "ICE Tz 240 \"Bochum\"",
+            "type": null,
+            "bssid": [
+                "02:0E:8E:71:05:AB"
+            ],
+            "last_position": {
+                "latitude": 51.536,
+                "longitude": 9.925,
+                "timestamp": "2021-07-30T19:00:00+02:00"
+            }
+        },
+        {
             "name": "ICE Tz 243 \"Bautzen\"",
             "type": "train",
             "bssid": [
