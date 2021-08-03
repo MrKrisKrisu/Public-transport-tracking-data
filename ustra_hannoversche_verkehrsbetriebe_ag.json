@@ -4697,9 +4697,9 @@
                 "00:1A:DD:26:A1:71"
             ],
             "last_position": {
-                "latitude": 52.388,
-                "longitude": 9.734,
-                "timestamp": "2021-07-30T13:00:00+02:00"
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-03T13:00:00+02:00"
             }
         },
         {
@@ -4856,8 +4856,15 @@
         {
             "name": "8245",
             "type": "bus",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "00:1A:DD:26:71:31",
+                "00:1A:DD:26:71:21"
+            ],
+            "last_position": {
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-03T14:00:00+02:00"
+            }
         },
         {
             "name": "8246",
@@ -4898,9 +4905,9 @@
                 "00:1A:DD:26:4A:31"
             ],
             "last_position": {
-                "latitude": 52.307,
-                "longitude": 9.81,
-                "timestamp": "2021-05-19T17:00:00+02:00"
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-03T13:00:00+02:00"
             }
         },
         {
@@ -5000,9 +5007,9 @@
                 "00:1A:DD:26:94:91"
             ],
             "last_position": {
-                "latitude": 52.399,
-                "longitude": 9.742,
-                "timestamp": "2021-07-20T20:00:00+02:00"
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-03T13:00:00+02:00"
             }
         },
         {
@@ -5363,9 +5370,9 @@
                 "00:1A:DD:26:9D:F1"
             ],
             "last_position": {
-                "latitude": 52.357,
-                "longitude": 9.765,
-                "timestamp": "2021-06-08T12:00:00+02:00"
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-03T13:00:00+02:00"
             }
         },
         {
@@ -5579,9 +5586,9 @@
                 "00:1A:DD:28:C8:F1"
             ],
             "last_position": {
-                "latitude": 52.406,
-                "longitude": 9.8,
-                "timestamp": "2021-08-03T09:00:00+02:00"
+                "latitude": 52.407,
+                "longitude": 9.801,
+                "timestamp": "2021-08-03T13:00:00+02:00"
             }
         },
         {
@@ -5668,9 +5675,9 @@
                 "00:1A:DD:28:B5:81"
             ],
             "last_position": {
-                "latitude": 52.374,
-                "longitude": 9.739,
-                "timestamp": "2021-07-24T15:00:00+02:00"
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-03T14:00:00+02:00"
             }
         },
         {

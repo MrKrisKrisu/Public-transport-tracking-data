@@ -924,8 +924,14 @@
         {
             "name": "RH 629",
             "type": "bus",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "04:F0:21:59:FA:66"
+            ],
+            "last_position": {
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-03T13:00:00+02:00"
+            }
         },
         {
             "name": "RH 631",
