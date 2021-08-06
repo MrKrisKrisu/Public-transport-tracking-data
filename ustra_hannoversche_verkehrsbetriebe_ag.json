@@ -4668,7 +4668,8 @@
             "name": "7944",
             "type": "bus",
             "bssid": [
-                "00:1A:DD:28:B3:21"
+                "00:1A:DD:28:B3:21",
+                "00:1A:DD:28:B3:31"
             ],
             "last_position": {
                 "latitude": 52.388,
