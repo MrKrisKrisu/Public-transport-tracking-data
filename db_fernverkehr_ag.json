@@ -180,6 +180,18 @@
             }
         },
         {
+            "name": "ICE Tz 1131 \"Trier\"",
+            "type": null,
+            "bssid": [
+                "00:0E:8E:6E:20:A4"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.742,
+                "timestamp": "2021-08-07T17:00:00+02:00"
+            }
+        },
+        {
             "name": "ICE Tz 1155 \"M\u00fchlhausen\/Th\u00fcringen\"",
             "type": "train",
             "bssid": [
@@ -389,7 +401,23 @@
             "name": "ICE Tz 210 \"Fontanestadt Neuruppin\"",
             "type": "train",
             "bssid": [
-                "00:0E:8E:6E:2B:AB"
+                "00:0E:8E:6E:2B:AB",
+                "00:0E:8E:6D:9E:BD",
+                "02:0E:8E:6D:9E:BD",
+                "00:0E:8E:70:3C:A3",
+                "02:0E:8E:70:3C:A3",
+                "02:0E:8E:70:3A:50",
+                "00:0E:8E:70:3A:50",
+                "00:0E:8E:6E:24:E5",
+                "02:0E:8E:6E:24:E5",
+                "00:0E:8E:71:04:C3",
+                "00:0E:8E:6E:25:0B",
+                "02:0E:8E:6E:25:0B",
+                "02:0E:8E:71:04:C3",
+                "02:0E:8E:71:09:E6",
+                "00:0E:8E:71:09:E6",
+                "02:0E:8E:6E:5E:F5",
+                "00:0E:8E:6E:5E:F5"
             ],
             "last_position": {
                 "latitude": 52.62,
