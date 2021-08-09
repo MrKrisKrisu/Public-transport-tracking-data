@@ -735,6 +735,23 @@
             }
         },
         {
+            "name": "ICE Tz 9018 \"Freistaat Bayern\"",
+            "type": null,
+            "bssid": [
+                "38:0E:4D:73:7F:C1",
+                "38:0E:4D:B9:8E:00",
+                "06:90:E8:5F:56:B2",
+                "38:0E:4D:B9:8E:01",
+                "38:0E:4D:A1:5A:A1",
+                "38:0E:4D:A1:5A:A0"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.742,
+                "timestamp": "2021-08-09T12:00:00+02:00"
+            }
+        },
+        {
             "name": "ICE Tz 9029 \"Freistaat Sachsen\"",
             "type": "train",
             "bssid": [
