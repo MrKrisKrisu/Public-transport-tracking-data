@@ -3593,9 +3593,9 @@
                 "00:1A:DD:28:77:91"
             ],
             "last_position": {
-                "latitude": 52.372,
-                "longitude": 9.741,
-                "timestamp": "2021-08-09T13:00:00+02:00"
+                "latitude": 52.395,
+                "longitude": 9.764,
+                "timestamp": "2021-08-11T15:00:00+02:00"
             }
         },
         {
@@ -3658,9 +3658,9 @@
                 "00:1A:DD:26:5C:71"
             ],
             "last_position": {
-                "latitude": 52.387,
-                "longitude": 9.724,
-                "timestamp": "2021-07-17T14:00:00+02:00"
+                "latitude": 52.356,
+                "longitude": 9.699,
+                "timestamp": "2021-08-11T21:00:00+02:00"
             }
         },
         {
@@ -3723,9 +3723,9 @@
                 "00:1A:DD:26:AA:11"
             ],
             "last_position": {
-                "latitude": 52.387,
-                "longitude": 9.734,
-                "timestamp": "2021-08-09T12:00:00+02:00"
+                "latitude": 52.361,
+                "longitude": 9.721,
+                "timestamp": "2021-08-12T17:00:00+02:00"
             }
         },
         {
@@ -3775,9 +3775,9 @@
                 "00:1A:DD:26:88:51"
             ],
             "last_position": {
-                "latitude": 52.459,
-                "longitude": 9.704,
-                "timestamp": "2021-07-25T21:00:00+02:00"
+                "latitude": 52.353,
+                "longitude": 9.722,
+                "timestamp": "2021-08-12T17:00:00+02:00"
             }
         },
         {
@@ -3827,9 +3827,9 @@
                 "00:1A:DD:26:49:91"
             ],
             "last_position": {
-                "latitude": 52.372,
-                "longitude": 9.741,
-                "timestamp": "2021-08-09T13:00:00+02:00"
+                "latitude": 52.379,
+                "longitude": 9.722,
+                "timestamp": "2021-08-11T20:00:00+02:00"
             }
         },
         {
@@ -3840,9 +3840,9 @@
                 "00:1A:DD:26:63:F1"
             ],
             "last_position": {
-                "latitude": 52.374,
-                "longitude": 9.741,
-                "timestamp": "2021-08-09T12:00:00+02:00"
+                "latitude": 52.381,
+                "longitude": 9.727,
+                "timestamp": "2021-08-11T23:00:00+02:00"
             }
         },
         {
@@ -3853,9 +3853,9 @@
                 "00:1A:DD:28:A4:D1"
             ],
             "last_position": {
-                "latitude": 52.388,
-                "longitude": 9.726,
-                "timestamp": "2021-06-29T19:00:00+02:00"
+                "latitude": 52.375,
+                "longitude": 9.718,
+                "timestamp": "2021-08-11T21:00:00+02:00"
             }
         },
         {
@@ -3867,8 +3867,8 @@
             ],
             "last_position": {
                 "latitude": 52.381,
-                "longitude": 9.766,
-                "timestamp": "2021-07-18T18:00:00+02:00"
+                "longitude": 9.727,
+                "timestamp": "2021-08-11T20:00:00+02:00"
             }
         },
         {
@@ -3892,9 +3892,9 @@
                 "00:1A:DD:26:9C:91"
             ],
             "last_position": {
-                "latitude": 52.397,
-                "longitude": 9.694,
-                "timestamp": "2021-08-01T21:00:00+02:00"
+                "latitude": 52.4,
+                "longitude": 9.782,
+                "timestamp": "2021-08-11T08:00:00+02:00"
             }
         },
         {
@@ -3905,9 +3905,9 @@
                 "00:1A:DD:26:A0:B1"
             ],
             "last_position": {
-                "latitude": 52.391,
-                "longitude": 9.729,
-                "timestamp": "2021-07-30T13:00:00+02:00"
+                "latitude": 52.375,
+                "longitude": 9.718,
+                "timestamp": "2021-08-11T21:00:00+02:00"
             }
         },
         {
@@ -3931,9 +3931,9 @@
                 "00:1A:DD:26:48:D1"
             ],
             "last_position": {
-                "latitude": 52.375,
-                "longitude": 9.741,
-                "timestamp": "2021-08-09T12:00:00+02:00"
+                "latitude": 52.353,
+                "longitude": 9.722,
+                "timestamp": "2021-08-12T17:00:00+02:00"
             }
         },
         {
@@ -4180,9 +4180,9 @@
                 "00:1A:DD:28:B0:11"
             ],
             "last_position": {
-                "latitude": 52.387,
-                "longitude": 9.734,
-                "timestamp": "2021-08-09T12:00:00+02:00"
+                "latitude": 52.379,
+                "longitude": 9.716,
+                "timestamp": "2021-08-11T22:00:00+02:00"
             }
         },
         {
@@ -4718,9 +4718,9 @@
                 "00:1A:DD:26:6B:F1"
             ],
             "last_position": {
-                "latitude": 52.395,
-                "longitude": 9.764,
-                "timestamp": "2021-07-29T15:00:00+02:00"
+                "latitude": 52.408,
+                "longitude": 9.8,
+                "timestamp": "2021-08-11T12:00:00+02:00"
             }
         },
         {
@@ -4783,9 +4783,9 @@
                 "00:1A:DD:26:93:51"
             ],
             "last_position": {
-                "latitude": 52.402,
-                "longitude": 9.789,
-                "timestamp": "2021-08-03T14:00:00+02:00"
+                "latitude": 52.4,
+                "longitude": 9.783,
+                "timestamp": "2021-08-11T15:00:00+02:00"
             }
         },
         {
@@ -5017,7 +5017,7 @@
             "last_position": {
                 "latitude": 52.406,
                 "longitude": 9.8,
-                "timestamp": "2021-08-03T13:00:00+02:00"
+                "timestamp": "2021-08-11T15:00:00+02:00"
             }
         },
         {
@@ -5183,9 +5183,9 @@
                 "00:1A:DD:26:37:51"
             ],
             "last_position": {
-                "latitude": 52.373,
-                "longitude": 9.741,
-                "timestamp": "2021-08-09T12:00:00+02:00"
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-11T09:00:00+02:00"
             }
         },
         {
@@ -5326,9 +5326,9 @@
                 "00:1A:DD:26:6F:B1"
             ],
             "last_position": {
-                "latitude": 52.388,
-                "longitude": 9.726,
-                "timestamp": "2021-04-25T22:00:00+02:00"
+                "latitude": 52.407,
+                "longitude": 9.8,
+                "timestamp": "2021-08-11T12:00:00+02:00"
             }
         },
         {
@@ -5691,9 +5691,9 @@
                 "00:1A:DD:28:B5:81"
             ],
             "last_position": {
-                "latitude": 52.406,
-                "longitude": 9.8,
-                "timestamp": "2021-08-03T14:00:00+02:00"
+                "latitude": 52.407,
+                "longitude": 9.801,
+                "timestamp": "2021-08-11T15:00:00+02:00"
             }
         },
         {
@@ -5797,9 +5797,9 @@
                 "00:1A:DD:26:7B:91"
             ],
             "last_position": {
-                "latitude": 52.377,
-                "longitude": 9.665,
-                "timestamp": "2021-07-22T20:00:00+02:00"
+                "latitude": 52.407,
+                "longitude": 9.8,
+                "timestamp": "2021-08-11T12:00:00+02:00"
             }
         },
         {
