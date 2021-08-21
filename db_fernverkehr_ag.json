@@ -326,6 +326,12 @@
             }
         },
         {
+            "name": "ICE Tz 18 \u201cGelnhausen\u201d",
+            "type": null,
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "name": "ICE Tz 182 \"R\u00fcdesheim\"",
             "type": "train",
             "bssid": [

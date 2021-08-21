@@ -4,6 +4,18 @@
     },
     "vehicles": [
         {
+            "name": "H-DA 1072",
+            "type": null,
+            "bssid": [
+                "00:1A:DD:26:99:D1"
+            ],
+            "last_position": {
+                "latitude": 52.407,
+                "longitude": 9.801,
+                "timestamp": "2021-08-19T15:00:00+02:00"
+            }
+        },
+        {
             "name": "H-DA 1095",
             "type": "bus",
             "bssid": [

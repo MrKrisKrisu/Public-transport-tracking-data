@@ -5742,14 +5742,22 @@
         {
             "name": "8432",
             "type": "bus",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "00:1A:DD:26:4C:21",
+                "00:1A:DD:26:4C:31"
+            ],
+            "last_position": {
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-13T08:00:00+02:00"
+            }
         },
         {
             "name": "8433",
             "type": "bus",
             "bssid": [
-                "00:1A:DD:26:84:31"
+                "00:1A:DD:26:84:31",
+                "00:1A:DD:26:84:21"
             ],
             "last_position": {
                 "latitude": 52.407,
@@ -5760,8 +5768,15 @@
         {
             "name": "8434",
             "type": "bus",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "00:1A:DD:26:A6:71",
+                "00:1A:DD:26:A6:61"
+            ],
+            "last_position": {
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-08-16T15:00:00+02:00"
+            }
         },
         {
             "name": "8435",
