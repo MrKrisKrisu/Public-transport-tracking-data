@@ -526,6 +526,12 @@
             }
         },
         {
+            "name": "ICE Tz 304 \"M\u00fcnchen\"",
+            "type": null,
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "name": "ICE Tz 58 \"G\u00fctersloh\"",
             "type": "train",
             "bssid": [
