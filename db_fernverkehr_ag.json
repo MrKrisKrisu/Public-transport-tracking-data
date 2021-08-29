@@ -476,6 +476,19 @@
             }
         },
         {
+            "name": "ICE Tz 234 \"Minden\"",
+            "type": null,
+            "bssid": [
+                "02:0E:8E:71:06:A1",
+                "00:0E:8E:71:06:A1"
+            ],
+            "last_position": {
+                "latitude": 52.524,
+                "longitude": 13.367,
+                "timestamp": "2021-08-29T19:00:00+02:00"
+            }
+        },
+        {
             "name": "ICE Tz 239",
             "type": "train",
             "bssid": [
