@@ -4,6 +4,12 @@
     },
     "vehicles": [
         {
+            "name": "IC2 Tz 2855",
+            "type": null,
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "name": "IC2 Tz 2861",
             "type": "train",
             "bssid": [
@@ -13,6 +19,23 @@
                 "latitude": 52.377,
                 "longitude": 9.742,
                 "timestamp": "2020-10-25T18:00:00+01:00"
+            }
+        },
+        {
+            "name": "IC2 Tz 2868 \"Nationalpark Nieders\u00e4chsisches Wattenmeer\"",
+            "type": null,
+            "bssid": [
+                "04:F0:21:63:F0:A7",
+                "00:0E:8E:91:55:B2",
+                "00:0E:8E:60:1B:C1",
+                "00:0E:8E:60:1C:4E",
+                "04:F0:21:63:F0:8D",
+                "00:0E:8E:60:1C:2A"
+            ],
+            "last_position": {
+                "latitude": 52.378,
+                "longitude": 9.741,
+                "timestamp": "2021-08-29T13:00:00+02:00"
             }
         },
         {
@@ -26,6 +49,12 @@
                 "longitude": 9.741,
                 "timestamp": "2021-06-01T16:00:00+02:00"
             }
+        },
+        {
+            "name": "IC2 Tz 4902",
+            "type": null,
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "ICE Tz 03 \"Neu-Isenburg\"",
@@ -799,6 +828,11 @@
             "name": "ICE Tz 9031",
             "type": "train",
             "bssid": [
+                "A8:B4:56:88:FA:A0",
+                "A8:B4:56:88:FA:A1",
+                "F8:0F:6F:59:E6:51",
+                "A8:B4:56:3D:1B:A0",
+                "A8:B4:56:3D:1B:A1",
                 "F8:0F:6F:EB:27:62",
                 "F8:0F:6F:EB:27:61",
                 "F8:0F:6F:EB:27:60",
@@ -820,7 +854,7 @@
             "last_position": {
                 "latitude": 52.378,
                 "longitude": 9.74,
-                "timestamp": "2020-07-24T15:00:00+02:00"
+                "timestamp": "2020-07-24T16:00:00+02:00"
             }
         },
         {
@@ -884,6 +918,21 @@
                 "latitude": 52.377,
                 "longitude": 9.741,
                 "timestamp": "2021-05-07T21:00:00+02:00"
+            }
+        },
+        {
+            "name": "ICE Tz 9207",
+            "type": null,
+            "bssid": [
+                "06:90:E8:77:AE:F3",
+                "06:90:E8:76:10:65",
+                "06:90:E8:76:10:38",
+                "06:90:E8:77:7C:D5"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.743,
+                "timestamp": "2021-08-29T13:00:00+02:00"
             }
         },
         {

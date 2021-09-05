@@ -4,6 +4,30 @@
     },
     "vehicles": [
         {
+            "name": "ET 405",
+            "type": null,
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "ET 409 \"Lathen\"",
+            "type": null,
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "ET 412 \"Emden \/ Borkum\"",
+            "type": null,
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "ET 413 \"Emsb\u00fcren-Leschede\"",
+            "type": null,
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "name": "ET 601",
             "type": "train",
             "bssid": [
