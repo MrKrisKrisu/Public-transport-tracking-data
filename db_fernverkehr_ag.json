@@ -106,7 +106,7 @@
             }
         },
         {
-            "name": "ICE Tz 104",
+            "name": "ICE Tz 104 \"Fulda\"",
             "type": "train",
             "bssid": [
                 "06:0E:8E:6E:25:77",
@@ -335,8 +335,14 @@
         {
             "name": "ICE Tz 1190 \"Wien\"",
             "type": "train",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "00:0E:8E:71:06:93"
+            ],
+            "last_position": {
+                "latitude": 50.106,
+                "longitude": 8.663,
+                "timestamp": "2021-09-10T19:00:00+02:00"
+            }
         },
         {
             "name": "ICE Tz 13 \"Frankenthal\/Pfalz\"",
@@ -941,6 +947,9 @@
                 "6C:31:0E:CF:C6:40",
                 "6C:31:0E:CF:C6:41",
                 "6C:31:0E:CF:CA:C1",
+                "6C:31:0E:CF:CA:D0",
+                "6C:31:0E:CF:CA:C0",
+                "6C:31:0E:CF:D9:10",
                 "6C:31:0E:CF:D8:D1",
                 "6C:31:0E:CF:D8:D0"
             ],
