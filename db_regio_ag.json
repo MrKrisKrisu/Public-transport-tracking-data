@@ -4,6 +4,42 @@
     },
     "vehicles": [
         {
+            "name": "423 417 \/ 423 917",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "423 422 \/ 423 922",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "423 429 \/ 423 929",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "423 434 \/ 423 934",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "430 111 \/ 430 611",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "430 120 \/ 430 620",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "name": "640 030-2",
             "type": "train",
             "bssid": [

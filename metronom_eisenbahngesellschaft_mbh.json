@@ -6,8 +6,14 @@
         {
             "name": "metronom dummy",
             "type": null,
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "00:15:61:21:0D:C1"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.741,
+                "timestamp": "2021-09-10T15:00:00+02:00"
+            }
         }
     ]
 }
