@@ -327,6 +327,18 @@
             }
         },
         {
+            "name": "ICE Tz 1184 \"Kaiserslautern\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "ICE Tz 1190 \"Wien\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "name": "ICE Tz 13 \"Frankenthal\/Pfalz\"",
             "type": null,
             "bssid": [
@@ -680,6 +692,12 @@
             }
         },
         {
+            "name": "ICE Tz 717 \"Paris\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "name": "ICE Tz 85",
             "type": "train",
             "bssid": [
@@ -906,6 +924,30 @@
                 "latitude": 52.377,
                 "longitude": 9.74,
                 "timestamp": "2021-01-27T18:00:00+01:00"
+            }
+        },
+        {
+            "name": "ICE Tz 9047",
+            "type": "train",
+            "bssid": [
+                "06:90:E8:77:7C:D1",
+                "6C:31:0E:AE:14:40",
+                "06:90:E8:76:10:46",
+                "6C:31:0E:CF:D9:11",
+                "6C:31:0E:CF:C6:20",
+                "6C:31:0E:CF:C6:21",
+                "6C:31:0E:CF:CA:D1",
+                "06:90:E8:77:7C:B6",
+                "6C:31:0E:CF:C6:40",
+                "6C:31:0E:CF:C6:41",
+                "6C:31:0E:CF:CA:C1",
+                "6C:31:0E:CF:D8:D1",
+                "6C:31:0E:CF:D8:D0"
+            ],
+            "last_position": {
+                "latitude": 50.105,
+                "longitude": 8.659,
+                "timestamp": "2021-09-10T20:00:00+02:00"
             }
         },
         {
