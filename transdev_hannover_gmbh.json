@@ -4,13 +4,13 @@
     },
     "vehicles": [
         {
-            "name": "3427 030 \/ 3427 530-5",
+            "name": "3427 030 \/ 3427 530",
             "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
-            "name": "3427 031 \/ 3427 531-3",
+            "name": "3427 031 \/ 3427 531",
             "type": "train",
             "bssid": [],
             "last_position": []
@@ -22,13 +22,19 @@
             "last_position": []
         },
         {
-            "name": "3427 042-1 \/ 3427 545",
+            "name": "3427 040 \/ 3427 540",
             "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
-            "name": "3427 043 \/ 3427 543-8",
+            "name": "3427 042 \/ 3427 542",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "3427 043 \/ 3427 543",
             "type": "train",
             "bssid": [],
             "last_position": []
