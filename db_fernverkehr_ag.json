@@ -33,9 +33,9 @@
                 "00:0E:8E:60:1C:2A"
             ],
             "last_position": {
-                "latitude": 52.378,
-                "longitude": 9.741,
-                "timestamp": "2021-08-29T13:00:00+02:00"
+                "latitude": 51.312,
+                "longitude": 9.447,
+                "timestamp": "2021-09-24T19:00:00+02:00"
             }
         },
         {
@@ -551,9 +551,9 @@
                 "02:0E:8E:71:09:4C"
             ],
             "last_position": {
-                "latitude": 52.524,
-                "longitude": 13.367,
-                "timestamp": "2021-08-29T19:00:00+02:00"
+                "latitude": 52.378,
+                "longitude": 9.74,
+                "timestamp": "2021-08-29T21:00:00+02:00"
             }
         },
         {
@@ -935,9 +935,9 @@
                 "F8:0F:6F:EB:03:91"
             ],
             "last_position": {
-                "latitude": 52.378,
-                "longitude": 9.74,
-                "timestamp": "2020-07-24T16:00:00+02:00"
+                "latitude": 48.994,
+                "longitude": 8.401,
+                "timestamp": "2021-09-25T16:00:00+02:00"
             }
         },
         {
@@ -1088,6 +1088,18 @@
                 "latitude": 52.377,
                 "longitude": 9.742,
                 "timestamp": "2021-07-30T17:00:00+02:00"
+            }
+        },
+        {
+            "name": "ICE Tz 9463",
+            "type": "train",
+            "bssid": [
+                "F8:A7:3A:21:F5:50"
+            ],
+            "last_position": {
+                "latitude": 48.993,
+                "longitude": 8.4,
+                "timestamp": "2021-09-25T16:00:00+02:00"
             }
         }
     ]
