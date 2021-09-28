@@ -1093,14 +1093,8 @@
         {
             "name": "ICE Tz 9463",
             "type": "train",
-            "bssid": [
-                "F8:A7:3A:21:F5:50"
-            ],
-            "last_position": {
-                "latitude": 48.993,
-                "longitude": 8.4,
-                "timestamp": "2021-09-25T16:00:00+02:00"
-            }
+            "bssid": [],
+            "last_position": []
         }
     ]
 }
