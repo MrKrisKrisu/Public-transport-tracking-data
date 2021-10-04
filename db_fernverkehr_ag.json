@@ -596,6 +596,12 @@
             }
         },
         {
+            "name": "ICE Tz 229 \"Templin\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "name": "ICE Tz 234 \"Minden\"",
             "type": null,
             "bssid": [
@@ -1043,9 +1049,9 @@
                 "6C:31:0E:CF:D9:01"
             ],
             "last_position": {
-                "latitude": 52.387,
-                "longitude": 9.731,
-                "timestamp": "2021-04-03T18:00:00+02:00"
+                "latitude": 52.377,
+                "longitude": 9.742,
+                "timestamp": "2021-10-02T23:00:00+02:00"
             }
         },
         {
