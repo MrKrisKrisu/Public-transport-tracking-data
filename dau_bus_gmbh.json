@@ -7,7 +7,8 @@
             "name": "H-DA 1072",
             "type": null,
             "bssid": [
-                "00:1A:DD:26:99:D1"
+                "00:1A:DD:26:99:D1",
+                "00:1A:DD:26:99:C1"
             ],
             "last_position": {
                 "latitude": 52.406,
