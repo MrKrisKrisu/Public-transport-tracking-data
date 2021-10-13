@@ -845,8 +845,8 @@
             ],
             "last_position": {
                 "latitude": 52.406,
-                "longitude": 9.8,
-                "timestamp": "2021-09-29T14:00:00+02:00"
+                "longitude": 9.799,
+                "timestamp": "2021-10-05T16:00:00+02:00"
             }
         },
         {
@@ -1398,9 +1398,9 @@
                 "04:F0:21:56:0F:FB"
             ],
             "last_position": {
-                "latitude": 52.355,
-                "longitude": 9.631,
-                "timestamp": "2021-07-22T20:00:00+02:00"
+                "latitude": 52.406,
+                "longitude": 9.799,
+                "timestamp": "2021-10-05T16:00:00+02:00"
             }
         },
         {
