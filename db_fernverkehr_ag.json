@@ -446,6 +446,20 @@
             }
         },
         {
+            "name": "ICE Tz 179",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:71:0C:27",
+                "02:0E:8E:71:0C:27",
+                "00:0E:8E:70:A4:06"
+            ],
+            "last_position": {
+                "latitude": 52.378,
+                "longitude": 9.739,
+                "timestamp": "2021-03-16T17:00:00+01:00"
+            }
+        },
+        {
             "name": "ICE Tz 18 \u201cGelnhausen\u201d",
             "type": null,
             "bssid": [],
