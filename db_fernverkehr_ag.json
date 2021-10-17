@@ -4,6 +4,14 @@
     },
     "vehicles": [
         {
+            "name": "IC1 352 (21 90739) (Tzn RPF187001) (ToDo: Benennung)",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:93:60:76"
+            ],
+            "last_position": []
+        },
+        {
             "name": "IC2 Tz 2855",
             "type": null,
             "bssid": [],
