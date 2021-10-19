@@ -11,7 +11,11 @@
                 "00:0E:8E:91:51:E5",
                 "00:0E:8E:91:56:71"
             ],
-            "last_position": []
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.742,
+                "timestamp": "2021-10-17T17:00:00+02:00"
+            }
         },
         {
             "name": "IC2 Tz 2855",

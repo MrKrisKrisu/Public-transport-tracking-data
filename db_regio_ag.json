@@ -114,7 +114,11 @@
                 "40:01:7A:8C:99:70",
                 "40:01:7A:8F:F3:30"
             ],
-            "last_position": []
+            "last_position": {
+                "latitude": 51.537,
+                "longitude": 9.926,
+                "timestamp": "2021-10-17T16:00:00+02:00"
+            }
         },
         {
             "name": "648 760-6 \/ 648 260-7 \"Seesen\"",
