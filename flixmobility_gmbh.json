@@ -1,0 +1,27 @@
+{
+    "company": {
+        "name": "FlixMobility GmbH"
+    },
+    "vehicles": [
+        {
+            "name": "FlixTrain Dummy",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:5E:E8:16",
+                "00:0E:8E:60:2D:73",
+                "00:0E:8E:5E:C6:31",
+                "00:0E:8E:5E:E8:17",
+                "00:0E:8E:5E:C6:43",
+                "00:0E:8E:60:1C:33",
+                "00:0E:8E:5E:E8:19",
+                "00:0E:8E:5E:E8:69",
+                "00:0E:8E:5E:C2:46"
+            ],
+            "last_position": {
+                "latitude": 53.553,
+                "longitude": 10.007,
+                "timestamp": "2021-10-03T16:00:00+02:00"
+            }
+        }
+    ]
+}

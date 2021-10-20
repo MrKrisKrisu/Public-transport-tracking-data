@@ -1,0 +1,19 @@
+{
+    "company": {
+        "name": "Karlsruher Verkehrsverbund GmbH"
+    },
+    "vehicles": [
+        {
+            "name": "KVV 862",
+            "type": "tram",
+            "bssid": [
+                "04:F0:21:33:44:82"
+            ],
+            "last_position": {
+                "latitude": 49.013,
+                "longitude": 8.355,
+                "timestamp": "2021-09-25T15:00:00+02:00"
+            }
+        }
+    ]
+}
