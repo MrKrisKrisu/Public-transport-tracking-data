@@ -161,6 +161,32 @@
             }
         },
         {
+            "name": "D-DB 50 80 26-81 357-8 (DBpza 782.1)",
+            "type": "train",
+            "bssid": [
+                "40:01:7A:7B:2B:90",
+                "40:01:7A:77:5F:70"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.742,
+                "timestamp": "2021-10-13T17:00:00+02:00"
+            }
+        },
+        {
+            "name": "D-DB 50 80 86-75 061-1 (DBpbzfa 765.5)",
+            "type": "train",
+            "bssid": [
+                "00:27:E3:44:6A:E0",
+                "00:27:E3:4B:77:30"
+            ],
+            "last_position": {
+                "latitude": 53.083,
+                "longitude": 8.815,
+                "timestamp": "2021-10-23T20:00:00+02:00"
+            }
+        },
+        {
             "name": "DB Regio Dosto",
             "type": "train",
             "bssid": [

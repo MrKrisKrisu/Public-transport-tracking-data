@@ -17,6 +17,19 @@
             }
         },
         {
+            "name": "H-DA 1075",
+            "type": "bus",
+            "bssid": [
+                "00:1A:DD:26:4A:D1",
+                "00:1A:DD:26:4A:C1"
+            ],
+            "last_position": {
+                "latitude": 52.406,
+                "longitude": 9.8,
+                "timestamp": "2021-10-21T15:00:00+02:00"
+            }
+        },
+        {
             "name": "H-DA 1095",
             "type": "bus",
             "bssid": [

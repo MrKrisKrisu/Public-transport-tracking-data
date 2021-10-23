@@ -648,6 +648,19 @@
             }
         },
         {
+            "name": "ICE Tz 235 \"G\u00f6rlitz\"",
+            "type": "train",
+            "bssid": [
+                "02:0E:8E:71:08:4C",
+                "00:0E:8E:71:08:4C"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.741,
+                "timestamp": "2021-10-23T15:00:00+02:00"
+            }
+        },
+        {
             "name": "ICE Tz 239",
             "type": "train",
             "bssid": [
