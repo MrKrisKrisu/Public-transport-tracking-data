@@ -3658,9 +3658,9 @@
                 "00:1A:DD:26:5C:71"
             ],
             "last_position": {
-                "latitude": 52.353,
-                "longitude": 9.722,
-                "timestamp": "2021-08-20T18:00:00+02:00"
+                "latitude": 52.333,
+                "longitude": 9.777,
+                "timestamp": "2021-11-03T01:00:00+01:00"
             }
         },
         {
@@ -3933,7 +3933,7 @@
             "last_position": {
                 "latitude": 52.333,
                 "longitude": 9.777,
-                "timestamp": "2021-10-24T23:00:00+02:00"
+                "timestamp": "2021-11-03T01:00:00+01:00"
             }
         },
         {
