@@ -460,6 +460,14 @@
             }
         },
         {
+            "name": "ICE Tz 170",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:6E:51:BC"
+            ],
+            "last_position": []
+        },
+        {
             "name": "ICE Tz 179",
             "type": "train",
             "bssid": [
