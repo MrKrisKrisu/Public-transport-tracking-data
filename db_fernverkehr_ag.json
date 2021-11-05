@@ -463,9 +463,16 @@
             "name": "ICE Tz 170",
             "type": "train",
             "bssid": [
+                "02:0E:8E:70:03:E9",
+                "00:0E:8E:70:03:E9",
+                "02:0E:8E:6E:57:A5",
                 "00:0E:8E:6E:51:BC"
             ],
-            "last_position": []
+            "last_position": {
+                "latitude": 50.106,
+                "longitude": 8.663,
+                "timestamp": "2021-11-04T19:00:00+01:00"
+            }
         },
         {
             "name": "ICE Tz 179",
@@ -814,16 +821,8 @@
         {
             "name": "ICE Tz 70",
             "type": null,
-            "bssid": [
-                "02:0E:8E:70:03:E9",
-                "00:0E:8E:70:03:E9",
-                "02:0E:8E:6E:57:A5"
-            ],
-            "last_position": {
-                "latitude": 52.377,
-                "longitude": 9.742,
-                "timestamp": "2021-07-30T17:00:00+02:00"
-            }
+            "bssid": [],
+            "last_position": []
         },
         {
             "name": "ICE Tz 717 \"Paris\"",
