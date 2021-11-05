@@ -7,19 +7,22 @@
             "name": "3427 030 \/ 3427 530",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 3427 xxx-x x-xxx"
         },
         {
             "name": "3427 031 \/ 3427 531",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 3427 xxx-x x-xxx"
         },
         {
             "name": "3427 034 \/ 3427 534",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 3427 xxx-x x-xxx"
         },
         {
             "name": "3427 039 \/ 3427 539",
@@ -32,25 +35,29 @@
             "name": "3427 040 \/ 3427 540",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 3427 xxx-x x-xxx"
         },
         {
             "name": "3427 042 \/ 3427 542",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 3427 xxx-x x-xxx"
         },
         {
             "name": "3427 043 \/ 3427 543",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 3427 xxx-x x-xxx"
         },
         {
             "name": "3427 058 \/ 3427 558",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 3427 xxx-x x-xxx"
         }
     ]
 }

@@ -14,7 +14,8 @@
                 "latitude": 51.912,
                 "longitude": 10.421,
                 "timestamp": "2021-04-18T18:00:00+02:00"
-            }
+            },
+            "uic": "xx xx 1648 xxx-x x-xxx"
         }
     ]
 }

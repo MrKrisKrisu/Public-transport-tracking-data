@@ -7,37 +7,43 @@
             "name": "423 417 \/ 423 917",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 423 xxx-x x-xxx"
         },
         {
             "name": "423 422 \/ 423 922",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 423 xxx-x x-xxx"
         },
         {
             "name": "423 429 \/ 423 929",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 423 xxx-x x-xxx"
         },
         {
             "name": "423 434 \/ 423 934",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 423 xxx-x x-xxx"
         },
         {
             "name": "430 111 \/ 430 611",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 430 xxx-x x-xxx"
         },
         {
             "name": "430 120 \/ 430 620",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 430 xxx-x x-xxx"
         },
         {
             "name": "640 030-2",
@@ -46,7 +52,8 @@
                 "00:A3:8E:CF:F0:60",
                 "00:A3:8E:C2:8A:D0"
             ],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 640 xxx-x x-xxx"
         },
         {
             "name": "648 251-6 \/ 648 751-6",
@@ -59,7 +66,8 @@
                 "latitude": 52.251,
                 "longitude": 10.539,
                 "timestamp": "2020-12-20T18:00:00+01:00"
-            }
+            },
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "648 255-8 \/ 648 755-7 \"Osterode am Harz\"",
@@ -72,7 +80,8 @@
                 "latitude": 51.537,
                 "longitude": 9.927,
                 "timestamp": "2021-02-21T18:00:00+01:00"
-            }
+            },
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "648 265-7 \/ 648 765-5",
@@ -80,7 +89,8 @@
             "bssid": [
                 "40:01:7A:0F:D3:70"
             ],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "648 272-2 \/ 648 772-1",
@@ -93,7 +103,8 @@
                 "latitude": 51.912,
                 "longitude": 10.421,
                 "timestamp": "2020-12-20T15:00:00+01:00"
-            }
+            },
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "648 343-1 \/ 648 843-0 \"Neustadt in Holstein\"",
@@ -105,7 +116,8 @@
                 "latitude": 53.475,
                 "longitude": 10.623,
                 "timestamp": "2020-07-09T14:00:00+02:00"
-            }
+            },
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "648 757-2 \/ 648 257-3 \"Kreiensen\"",
@@ -118,7 +130,8 @@
                 "latitude": 51.537,
                 "longitude": 9.926,
                 "timestamp": "2021-10-17T16:00:00+02:00"
-            }
+            },
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "648 760-6 \/ 648 260-7 \"Seesen\"",
@@ -127,7 +140,8 @@
                 "40:01:7A:0F:D4:90",
                 "40:01:7A:11:8E:A0"
             ],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "648 764-8 \/ 648 264-9",
@@ -136,7 +150,8 @@
                 "40:01:7A:8C:A0:70",
                 "40:01:7A:8F:FA:30"
             ],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "648 770-5 \/ 648 270-6",
@@ -145,7 +160,8 @@
                 "18:80:90:24:FC:90",
                 "18:80:90:25:2B:80"
             ],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "648 962-8 \/ 648 462-9",
@@ -158,7 +174,8 @@
                 "latitude": 53.911,
                 "longitude": 10.734,
                 "timestamp": "2020-07-09T12:00:00+02:00"
-            }
+            },
+            "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
             "name": "D-DB 50 80 26-81 357-8 (DBpza 782.1)",
@@ -172,7 +189,7 @@
                 "longitude": 9.742,
                 "timestamp": "2021-10-13T17:00:00+02:00"
             },
-            "uic": "xx xx xxxx xxx-x D-DB"
+            "uic": "xx xx xxxx 357-8 D-DB"
         },
         {
             "name": "D-DB 50 80 86-75 061-1 (DBpbzfa 765.5)",
@@ -185,7 +202,8 @@
                 "latitude": 53.083,
                 "longitude": 8.815,
                 "timestamp": "2021-10-23T20:00:00+02:00"
-            }
+            },
+            "uic": "xx xx xxxx 61-1 x-xxx"
         },
         {
             "name": "DB Regio Dosto",
