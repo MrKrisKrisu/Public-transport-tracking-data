@@ -25,7 +25,8 @@
             "name": "3427 039 \/ 3427 539",
             "type": "train",
             "bssid": [],
-            "last_position": []
+            "last_position": [],
+            "uic": "xx xx 3427 xxx-x x-xxx"
         },
         {
             "name": "3427 040 \/ 3427 540",

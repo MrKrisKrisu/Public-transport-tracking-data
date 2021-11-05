@@ -171,7 +171,8 @@
                 "latitude": 52.377,
                 "longitude": 9.742,
                 "timestamp": "2021-10-13T17:00:00+02:00"
-            }
+            },
+            "uic": "xx xx xxxx xxx-x D-DB"
         },
         {
             "name": "D-DB 50 80 86-75 061-1 (DBpbzfa 765.5)",
