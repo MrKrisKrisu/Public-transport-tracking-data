@@ -78,6 +78,18 @@
             }
         },
         {
+            "name": "IC2 Tz 2875",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:93:A1:37"
+            ],
+            "last_position": {
+                "latitude": 52.314,
+                "longitude": 10.263,
+                "timestamp": "2021-11-05T19:00:00+01:00"
+            }
+        },
+        {
             "name": "IC2 Tz 4902",
             "type": null,
             "bssid": [],
