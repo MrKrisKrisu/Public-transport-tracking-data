@@ -52,8 +52,7 @@
                 "00:A3:8E:CF:F0:60",
                 "00:A3:8E:C2:8A:D0"
             ],
-            "last_position": [],
-            "uic": "xx xx 640 xxx-x x-xxx"
+            "last_position": []
         },
         {
             "name": "648 251-6 \/ 648 751-6",
@@ -203,7 +202,7 @@
                 "longitude": 8.815,
                 "timestamp": "2021-10-23T20:00:00+02:00"
             },
-            "uic": "xx xx xxxx 61-1 x-xxx"
+            "uic": "xx xx xxxx 61-1 D-DB"
         },
         {
             "name": "DB Regio Dosto",
