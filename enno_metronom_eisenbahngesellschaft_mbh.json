@@ -181,9 +181,9 @@
                 "0E:90:E8:40:85:31"
             ],
             "last_position": {
-                "latitude": 52.377,
+                "latitude": 52.378,
                 "longitude": 9.742,
-                "timestamp": "2020-08-05T16:00:00+02:00"
+                "timestamp": "2021-11-13T11:00:00+01:00"
             }
         },
         {
@@ -355,8 +355,8 @@
             ],
             "last_position": {
                 "latitude": 52.377,
-                "longitude": 9.743,
-                "timestamp": "2020-12-22T13:00:00+01:00"
+                "longitude": 9.742,
+                "timestamp": "2021-11-13T11:00:00+01:00"
             }
         }
     ]

@@ -432,8 +432,8 @@
                 "00:0E:8E:70:A4:3D"
             ],
             "last_position": {
-                "latitude": 51.725,
-                "longitude": 9.972,
+                "latitude": 52.362,
+                "longitude": 9.767,
                 "timestamp": "2021-11-14T18:00:00+01:00"
             }
         },
@@ -641,9 +641,9 @@
                 "00:0E:8E:6E:5E:F5"
             ],
             "last_position": {
-                "latitude": 52.62,
-                "longitude": 10.062,
-                "timestamp": "2021-03-26T11:00:00+01:00"
+                "latitude": 52.376,
+                "longitude": 9.743,
+                "timestamp": "2021-11-13T11:00:00+01:00"
             }
         },
         {
