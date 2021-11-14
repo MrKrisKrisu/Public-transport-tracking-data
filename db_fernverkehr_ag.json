@@ -426,6 +426,18 @@
             }
         },
         {
+            "name": "ICE Tz 1176 \"Coburg\"",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:70:A4:3D"
+            ],
+            "last_position": {
+                "latitude": 51.725,
+                "longitude": 9.972,
+                "timestamp": "2021-11-14T18:00:00+01:00"
+            }
+        },
+        {
             "name": "ICE Tz 1184 \"Kaiserslautern\"",
             "type": "train",
             "bssid": [],
