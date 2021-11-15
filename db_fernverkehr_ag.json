@@ -429,6 +429,7 @@
             "name": "ICE Tz 1176 \"Coburg\"",
             "type": "train",
             "bssid": [
+                "00:0E:8E:71:11:97",
                 "00:0E:8E:70:A4:3D"
             ],
             "last_position": {
@@ -1288,6 +1289,19 @@
                 "latitude": 52.377,
                 "longitude": 9.742,
                 "timestamp": "2021-07-30T17:00:00+02:00"
+            }
+        },
+        {
+            "name": "ICE Tz 9452",
+            "type": "train",
+            "bssid": [
+                "64:3A:EA:BF:02:F0",
+                "64:3A:EA:BF:0A:81"
+            ],
+            "last_position": {
+                "latitude": 51.312,
+                "longitude": 9.447,
+                "timestamp": "2021-11-14T17:00:00+01:00"
             }
         },
         {
