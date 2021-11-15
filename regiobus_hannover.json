@@ -516,8 +516,14 @@
         {
             "name": "RH 496",
             "type": "bus",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "04:F0:21:51:6B:40"
+            ],
+            "last_position": {
+                "latitude": 52.378,
+                "longitude": 9.741,
+                "timestamp": "2021-08-02T12:00:00+02:00"
+            }
         },
         {
             "name": "RH 498",

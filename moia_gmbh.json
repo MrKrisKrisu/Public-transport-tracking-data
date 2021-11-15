@@ -18,6 +18,18 @@
                 "74:49:ED:85:A5:08"
             ],
             "last_position": []
+        },
+        {
+            "name": "H-MO 935 (537)",
+            "type": "bus",
+            "bssid": [
+                "00:30:44:25:BC:FD"
+            ],
+            "last_position": {
+                "latitude": 52.387,
+                "longitude": 9.734,
+                "timestamp": "2021-09-11T22:00:00+02:00"
+            }
         }
     ]
 }
