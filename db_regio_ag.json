@@ -672,7 +672,7 @@
             "type": "train",
             "bssid": [],
             "last_position": [],
-            "uic": "50 80 2675 44-x "
+            "uic": "50 80 2675 44-0 D-DB"
         },
         {
             "name": "50 80 2675 045-x (DBpza 753.5)",
@@ -1288,7 +1288,7 @@
             "type": "train",
             "bssid": [],
             "last_position": [],
-            "uic": "50 80 2675 153-x "
+            "uic": "50 80 2675 153-9 D-DB"
         },
         {
             "name": "50 80 2675 154-x (DBpza 753.5)",
@@ -1386,7 +1386,7 @@
             "type": "train",
             "bssid": [],
             "last_position": [],
-            "uic": "50 80 2675 167-x "
+            "uic": "50 80 2675 167-9 D-DB"
         },
         {
             "name": "50 80 2675 168-x (DBpza 753.5)",
