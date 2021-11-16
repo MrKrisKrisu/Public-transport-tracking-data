@@ -76,8 +76,14 @@
         {
             "name": "50 80 26-75 105-9",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "2C:5A:0F:09:2B:90"
+            ],
+            "last_position": {
+                "latitude": 52.392,
+                "longitude": 9.723,
+                "timestamp": "2021-04-15T10:00:00+02:00"
+            },
             "uic": "50 80 2675 105-9 D-DB"
         },
         {
@@ -95,6 +101,20 @@
             "uic": "50 80 2681 356-0 D-DB"
         },
         {
+            "name": "50 80 26-81 357-8 (DBpza 782.1)",
+            "type": "train",
+            "bssid": [
+                "40:01:7A:7B:2B:90",
+                "40:01:7A:77:5F:70"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.742,
+                "timestamp": "2021-10-13T17:00:00+02:00"
+            },
+            "uic": "50 80 2681 357-8 D-DB"
+        },
+        {
             "name": "50 80 36-75 050-5",
             "type": "train",
             "bssid": [
@@ -109,6 +129,34 @@
             "uic": "50 80 3675 50-5 D-DB"
         },
         {
+            "name": "50 80 36-75 070-3",
+            "type": "train",
+            "bssid": [
+                "00:A3:8E:21:F6:E0",
+                "00:A3:8E:26:AF:00"
+            ],
+            "last_position": {
+                "latitude": 52.378,
+                "longitude": 9.741,
+                "timestamp": "2021-11-16T09:00:00+01:00"
+            },
+            "uic": "50 80 3675 70-3 D-DB"
+        },
+        {
+            "name": "50 80 86-75 052-0",
+            "type": "train",
+            "bssid": [
+                "18:80:90:39:B1:E0",
+                "18:80:90:38:9F:10"
+            ],
+            "last_position": {
+                "latitude": 52.422,
+                "longitude": 9.451,
+                "timestamp": "2021-11-16T09:00:00+01:00"
+            },
+            "uic": "50 80 8675 52-0 D-DB"
+        },
+        {
             "name": "50 80 86-75 059-5",
             "type": "train",
             "bssid": [
@@ -117,6 +165,20 @@
             ],
             "last_position": [],
             "uic": "50 80 8675 59-5 D-DB"
+        },
+        {
+            "name": "50 80 86-75 061-1 (DBpbzfa 765.5)",
+            "type": "train",
+            "bssid": [
+                "00:27:E3:44:6A:E0",
+                "00:27:E3:4B:77:30"
+            ],
+            "last_position": {
+                "latitude": 53.083,
+                "longitude": 8.815,
+                "timestamp": "2021-10-23T20:00:00+02:00"
+            },
+            "uic": "50 80 8675 61-1 D-DB"
         },
         {
             "name": "640 030-2",
@@ -250,42 +312,13 @@
             "uic": "xx xx 648 xxx-x x-xxx"
         },
         {
-            "name": "D-DB 50 80 26-81 357-8 (DBpza 782.1)",
-            "type": "train",
-            "bssid": [
-                "40:01:7A:7B:2B:90",
-                "40:01:7A:77:5F:70"
-            ],
-            "last_position": {
-                "latitude": 52.377,
-                "longitude": 9.742,
-                "timestamp": "2021-10-13T17:00:00+02:00"
-            },
-            "uic": "50 80 2681 357-8 D-DB"
-        },
-        {
-            "name": "D-DB 50 80 86-75 061-1 (DBpbzfa 765.5)",
-            "type": "train",
-            "bssid": [
-                "00:27:E3:44:6A:E0",
-                "00:27:E3:4B:77:30"
-            ],
-            "last_position": {
-                "latitude": 53.083,
-                "longitude": 8.815,
-                "timestamp": "2021-10-23T20:00:00+02:00"
-            },
-            "uic": "50 80 8675 61-1 D-DB"
-        },
-        {
-            "name": "DB Regio Dosto",
+            "name": "DB Regio Dosto (DUMMY ZUGVERBAND)",
             "type": "train",
             "bssid": [
                 "00:2C:C8:E4:9F:90",
                 "00:A3:8E:BA:AF:C0",
                 "00:2C:C8:E0:C4:70",
                 "00:2C:C8:EC:BC:90",
-                "2C:5A:0F:09:2B:90",
                 "00:A3:8E:D3:3F:C0",
                 "00:A3:8E:CE:52:B0",
                 "00:A3:8E:CF:F4:90",
@@ -299,7 +332,6 @@
                 "00:2C:C8:E0:BE:C0",
                 "00:A3:8E:CF:F1:50",
                 "00:A3:8E:C2:8B:C0",
-                "18:80:90:39:B1:E0",
                 "2C:5A:0F:D5:D0:70",
                 "2C:5A:0F:09:2A:10",
                 "40:CE:24:C5:00:90",
