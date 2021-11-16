@@ -4,30 +4,6 @@
     },
     "vehicles": [
         {
-            "name": "",
-            "type": "train",
-            "bssid": [
-                "00:27:E3:68:D2:B0",
-                "00:27:E3:66:5E:B0"
-            ],
-            "last_position": [],
-            "uic": "50 80 8675 59-5 D-DB"
-        },
-        {
-            "name": "-",
-            "type": "train",
-            "bssid": [
-                "40:CE:24:89:75:30",
-                "18:80:90:14:EF:80"
-            ],
-            "last_position": {
-                "latitude": 52.377,
-                "longitude": 9.743,
-                "timestamp": "2020-12-22T13:00:00+01:00"
-            },
-            "uic": "50 80 2681 356-0 D-DB"
-        },
-        {
             "name": "423 417 \/ 423 917",
             "type": "train",
             "bssid": [],
@@ -68,6 +44,79 @@
             "bssid": [],
             "last_position": [],
             "uic": "xx xx 430 xxx-x x-xxx"
+        },
+        {
+            "name": "50 80 26-75 037-4",
+            "type": "train",
+            "bssid": [
+                "00:A3:8E:D3:17:00",
+                "00:A3:8E:D4:A8:E0"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.743,
+                "timestamp": "2021-11-16T12:00:00+01:00"
+            },
+            "uic": "50 80 2675 37-4 D-DB"
+        },
+        {
+            "name": "50 80 26-75 100-0",
+            "type": "train",
+            "bssid": [
+                "2C:5A:0F:0C:63:A0",
+                "2C:5A:0F:3D:7F:F0"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.742,
+                "timestamp": "2021-11-16T12:00:00+01:00"
+            },
+            "uic": "50 80 2675 100-0 D-DB"
+        },
+        {
+            "name": "50 80 26-75 105-9",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "50 80 2675 105-9 D-DB"
+        },
+        {
+            "name": "50 80 26-81 356-0",
+            "type": "train",
+            "bssid": [
+                "40:CE:24:89:75:30",
+                "18:80:90:14:EF:80"
+            ],
+            "last_position": {
+                "latitude": 52.377,
+                "longitude": 9.743,
+                "timestamp": "2020-12-22T13:00:00+01:00"
+            },
+            "uic": "50 80 2681 356-0 D-DB"
+        },
+        {
+            "name": "50 80 36-75 050-5",
+            "type": "train",
+            "bssid": [
+                "2C:5A:0F:A1:3A:A0",
+                "2C:5A:0F:A6:47:D0"
+            ],
+            "last_position": {
+                "latitude": 52.646,
+                "longitude": 9.218,
+                "timestamp": "2021-11-16T11:00:00+01:00"
+            },
+            "uic": "50 80 3675 50-5 D-DB"
+        },
+        {
+            "name": "50 80 86-75 059-5",
+            "type": "train",
+            "bssid": [
+                "00:27:E3:68:D2:B0",
+                "00:27:E3:66:5E:B0"
+            ],
+            "last_position": [],
+            "uic": "50 80 8675 59-5 D-DB"
         },
         {
             "name": "640 030-2",
@@ -212,7 +261,7 @@
                 "longitude": 9.742,
                 "timestamp": "2021-10-13T17:00:00+02:00"
             },
-            "uic": "xx xx xxxx 357-8 D-DB"
+            "uic": "50 80 2681 357-8 D-DB"
         },
         {
             "name": "D-DB 50 80 86-75 061-1 (DBpbzfa 765.5)",
@@ -226,7 +275,7 @@
                 "longitude": 8.815,
                 "timestamp": "2021-10-23T20:00:00+02:00"
             },
-            "uic": "xx xx xxxx 61-1 D-DB"
+            "uic": "50 80 8675 61-1 D-DB"
         },
         {
             "name": "DB Regio Dosto",
@@ -246,8 +295,6 @@
                 "00:2C:C8:B8:23:90",
                 "00:2C:C8:BC:A4:90",
                 "00:A3:8E:BC:58:60",
-                "2C:5A:0F:0C:63:A0",
-                "2C:5A:0F:3D:7F:F0",
                 "40:CE:24:FA:71:90",
                 "00:2C:C8:E0:BE:C0",
                 "00:A3:8E:CF:F1:50",
@@ -260,8 +307,6 @@
                 "2C:5A:0F:A6:55:80",
                 "2C:5A:0F:09:21:B0",
                 "2C:5A:0F:38:98:E0",
-                "00:A3:8E:D3:17:00",
-                "00:A3:8E:D4:A8:E0",
                 "2C:5A:0F:38:A1:40",
                 "40:01:7A:8F:FC:30",
                 "40:CE:24:C7:93:E0",
@@ -287,9 +332,9 @@
                 "AC:3A:67:C7:AC:B0"
             ],
             "last_position": {
-                "latitude": 52.377,
-                "longitude": 9.743,
-                "timestamp": "2021-11-13T11:00:00+01:00"
+                "latitude": 52.645,
+                "longitude": 9.218,
+                "timestamp": "2021-11-16T11:00:00+01:00"
             }
         }
     ]
