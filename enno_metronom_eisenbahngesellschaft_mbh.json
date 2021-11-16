@@ -4,6 +4,1546 @@
     },
     "vehicles": [
         {
+            "name": "55 80 2673 311-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 311-x D-ME"
+        },
+        {
+            "name": "55 80 2673 312-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 312-x D-ME"
+        },
+        {
+            "name": "55 80 2673 313-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 313-x D-ME"
+        },
+        {
+            "name": "55 80 2673 314-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 314-x D-ME"
+        },
+        {
+            "name": "55 80 2673 315-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 315-x D-ME"
+        },
+        {
+            "name": "55 80 2673 316-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 316-x D-ME"
+        },
+        {
+            "name": "55 80 2673 317-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 317-x D-ME"
+        },
+        {
+            "name": "55 80 2673 318-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 318-x D-ME"
+        },
+        {
+            "name": "55 80 2673 319-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 319-x D-ME"
+        },
+        {
+            "name": "55 80 2673 320-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 320-x D-ME"
+        },
+        {
+            "name": "55 80 2673 321-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 321-x D-ME"
+        },
+        {
+            "name": "55 80 2673 322-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 322-x D-ME"
+        },
+        {
+            "name": "55 80 2673 391-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 391-x D-ME"
+        },
+        {
+            "name": "55 80 2673 392-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 392-x D-ME"
+        },
+        {
+            "name": "55 80 2673 393-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 393-x D-ME"
+        },
+        {
+            "name": "55 80 2673 394-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2673 394-x D-ME"
+        },
+        {
+            "name": "55 80 2675 001-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 1-x D-ME"
+        },
+        {
+            "name": "55 80 2675 002-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 2-x D-ME"
+        },
+        {
+            "name": "55 80 2675 003-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 3-x D-ME"
+        },
+        {
+            "name": "55 80 2675 004-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 4-x D-ME"
+        },
+        {
+            "name": "55 80 2675 005-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 5-x D-ME"
+        },
+        {
+            "name": "55 80 2675 006-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 6-x D-ME"
+        },
+        {
+            "name": "55 80 2675 007-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 7-x D-ME"
+        },
+        {
+            "name": "55 80 2675 008-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 8-x D-ME"
+        },
+        {
+            "name": "55 80 2675 009-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 9-x D-ME"
+        },
+        {
+            "name": "55 80 2675 010-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 10-x D-ME"
+        },
+        {
+            "name": "55 80 2675 011-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 11-x D-ME"
+        },
+        {
+            "name": "55 80 2675 012-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 12-x D-ME"
+        },
+        {
+            "name": "55 80 2675 013-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 13-x D-ME"
+        },
+        {
+            "name": "55 80 2675 014-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 14-x D-ME"
+        },
+        {
+            "name": "55 80 2675 015-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 15-x D-ME"
+        },
+        {
+            "name": "55 80 2675 016-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 16-x D-ME"
+        },
+        {
+            "name": "55 80 2675 017-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 17-x D-ME"
+        },
+        {
+            "name": "55 80 2675 018-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 18-x D-ME"
+        },
+        {
+            "name": "55 80 2675 019-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 19-x D-ME"
+        },
+        {
+            "name": "55 80 2675 020-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 20-x D-ME"
+        },
+        {
+            "name": "55 80 2675 021-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 21-x D-ME"
+        },
+        {
+            "name": "55 80 2675 022-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 22-x D-ME"
+        },
+        {
+            "name": "55 80 2675 023-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 23-x D-ME"
+        },
+        {
+            "name": "55 80 2675 024-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 24-x D-ME"
+        },
+        {
+            "name": "55 80 2675 025-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 25-x D-ME"
+        },
+        {
+            "name": "55 80 2675 026-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 26-x D-ME"
+        },
+        {
+            "name": "55 80 2675 027-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 27-x D-ME"
+        },
+        {
+            "name": "55 80 2675 028-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 28-x D-ME"
+        },
+        {
+            "name": "55 80 2675 091-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 91-x D-ME"
+        },
+        {
+            "name": "55 80 2675 092-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 92-x D-ME"
+        },
+        {
+            "name": "55 80 2675 093-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 93-x D-ME"
+        },
+        {
+            "name": "55 80 2675 094-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 94-x D-ME"
+        },
+        {
+            "name": "55 80 2675 095-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 95-x D-ME"
+        },
+        {
+            "name": "55 80 2675 096-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 96-x D-ME"
+        },
+        {
+            "name": "55 80 2675 097-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 97-x D-ME"
+        },
+        {
+            "name": "55 80 2675 098-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 98-x D-ME"
+        },
+        {
+            "name": "55 80 2675 101-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 101-x D-ME"
+        },
+        {
+            "name": "55 80 2675 102-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 102-x D-ME"
+        },
+        {
+            "name": "55 80 2675 103-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 103-x D-ME"
+        },
+        {
+            "name": "55 80 2675 104-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 104-x D-ME"
+        },
+        {
+            "name": "55 80 2675 105-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 105-x D-ME"
+        },
+        {
+            "name": "55 80 2675 106-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 106-x D-ME"
+        },
+        {
+            "name": "55 80 2675 107-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 107-x D-ME"
+        },
+        {
+            "name": "55 80 2675 108-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 108-x D-ME"
+        },
+        {
+            "name": "55 80 2675 109-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 109-x D-ME"
+        },
+        {
+            "name": "55 80 2675 110-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 110-x D-ME"
+        },
+        {
+            "name": "55 80 2675 111-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 111-x D-ME"
+        },
+        {
+            "name": "55 80 2675 112-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 112-x D-ME"
+        },
+        {
+            "name": "55 80 2675 113-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 113-x D-ME"
+        },
+        {
+            "name": "55 80 2675 114-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 114-x D-ME"
+        },
+        {
+            "name": "55 80 2675 115-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 115-x D-ME"
+        },
+        {
+            "name": "55 80 2675 116-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 116-x D-ME"
+        },
+        {
+            "name": "55 80 2675 117-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 117-x D-ME"
+        },
+        {
+            "name": "55 80 2675 118-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 118-x D-ME"
+        },
+        {
+            "name": "55 80 2675 119-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 119-x D-ME"
+        },
+        {
+            "name": "55 80 2675 120-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 120-x D-ME"
+        },
+        {
+            "name": "55 80 2675 121-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 121-x D-ME"
+        },
+        {
+            "name": "55 80 2675 122-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 122-x D-ME"
+        },
+        {
+            "name": "55 80 2675 123-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 123-x D-ME"
+        },
+        {
+            "name": "55 80 2675 124-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 124-x D-ME"
+        },
+        {
+            "name": "55 80 2675 191-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 191-x D-ME"
+        },
+        {
+            "name": "55 80 2675 192-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 192-x D-ME"
+        },
+        {
+            "name": "55 80 2675 193-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 193-x D-ME"
+        },
+        {
+            "name": "55 80 2675 194-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 194-x D-ME"
+        },
+        {
+            "name": "55 80 2675 195-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 195-x D-ME"
+        },
+        {
+            "name": "55 80 2675 196-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 196-x D-ME"
+        },
+        {
+            "name": "55 80 2675 197-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 197-x D-ME"
+        },
+        {
+            "name": "55 80 2675 198-x (DBpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 198-x D-ME"
+        },
+        {
+            "name": "55 80 2675 201-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 201-x "
+        },
+        {
+            "name": "55 80 2675 202-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 202-x "
+        },
+        {
+            "name": "55 80 2675 203-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 203-x "
+        },
+        {
+            "name": "55 80 2675 204-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 204-x "
+        },
+        {
+            "name": "55 80 2675 205-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 205-x "
+        },
+        {
+            "name": "55 80 2675 206-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 206-x "
+        },
+        {
+            "name": "55 80 2675 207-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 207-x "
+        },
+        {
+            "name": "55 80 2675 208-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 208-x "
+        },
+        {
+            "name": "55 80 2675 209-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 209-x "
+        },
+        {
+            "name": "55 80 2675 210-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 210-x "
+        },
+        {
+            "name": "55 80 2675 211-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 211-x "
+        },
+        {
+            "name": "55 80 2675 212-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 212-x "
+        },
+        {
+            "name": "55 80 2675 213-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 213-x "
+        },
+        {
+            "name": "55 80 2675 214-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 214-x "
+        },
+        {
+            "name": "55 80 2675 215-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 215-x "
+        },
+        {
+            "name": "55 80 2675 216-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 216-x "
+        },
+        {
+            "name": "55 80 2675 217-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 217-x "
+        },
+        {
+            "name": "55 80 2675 218-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 218-x "
+        },
+        {
+            "name": "55 80 2675 219-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 219-x "
+        },
+        {
+            "name": "55 80 2675 220-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 220-x "
+        },
+        {
+            "name": "55 80 2675 221-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 221-x "
+        },
+        {
+            "name": "55 80 2675 222-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 222-x "
+        },
+        {
+            "name": "55 80 2675 223-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 223-x "
+        },
+        {
+            "name": "55 80 2675 224-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 224-x "
+        },
+        {
+            "name": "55 80 2675 290-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 290-x "
+        },
+        {
+            "name": "55 80 2675 291-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 291-x "
+        },
+        {
+            "name": "55 80 2675 292-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 292-x "
+        },
+        {
+            "name": "55 80 2675 293-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 293-x "
+        },
+        {
+            "name": "55 80 2675 294-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 294-x "
+        },
+        {
+            "name": "55 80 2675 295-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 295-x "
+        },
+        {
+            "name": "55 80 2675 296-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 296-x "
+        },
+        {
+            "name": "55 80 2675 297-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 297-x "
+        },
+        {
+            "name": "55 80 2675 298-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 298-x "
+        },
+        {
+            "name": "55 80 2675 299-x (DBpz)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 2675 299-x "
+        },
+        {
+            "name": "55 80 3675 001-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 1-x "
+        },
+        {
+            "name": "55 80 3675 002-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 2-x "
+        },
+        {
+            "name": "55 80 3675 003-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 3-x "
+        },
+        {
+            "name": "55 80 3675 004-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 4-x "
+        },
+        {
+            "name": "55 80 3675 005-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 5-x "
+        },
+        {
+            "name": "55 80 3675 006-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 6-x "
+        },
+        {
+            "name": "55 80 3675 007-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 7-x "
+        },
+        {
+            "name": "55 80 3675 008-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 8-x "
+        },
+        {
+            "name": "55 80 3675 091-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 91-x "
+        },
+        {
+            "name": "55 80 3675 092-x (DABpza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 3675 92-x "
+        },
+        {
+            "name": "55 80 8673 001-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 1-x "
+        },
+        {
+            "name": "55 80 8673 002-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 2-x "
+        },
+        {
+            "name": "55 80 8673 003-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 3-x "
+        },
+        {
+            "name": "55 80 8673 004-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 4-x "
+        },
+        {
+            "name": "55 80 8673 005-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 5-x "
+        },
+        {
+            "name": "55 80 8673 006-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 6-x "
+        },
+        {
+            "name": "55 80 8673 007-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 7-x "
+        },
+        {
+            "name": "55 80 8673 008-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 8-x "
+        },
+        {
+            "name": "55 80 8673 091-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 91-x "
+        },
+        {
+            "name": "55 80 8673 092-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 92-x "
+        },
+        {
+            "name": "55 80 8673 101-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 101-x "
+        },
+        {
+            "name": "55 80 8673 102-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 102-x "
+        },
+        {
+            "name": "55 80 8673 103-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 103-x "
+        },
+        {
+            "name": "55 80 8673 104-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 104-x "
+        },
+        {
+            "name": "55 80 8673 105-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 105-x "
+        },
+        {
+            "name": "55 80 8673 106-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 106-x "
+        },
+        {
+            "name": "55 80 8673 191-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 191-x "
+        },
+        {
+            "name": "55 80 8673 192-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 192-x "
+        },
+        {
+            "name": "55 80 8673 201-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 201-x "
+        },
+        {
+            "name": "55 80 8673 202-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 202-x "
+        },
+        {
+            "name": "55 80 8673 203-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 203-x "
+        },
+        {
+            "name": "55 80 8673 204-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 204-x "
+        },
+        {
+            "name": "55 80 8673 205-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 205-x "
+        },
+        {
+            "name": "55 80 8673 206-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 206-x "
+        },
+        {
+            "name": "55 80 8673 207-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 207-x "
+        },
+        {
+            "name": "55 80 8673 291-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 291-x "
+        },
+        {
+            "name": "55 80 8673 292-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 292-x "
+        },
+        {
+            "name": "55 80 8673 299-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 299-x "
+        },
+        {
+            "name": "55 80 8673 301-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 301-x "
+        },
+        {
+            "name": "55 80 8673 302-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 302-x "
+        },
+        {
+            "name": "55 80 8673 303-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 303-x "
+        },
+        {
+            "name": "55 80 8673 311-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 311-x "
+        },
+        {
+            "name": "55 80 8673 312-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 312-x "
+        },
+        {
+            "name": "55 80 8673 313-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 313-x "
+        },
+        {
+            "name": "55 80 8673 314-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 314-x "
+        },
+        {
+            "name": "55 80 8673 391-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 391-x "
+        },
+        {
+            "name": "55 80 8673 392-x (DABpbzkfa)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 8673 392-x "
+        },
+        {
+            "name": "55 80 9673 001-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 1-x "
+        },
+        {
+            "name": "55 80 9673 002-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 2-x "
+        },
+        {
+            "name": "55 80 9673 003-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 3-x "
+        },
+        {
+            "name": "55 80 9673 004-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 4-x "
+        },
+        {
+            "name": "55 80 9673 005-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 5-x "
+        },
+        {
+            "name": "55 80 9673 006-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 6-x "
+        },
+        {
+            "name": "55 80 9673 007-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 7-x "
+        },
+        {
+            "name": "55 80 9673 008-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 8-x "
+        },
+        {
+            "name": "55 80 9673 091-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 91-x "
+        },
+        {
+            "name": "55 80 9673 092-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 92-x "
+        },
+        {
+            "name": "55 80 9673 101-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 101-x "
+        },
+        {
+            "name": "55 80 9673 102-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 102-x "
+        },
+        {
+            "name": "55 80 9673 103-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 103-x "
+        },
+        {
+            "name": "55 80 9673 104-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 104-x "
+        },
+        {
+            "name": "55 80 9673 105-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 105-x "
+        },
+        {
+            "name": "55 80 9673 106-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 106-x "
+        },
+        {
+            "name": "55 80 9673 191-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 191-x "
+        },
+        {
+            "name": "55 80 9673 192-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 192-x "
+        },
+        {
+            "name": "55 80 9673 201-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 201-x "
+        },
+        {
+            "name": "55 80 9673 202-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 202-x "
+        },
+        {
+            "name": "55 80 9673 203-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 203-x "
+        },
+        {
+            "name": "55 80 9673 204-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 204-x "
+        },
+        {
+            "name": "55 80 9673 205-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 205-x "
+        },
+        {
+            "name": "55 80 9673 206-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 206-x "
+        },
+        {
+            "name": "55 80 9673 207-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 207-x "
+        },
+        {
+            "name": "55 80 9673 208-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 208-x "
+        },
+        {
+            "name": "55 80 9673 209-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 209-x "
+        },
+        {
+            "name": "55 80 9673 210-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 210-x "
+        },
+        {
+            "name": "55 80 9673 211-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 211-x "
+        },
+        {
+            "name": "55 80 9673 212-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 212-x "
+        },
+        {
+            "name": "55 80 9673 213-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 213-x "
+        },
+        {
+            "name": "55 80 9673 291-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 291-x "
+        },
+        {
+            "name": "55 80 9673 292-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 292-x "
+        },
+        {
+            "name": "55 80 9673 301-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 301-x "
+        },
+        {
+            "name": "55 80 9673 302-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 302-x "
+        },
+        {
+            "name": "55 80 9673 303-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 303-x "
+        },
+        {
+            "name": "55 80 9673 304-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 304-x "
+        },
+        {
+            "name": "55 80 9673 311-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 311-x "
+        },
+        {
+            "name": "55 80 9673 312-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 312-x "
+        },
+        {
+            "name": "55 80 9673 313-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 313-x "
+        },
+        {
+            "name": "55 80 9673 314-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 314-x "
+        },
+        {
+            "name": "55 80 9673 391-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 391-x "
+        },
+        {
+            "name": "55 80 9673 392-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 392-x "
+        },
+        {
+            "name": "55 80 9673 393-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 393-x "
+        },
+        {
+            "name": "55 80 9673 394-x (DBpdza)",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9673 394-x "
+        },
+        {
+            "name": "55 80 9675 001-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 1-x "
+        },
+        {
+            "name": "55 80 9675 002-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 2-x "
+        },
+        {
+            "name": "55 80 9675 003-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 3-x "
+        },
+        {
+            "name": "55 80 9675 004-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 4-x "
+        },
+        {
+            "name": "55 80 9675 005-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 5-x "
+        },
+        {
+            "name": "55 80 9675 006-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 6-x "
+        },
+        {
+            "name": "55 80 9675 007-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 7-x "
+        },
+        {
+            "name": "55 80 9675 008-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 8-x "
+        },
+        {
+            "name": "55 80 9675 091-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 91-x "
+        },
+        {
+            "name": "55 80 9675 092-x ",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "55 80 9675 92-x "
+        },
+        {
             "name": "Enno 101",
             "type": "train",
             "bssid": [],
