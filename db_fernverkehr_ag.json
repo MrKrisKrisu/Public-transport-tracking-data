@@ -227,6 +227,18 @@
             "last_position": []
         },
         {
+            "name": "ICE Tz 1104 \"Erfurt\"",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:70:35:84"
+            ],
+            "last_position": {
+                "latitude": 50.863,
+                "longitude": 9.589,
+                "timestamp": "2021-11-20T19:00:00+01:00"
+            }
+        },
+        {
             "name": "ICE Tz 1105 \"Dresden\"",
             "type": "train",
             "bssid": [
