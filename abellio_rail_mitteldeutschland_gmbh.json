@@ -16,6 +16,19 @@
                 "timestamp": "2021-11-05T17:00:00+01:00"
             },
             "uic": "xx xx 1648 xxx-x x-xxx"
+        },
+        {
+            "name": "95 80 1648 447-8 D-ABRM",
+            "type": "train",
+            "bssid": [
+                "06:F0:21:3C:86:83"
+            ],
+            "last_position": {
+                "latitude": 52.13,
+                "longitude": 11.637,
+                "timestamp": "2021-11-05T17:00:00+01:00"
+            },
+            "uic": "95 80 1648 447-8 D-ABRM"
         }
     ]
 }

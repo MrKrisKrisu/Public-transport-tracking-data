@@ -18,6 +18,19 @@
             }
         },
         {
+            "name": "IC1 RPF471001",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:5F:EF:37",
+                "00:0E:8E:5F:EF:35"
+            ],
+            "last_position": {
+                "latitude": 51.842,
+                "longitude": 9.987,
+                "timestamp": "2021-11-20T16:00:00+01:00"
+            }
+        },
+        {
             "name": "IC2 Tz 2855",
             "type": null,
             "bssid": [],
@@ -593,6 +606,18 @@
                 "latitude": 52.377,
                 "longitude": 9.742,
                 "timestamp": "2020-10-25T18:00:00+01:00"
+            }
+        },
+        {
+            "name": "ICE Tz 187",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:6E:20:10"
+            ],
+            "last_position": {
+                "latitude": 52.145,
+                "longitude": 11.388,
+                "timestamp": "2021-11-05T15:00:00+01:00"
             }
         },
         {

@@ -52,6 +52,24 @@
                 "longitude": 9.742,
                 "timestamp": "2021-11-20T15:00:00+01:00"
             }
+        },
+        {
+            "name": "metronom Tz: \r\nD-BTH 55 80 86 73 303-4 DABpbzkfa, \r\nD-BTH 55 80 96 73 006-1 DBdpza, \r\nD-BTH 55 80 96 75 002-8 DBpza, \r\nD-BTH 55 80 26 75 220-1 DBpza, \r\nD-BTH 55 80 26 75 104-7 DBpza, \r\nD-BTH 55 80 26 75 023-9 DBpza,\r\nD-BTH 55 80 96 75 007-7 DBpza",
+            "type": "train",
+            "bssid": [
+                "00:15:61:21:0E:29",
+                "00:15:61:21:10:5C",
+                "00:15:61:20:BB:6F",
+                "00:15:61:21:0E:26",
+                "00:15:61:21:0E:1F",
+                "00:15:61:21:10:E5"
+            ],
+            "last_position": {
+                "latitude": 52.376,
+                "longitude": 9.742,
+                "timestamp": "2021-11-20T15:00:00+01:00"
+            },
+            "uic": "xx xx xxxx xxx-x D-BTH"
         }
     ]
 }
