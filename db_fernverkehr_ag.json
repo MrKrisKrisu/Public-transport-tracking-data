@@ -1128,6 +1128,22 @@
             }
         },
         {
+            "name": "ICE Tz 9014",
+            "type": "train",
+            "bssid": [
+                "06:90:E8:5B:3D:08",
+                "06:90:E8:5B:3D:22",
+                "06:90:E8:5B:3D:17",
+                "06:90:E8:5F:56:9A",
+                "6C:31:0E:CF:D3:D0"
+            ],
+            "last_position": {
+                "latitude": 51.934,
+                "longitude": 9.998,
+                "timestamp": "2021-11-30T08:00:00+01:00"
+            }
+        },
+        {
             "name": "ICE Tz 9018 \"Freistaat Bayern\"",
             "type": null,
             "bssid": [
