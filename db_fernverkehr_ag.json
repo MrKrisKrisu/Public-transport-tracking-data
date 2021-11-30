@@ -1524,13 +1524,17 @@
                 "64:3A:EA:BF:07:E0",
                 "64:3A:EA:BF:03:C1",
                 "64:3A:EA:BF:03:C0",
+                "64:3A:EA:BF:03:60",
+                "64:3A:EA:BF:03:61",
+                "06:90:E8:86:DD:65",
                 "64:3A:EA:BF:03:F0",
                 "64:3A:EA:BF:09:20",
+                "64:3A:EA:BF:03:F1",
                 "64:3A:EA:BF:09:21"
             ],
             "last_position": {
-                "latitude": 50.027,
-                "longitude": 8.599,
+                "latitude": 50.124,
+                "longitude": 8.96,
                 "timestamp": "2021-11-30T14:00:00+01:00"
             }
         },
