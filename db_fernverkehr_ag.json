@@ -1545,6 +1545,14 @@
             "type": "train",
             "bssid": [],
             "last_position": []
+        },
+        {
+            "name": "Metropolitan (ehem.)",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:5E:C2:77"
+            ],
+            "last_position": []
         }
     ]
 }
