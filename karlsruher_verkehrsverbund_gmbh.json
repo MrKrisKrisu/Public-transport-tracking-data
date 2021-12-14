@@ -4,15 +4,27 @@
     },
     "vehicles": [
         {
+            "name": "837",
+            "type": "tram",
+            "bssid": [
+                "04:F0:21:33:44:85"
+            ],
+            "last_position": {
+                "latitude": 49.008,
+                "longitude": 8.403,
+                "timestamp": "2021-12-12T13:00:00+01:00"
+            }
+        },
+        {
             "name": "KVV 862",
             "type": "tram",
             "bssid": [
                 "04:F0:21:33:44:82"
             ],
             "last_position": {
-                "latitude": 49.013,
-                "longitude": 8.355,
-                "timestamp": "2021-09-25T15:00:00+02:00"
+                "latitude": 48.993,
+                "longitude": 8.397,
+                "timestamp": "2021-12-11T17:00:00+01:00"
             }
         }
     ]
