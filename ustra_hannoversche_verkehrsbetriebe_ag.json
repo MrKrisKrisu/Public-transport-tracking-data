@@ -5893,6 +5893,39 @@
             "last_position": []
         },
         {
+            "name": "9101",
+            "type": "bus",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "9102",
+            "type": "bus",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "9103",
+            "type": "bus",
+            "bssid": [],
+            "last_position": []
+        },
+        {
+            "name": "9104",
+            "type": "bus",
+            "bssid": [
+                "00:1A:DD:74:F7:41",
+                "00:1A:DD:74:F7:51"
+            ],
+            "last_position": []
+        },
+        {
+            "name": "9105",
+            "type": "bus",
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "name": "9321",
             "type": "bus",
             "bssid": [],
