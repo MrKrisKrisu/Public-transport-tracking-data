@@ -5731,8 +5731,15 @@
         {
             "name": "8430",
             "type": "bus",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "00:1A:DD:26:9D:C1",
+                "00:1A:DD:26:9D:D1"
+            ],
+            "last_position": {
+                "latitude": 52.333,
+                "longitude": 9.777,
+                "timestamp": "2021-12-09T07:00:00+01:00"
+            }
         },
         {
             "name": "8431",
