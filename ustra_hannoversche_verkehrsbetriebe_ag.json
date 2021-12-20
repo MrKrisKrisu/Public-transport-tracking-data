@@ -4890,8 +4890,14 @@
         {
             "name": "8248",
             "type": "bus",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "00:1A:DD:26:88:81"
+            ],
+            "last_position": {
+                "latitude": 52.394,
+                "longitude": 9.736,
+                "timestamp": "2021-10-10T19:00:00+02:00"
+            }
         },
         {
             "name": "8249",
