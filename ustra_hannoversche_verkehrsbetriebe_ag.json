@@ -4532,8 +4532,14 @@
         {
             "name": "7932",
             "type": "bus",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "00:1A:DD:26:80:B1"
+            ],
+            "last_position": {
+                "latitude": 52.38,
+                "longitude": 9.741,
+                "timestamp": "2021-07-13T20:00:00+02:00"
+            }
         },
         {
             "name": "7933",
