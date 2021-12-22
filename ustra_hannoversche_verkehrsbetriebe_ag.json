@@ -4436,8 +4436,15 @@
         {
             "name": "7924",
             "type": "bus",
-            "bssid": [],
-            "last_position": []
+            "bssid": [
+                "00:1A:DD:26:48:A1",
+                "00:1A:DD:26:48:B1"
+            ],
+            "last_position": {
+                "latitude": 52.388,
+                "longitude": 9.726,
+                "timestamp": "2021-06-22T00:00:00+02:00"
+            }
         },
         {
             "name": "7925",
