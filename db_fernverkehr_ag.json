@@ -111,6 +111,24 @@
             "last_position": []
         },
         {
+            "name": "ic2-462",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:91:57:56",
+                "00:0E:8E:91:57:55",
+                "04:F0:21:63:F3:73",
+                "04:F0:21:63:F3:67",
+                "04:F0:21:3E:6F:D4",
+                "96:9A:0E:A4:F4:E6",
+                "5E:70:01:E6:26:5E"
+            ],
+            "last_position": {
+                "latitude": 52.333,
+                "longitude": 9.777,
+                "timestamp": "2021-12-06T13:00:00+01:00"
+            }
+        },
+        {
             "name": "ICE Tz 03 \"Neu-Isenburg\"",
             "type": "train",
             "bssid": [
