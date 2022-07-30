@@ -1214,16 +1214,15 @@
                 "6C:31:0E:CF:E8:D2",
                 "6C:31:0E:CF:D3:A2",
                 "6C:31:0E:CF:D4:90",
-                "6C:31:0E:CF:D4:91",
                 "6C:31:0E:CF:D4:60",
                 "6C:31:0E:CF:D4:92",
                 "6C:31:0E:CF:D4:61",
                 "6C:31:0E:CF:D4:62"
             ],
             "last_position": {
-                "latitude": 51.883,
-                "longitude": 9.095,
-                "timestamp": "2022-07-30T22:00:00+02:00"
+                "latitude": 49.479,
+                "longitude": 8.47,
+                "timestamp": "2021-11-30T11:00:00+01:00"
             }
         },
         {
