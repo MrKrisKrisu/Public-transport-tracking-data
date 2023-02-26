@@ -4,6 +4,7 @@
     },
     "vehicles": [
         {
+            "id": 1470,
             "name": "H-DA 1072",
             "type": null,
             "bssid": [
@@ -17,6 +18,7 @@
             }
         },
         {
+            "id": 1512,
             "name": "H-DA 1075",
             "type": "bus",
             "bssid": [
@@ -30,6 +32,7 @@
             }
         },
         {
+            "id": 1446,
             "name": "H-DA 1095",
             "type": "bus",
             "bssid": [

@@ -4,6 +4,7 @@
     },
     "vehicles": [
         {
+            "id": 1034,
             "name": "648 189-8 \/ 648 689-7",
             "type": "train",
             "bssid": [

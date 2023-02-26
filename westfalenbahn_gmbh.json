@@ -4,30 +4,35 @@
     },
     "vehicles": [
         {
+            "id": 1482,
             "name": "ET 405",
             "type": null,
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 1483,
             "name": "ET 409 \"Lathen\"",
             "type": null,
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 1481,
             "name": "ET 412 \"Emden \/ Borkum\"",
             "type": null,
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 1484,
             "name": "ET 413 \"Emsb\u00fcren-Leschede\"",
             "type": null,
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 495,
             "name": "ET 601",
             "type": "train",
             "bssid": [
@@ -86,6 +91,7 @@
             }
         },
         {
+            "id": 428,
             "name": "ET 602",
             "type": "train",
             "bssid": [
@@ -146,6 +152,7 @@
             }
         },
         {
+            "id": 447,
             "name": "ET 603",
             "type": "train",
             "bssid": [
@@ -198,6 +205,7 @@
             }
         },
         {
+            "id": 429,
             "name": "ET 605",
             "type": "train",
             "bssid": [
@@ -256,6 +264,7 @@
             }
         },
         {
+            "id": 420,
             "name": "ET 607",
             "type": "train",
             "bssid": [
@@ -318,6 +327,7 @@
             }
         },
         {
+            "id": 438,
             "name": "ET 609",
             "type": "train",
             "bssid": [
@@ -371,6 +381,7 @@
             }
         },
         {
+            "id": 410,
             "name": "ET 610",
             "type": "train",
             "bssid": [
@@ -429,6 +440,7 @@
             }
         },
         {
+            "id": 315,
             "name": "ET 611",
             "type": "train",
             "bssid": [
@@ -489,6 +501,7 @@
             }
         },
         {
+            "id": 406,
             "name": "ET 612",
             "type": "train",
             "bssid": [
@@ -542,6 +555,7 @@
             }
         },
         {
+            "id": 405,
             "name": "ET 613",
             "type": "train",
             "bssid": [

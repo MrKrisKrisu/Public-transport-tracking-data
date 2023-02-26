@@ -4,6 +4,7 @@
     },
     "vehicles": [
         {
+            "id": 1029,
             "name": "RRX 462 080-3",
             "type": "train",
             "bssid": [

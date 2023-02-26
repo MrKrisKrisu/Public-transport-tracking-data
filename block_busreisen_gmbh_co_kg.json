@@ -4,6 +4,7 @@
     },
     "vehicles": [
         {
+            "id": 1444,
             "name": "NI-AL 11",
             "type": "bus",
             "bssid": [
@@ -17,6 +18,7 @@
             }
         },
         {
+            "id": 1467,
             "name": "NI-JF 11",
             "type": null,
             "bssid": [

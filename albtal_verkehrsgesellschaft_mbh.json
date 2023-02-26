@@ -1,0 +1,796 @@
+{
+    "company": {
+        "name": "Albtal-Verkehrsgesellschaft mbH"
+    },
+    "vehicles": [
+        {
+            "id": 3302,
+            "name": "450 837",
+            "type": "train",
+            "bssid": [
+                "04:F0:21:33:44:85"
+            ],
+            "last_position": {
+                "latitude": 49.008,
+                "longitude": 8.403,
+                "timestamp": "2021-12-12T13:00:00+01:00"
+            },
+            "uic": "94 80 450 837-x D-AVG"
+        },
+        {
+            "id": 3316,
+            "name": "450 838-8",
+            "type": "train",
+            "bssid": [
+                "04:F0:21:33:44:72"
+            ],
+            "last_position": {
+                "latitude": 49.006,
+                "longitude": 8.434,
+                "timestamp": "2023-02-25T18:00:00+01:00"
+            },
+            "uic": "94 80 450 838-8 D-AVG"
+        },
+        {
+            "id": 3317,
+            "name": "450 839-6",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 839-6 D-AVG"
+        },
+        {
+            "id": 3318,
+            "name": "450 840",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 840-x D-AVG"
+        },
+        {
+            "id": 3319,
+            "name": "450 841-2",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 841-2 D-AVG"
+        },
+        {
+            "id": 3320,
+            "name": "450 842-0",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 842-0 D-AVG"
+        },
+        {
+            "id": 3321,
+            "name": "450 843-8",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 843-8 D-AVG"
+        },
+        {
+            "id": 3322,
+            "name": "450 844-6",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 844-6 D-AVG"
+        },
+        {
+            "id": 3323,
+            "name": "450 845",
+            "type": "train",
+            "bssid": [
+                "04:F0:21:2B:54:6A",
+                "04:F0:21:2B:54:69"
+            ],
+            "last_position": {
+                "latitude": 49.01,
+                "longitude": 8.403,
+                "timestamp": "2023-02-25T16:00:00+01:00"
+            },
+            "uic": "94 80 450 845-x D-AVG"
+        },
+        {
+            "id": 3343,
+            "name": "450 846",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 846-x D-AVG"
+        },
+        {
+            "id": 3344,
+            "name": "450 847",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 847-x D-AVG"
+        },
+        {
+            "id": 3345,
+            "name": "450 848",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 848-x D-AVG"
+        },
+        {
+            "id": 3324,
+            "name": "450 849",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 849-x D-AVG"
+        },
+        {
+            "id": 3325,
+            "name": "450 850-3",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 850-3 D-AVG"
+        },
+        {
+            "id": 3326,
+            "name": "450 851-1",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 851-1 D-AVG"
+        },
+        {
+            "id": 3327,
+            "name": "450 852-9",
+            "type": "train",
+            "bssid": [
+                "04:F0:21:33:43:52"
+            ],
+            "last_position": {
+                "latitude": 49.009,
+                "longitude": 8.417,
+                "timestamp": "2023-02-25T18:00:00+01:00"
+            },
+            "uic": "94 80 450 852-9 D-AVG"
+        },
+        {
+            "id": 3328,
+            "name": "450 853-7",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 853-7 D-AVG"
+        },
+        {
+            "id": 3329,
+            "name": "450 854-5",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 854-5 D-AVG"
+        },
+        {
+            "id": 3330,
+            "name": "450 855",
+            "type": "train",
+            "bssid": [
+                "04:F0:21:2B:54:7E"
+            ],
+            "last_position": {
+                "latitude": 49.012,
+                "longitude": 8.363,
+                "timestamp": "2023-02-25T19:00:00+01:00"
+            },
+            "uic": "94 80 450 855-x D-AVG"
+        },
+        {
+            "id": 3331,
+            "name": "450 856-0",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 856-0 D-AVG"
+        },
+        {
+            "id": 3332,
+            "name": "450 857-8",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 857-8 D-AVG"
+        },
+        {
+            "id": 3333,
+            "name": "450 858",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 858-x D-AVG"
+        },
+        {
+            "id": 3334,
+            "name": "450 859",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 859-x D-AVG"
+        },
+        {
+            "id": 3335,
+            "name": "450 860",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 860-x D-AVG"
+        },
+        {
+            "id": 3336,
+            "name": "450 861",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 861-x D-AVG"
+        },
+        {
+            "id": 1502,
+            "name": "450 862",
+            "type": "train",
+            "bssid": [
+                "04:F0:21:33:44:82"
+            ],
+            "last_position": {
+                "latitude": 49.009,
+                "longitude": 8.411,
+                "timestamp": "2023-02-25T16:00:00+01:00"
+            },
+            "uic": "94 80 450 862-x D-AVG"
+        },
+        {
+            "id": 3338,
+            "name": "450 863",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 863-x D-AVG"
+        },
+        {
+            "id": 3339,
+            "name": "450 864",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 864-x D-AVG"
+        },
+        {
+            "id": 3340,
+            "name": "450 865",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 865-x D-AVG"
+        },
+        {
+            "id": 3341,
+            "name": "450 866",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 866-x D-AVG"
+        },
+        {
+            "id": 3342,
+            "name": "450 867",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 867-x D-AVG"
+        },
+        {
+            "id": 3346,
+            "name": "450 868",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 868-x D-AVG"
+        },
+        {
+            "id": 3347,
+            "name": "450 869",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 869-x D-AVG"
+        },
+        {
+            "id": 3348,
+            "name": "450 870",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 870-x D-AVG"
+        },
+        {
+            "id": 3349,
+            "name": "450 871",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 871-x D-AVG"
+        },
+        {
+            "id": 3350,
+            "name": "450 872",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 872-x D-AVG"
+        },
+        {
+            "id": 3351,
+            "name": "450 873",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 873-x D-AVG"
+        },
+        {
+            "id": 3352,
+            "name": "450 874",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 874-x D-AVG"
+        },
+        {
+            "id": 3353,
+            "name": "450 875",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 875-x D-AVG"
+        },
+        {
+            "id": 3354,
+            "name": "450 876",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 876-x D-AVG"
+        },
+        {
+            "id": 3355,
+            "name": "450 877",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 877-x D-AVG"
+        },
+        {
+            "id": 3356,
+            "name": "450 878",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 878-x D-AVG"
+        },
+        {
+            "id": 3357,
+            "name": "450 879",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 879-x D-AVG"
+        },
+        {
+            "id": 3358,
+            "name": "450 880",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 880-x D-AVG"
+        },
+        {
+            "id": 3359,
+            "name": "450 881",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 881-x D-AVG"
+        },
+        {
+            "id": 3360,
+            "name": "450 882",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 882-x D-AVG"
+        },
+        {
+            "id": 3361,
+            "name": "450 883",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 883-x D-AVG"
+        },
+        {
+            "id": 3362,
+            "name": "450 884",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 884-x D-AVG"
+        },
+        {
+            "id": 3363,
+            "name": "450 885",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 885-x D-AVG"
+        },
+        {
+            "id": 3364,
+            "name": "450 886",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 886-x D-AVG"
+        },
+        {
+            "id": 3365,
+            "name": "450 887",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 887-x D-AVG"
+        },
+        {
+            "id": 3366,
+            "name": "450 888",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 888-x D-AVG"
+        },
+        {
+            "id": 3367,
+            "name": "450 889",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 889-x D-AVG"
+        },
+        {
+            "id": 3368,
+            "name": "450 890",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 890-x D-AVG"
+        },
+        {
+            "id": 3369,
+            "name": "450 891",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 891-x D-AVG"
+        },
+        {
+            "id": 3370,
+            "name": "450 892",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 892-x D-AVG"
+        },
+        {
+            "id": 3371,
+            "name": "450 893",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 893-x D-AVG"
+        },
+        {
+            "id": 3372,
+            "name": "450 894",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 894-x D-AVG"
+        },
+        {
+            "id": 3373,
+            "name": "450 895",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 895-x D-AVG"
+        },
+        {
+            "id": 3374,
+            "name": "450 896",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 896-x D-AVG"
+        },
+        {
+            "id": 3375,
+            "name": "450 897",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 897-x D-AVG"
+        },
+        {
+            "id": 3376,
+            "name": "450 898",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 898-x D-AVG"
+        },
+        {
+            "id": 3377,
+            "name": "450 899",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 899-0 D-AVG"
+        },
+        {
+            "id": 3378,
+            "name": "450 900",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 900-x D-AVG"
+        },
+        {
+            "id": 3379,
+            "name": "450 901",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 901-x D-AVG"
+        },
+        {
+            "id": 3380,
+            "name": "450 902",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 902-x D-AVG"
+        },
+        {
+            "id": 3381,
+            "name": "450 903",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 903-x D-AVG"
+        },
+        {
+            "id": 3382,
+            "name": "450 904",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 904-x D-AVG"
+        },
+        {
+            "id": 3383,
+            "name": "450 905",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 905-x D-AVG"
+        },
+        {
+            "id": 3384,
+            "name": "450 906",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 906-x D-AVG"
+        },
+        {
+            "id": 3385,
+            "name": "450 907",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 907-x D-AVG"
+        },
+        {
+            "id": 3386,
+            "name": "450 908",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 908-x D-AVG"
+        },
+        {
+            "id": 3387,
+            "name": "450 909",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 909-x D-AVG"
+        },
+        {
+            "id": 3388,
+            "name": "450 910-5",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 910-5 D-AVG"
+        },
+        {
+            "id": 3389,
+            "name": "450 911",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 911-x D-AVG"
+        },
+        {
+            "id": 3390,
+            "name": "450 912",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 912-x D-AVG"
+        },
+        {
+            "id": 3391,
+            "name": "450 913",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 913-x D-AVG"
+        },
+        {
+            "id": 3392,
+            "name": "450 914",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 914-x D-AVG"
+        },
+        {
+            "id": 3393,
+            "name": "450 915",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 915-x D-AVG"
+        },
+        {
+            "id": 3394,
+            "name": "450 916",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 916-x D-AVG"
+        },
+        {
+            "id": 3395,
+            "name": "450 917",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 917-x D-AVG"
+        },
+        {
+            "id": 3396,
+            "name": "450 918",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 918-x D-AVG"
+        },
+        {
+            "id": 3397,
+            "name": "450 919",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 919-x D-AVG"
+        },
+        {
+            "id": 3398,
+            "name": "450 920",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 920-x D-AVG"
+        },
+        {
+            "id": 3399,
+            "name": "450 921",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 921-x D-AVG"
+        },
+        {
+            "id": 3400,
+            "name": "450 922",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 922-x D-AVG"
+        },
+        {
+            "id": 3401,
+            "name": "450 923-8 \"Karlsruhe\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 923-8 D-AVG"
+        },
+        {
+            "id": 3402,
+            "name": "450 924-6 \"Offenau\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 924-6 D-AVG"
+        },
+        {
+            "id": 3403,
+            "name": "450 925-3",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 925-3 D-AVG"
+        },
+        {
+            "id": 3404,
+            "name": "450 926-1",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 926-1 D-AVG"
+        },
+        {
+            "id": 3405,
+            "name": "450 927-9",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 927-9 D-AVG"
+        },
+        {
+            "id": 3406,
+            "name": "450 928-7 \"Gundelsheim\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 928-7 D-AVG"
+        },
+        {
+            "id": 3407,
+            "name": "450 929-5",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 929-5 D-AVG"
+        },
+        {
+            "id": 3408,
+            "name": "450 930-3",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 930-3 D-AVG"
+        }
+    ]
+}

@@ -4,6 +4,7 @@
     },
     "vehicles": [
         {
+            "id": 1454,
             "name": "1137",
             "type": null,
             "bssid": [
@@ -17,6 +18,7 @@
             }
         },
         {
+            "id": 1458,
             "name": "2134",
             "type": null,
             "bssid": [
@@ -29,6 +31,7 @@
             }
         },
         {
+            "id": 1445,
             "name": "2162",
             "type": "bus",
             "bssid": [
@@ -42,6 +45,7 @@
             }
         },
         {
+            "id": 1424,
             "name": "2175",
             "type": "bus",
             "bssid": [

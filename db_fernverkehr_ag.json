@@ -4,6 +4,7 @@
     },
     "vehicles": [
         {
+            "id": 1510,
             "name": "IC1 RPF187001",
             "type": "train",
             "bssid": [
@@ -18,6 +19,7 @@
             }
         },
         {
+            "id": 3289,
             "name": "IC1 RPF471001",
             "type": "train",
             "bssid": [
@@ -31,12 +33,14 @@
             }
         },
         {
+            "id": 1480,
             "name": "IC2 Tz 2855",
             "type": null,
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 455,
             "name": "IC2 Tz 2861",
             "type": "train",
             "bssid": [
@@ -49,6 +53,7 @@
             }
         },
         {
+            "id": 1478,
             "name": "IC2 Tz 2868 \"Nationalpark Nieders\u00e4chsisches Wattenmeer\"",
             "type": null,
             "bssid": [
@@ -79,6 +84,7 @@
             }
         },
         {
+            "id": 1453,
             "name": "IC2 Tz 2873",
             "type": null,
             "bssid": [
@@ -91,6 +97,7 @@
             }
         },
         {
+            "id": 1516,
             "name": "IC2 Tz 2875",
             "type": "train",
             "bssid": [
@@ -105,12 +112,14 @@
             }
         },
         {
+            "id": 1479,
             "name": "IC2 Tz 4902",
             "type": null,
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 3312,
             "name": "ic2-462",
             "type": "train",
             "bssid": [
@@ -131,6 +140,7 @@
             }
         },
         {
+            "id": 1439,
             "name": "ICE Tz 03 \"Neu-Isenburg\"",
             "type": "train",
             "bssid": [
@@ -166,6 +176,7 @@
             }
         },
         {
+            "id": 446,
             "name": "ICE Tz 06 \"Itzehoe\"",
             "type": "train",
             "bssid": [
@@ -180,6 +191,7 @@
             }
         },
         {
+            "id": 1498,
             "name": "ICE Tz 07 \"Plattling\"",
             "type": "train",
             "bssid": [
@@ -196,6 +208,7 @@
             }
         },
         {
+            "id": 260,
             "name": "ICE Tz 104 \"Fulda\"",
             "type": "train",
             "bssid": [
@@ -249,6 +262,7 @@
             "last_position": []
         },
         {
+            "id": 3292,
             "name": "ICE Tz 1104 \"Erfurt\"",
             "type": "train",
             "bssid": [
@@ -279,6 +293,7 @@
             }
         },
         {
+            "id": 1506,
             "name": "ICE Tz 1105 \"Dresden\"",
             "type": "train",
             "bssid": [
@@ -294,6 +309,7 @@
             }
         },
         {
+            "id": 1457,
             "name": "ICE Tz 1118 \"Plauen\/Vogtland\"",
             "type": null,
             "bssid": [
@@ -320,6 +336,7 @@
             }
         },
         {
+            "id": 397,
             "name": "ICE Tz 1127 \"Weimar\"",
             "type": "train",
             "bssid": [
@@ -332,6 +349,7 @@
             }
         },
         {
+            "id": 478,
             "name": "ICE Tz 1130 \"Jena\"",
             "type": "train",
             "bssid": [
@@ -344,6 +362,7 @@
             }
         },
         {
+            "id": 1468,
             "name": "ICE Tz 1131 \"Trier\"",
             "type": null,
             "bssid": [
@@ -356,6 +375,7 @@
             }
         },
         {
+            "id": 488,
             "name": "ICE Tz 1155 \"M\u00fchlhausen\/Th\u00fcringen\"",
             "type": "train",
             "bssid": [
@@ -393,6 +413,7 @@
             }
         },
         {
+            "id": 1448,
             "name": "ICE Tz 1156 \"Waren (M\u00fcritz)\"",
             "type": "train",
             "bssid": [
@@ -411,6 +432,7 @@
             }
         },
         {
+            "id": 259,
             "name": "ICE Tz 1158",
             "type": "train",
             "bssid": [
@@ -462,6 +484,7 @@
             }
         },
         {
+            "id": 1505,
             "name": "ICE Tz 1160 \"Markt\/Holzkirchen\"",
             "type": "train",
             "bssid": [
@@ -491,6 +514,7 @@
             }
         },
         {
+            "id": 3294,
             "name": "ICE Tz 1174",
             "type": "train",
             "bssid": [
@@ -522,6 +546,7 @@
             }
         },
         {
+            "id": 1518,
             "name": "ICE Tz 1176 \"Coburg\"",
             "type": "train",
             "bssid": [
@@ -535,12 +560,14 @@
             }
         },
         {
+            "id": 1487,
             "name": "ICE Tz 1184 \"Kaiserslautern\"",
             "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 1488,
             "name": "ICE Tz 1190 \"Wien\"",
             "type": "train",
             "bssid": [
@@ -553,6 +580,7 @@
             }
         },
         {
+            "id": 1465,
             "name": "ICE Tz 13 \"Frankenthal\/Pfalz\"",
             "type": null,
             "bssid": [
@@ -581,6 +609,7 @@
             }
         },
         {
+            "id": 1515,
             "name": "ICE Tz 170",
             "type": "train",
             "bssid": [
@@ -618,6 +647,7 @@
             }
         },
         {
+            "id": 1509,
             "name": "ICE Tz 179",
             "type": "train",
             "bssid": [
@@ -632,18 +662,21 @@
             }
         },
         {
+            "id": 1471,
             "name": "ICE Tz 18 \u201cGelnhausen\u201d",
             "type": null,
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 1517,
             "name": "ICE Tz 181",
             "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 454,
             "name": "ICE Tz 182 \"R\u00fcdesheim\"",
             "type": "train",
             "bssid": [
@@ -692,6 +725,7 @@
             }
         },
         {
+            "id": 3287,
             "name": "ICE Tz 187",
             "type": "train",
             "bssid": [
@@ -704,6 +738,7 @@
             }
         },
         {
+            "id": 1033,
             "name": "ICE Tz 203 \"Cottbus\"",
             "type": "train",
             "bssid": [
@@ -716,6 +751,7 @@
             }
         },
         {
+            "id": 1520,
             "name": "ICE Tz 206 \"Magdeburg\"",
             "type": "train",
             "bssid": [
@@ -741,6 +777,7 @@
             }
         },
         {
+            "id": 479,
             "name": "ICE Tz 208 \"Bonn\"",
             "type": "train",
             "bssid": [
@@ -753,6 +790,7 @@
             }
         },
         {
+            "id": 1435,
             "name": "ICE Tz 210 \"Fontanestadt Neuruppin\"",
             "type": "train",
             "bssid": [
@@ -783,6 +821,7 @@
             }
         },
         {
+            "id": 449,
             "name": "ICE Tz 219 \"Hagen\"",
             "type": "train",
             "bssid": [
@@ -806,6 +845,7 @@
             }
         },
         {
+            "id": 1024,
             "name": "ICE Tz 225 \"Oldenburg\"",
             "type": "train",
             "bssid": [
@@ -834,12 +874,14 @@
             }
         },
         {
+            "id": 1508,
             "name": "ICE Tz 229 \"Templin\"",
             "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 1473,
             "name": "ICE Tz 234 \"Minden\"",
             "type": null,
             "bssid": [
@@ -858,6 +900,7 @@
             }
         },
         {
+            "id": 1511,
             "name": "ICE Tz 235 \"G\u00f6rlitz\"",
             "type": "train",
             "bssid": [
@@ -871,6 +914,7 @@
             }
         },
         {
+            "id": 396,
             "name": "ICE Tz 239",
             "type": "train",
             "bssid": [
@@ -884,6 +928,7 @@
             "last_position": []
         },
         {
+            "id": 422,
             "name": "ICE Tz 239 \"Essen\"",
             "type": "train",
             "bssid": [
@@ -896,6 +941,7 @@
             }
         },
         {
+            "id": 1464,
             "name": "ICE Tz 240 \"Bochum\"",
             "type": null,
             "bssid": [
@@ -908,6 +954,7 @@
             }
         },
         {
+            "id": 399,
             "name": "ICE Tz 243 \"Bautzen\"",
             "type": "train",
             "bssid": [
@@ -921,12 +968,14 @@
             }
         },
         {
+            "id": 1472,
             "name": "ICE Tz 304 \"M\u00fcnchen\"",
             "type": null,
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 443,
             "name": "ICE Tz 58 \"G\u00fctersloh\"",
             "type": "train",
             "bssid": [
@@ -967,6 +1016,7 @@
             }
         },
         {
+            "id": 1431,
             "name": "ICE Tz 60 \"M\u00fclheim an der Ruhr\"",
             "type": "train",
             "bssid": [
@@ -981,6 +1031,7 @@
             }
         },
         {
+            "id": 1036,
             "name": "ICE Tz 67 \"Garmisch Partenkirchen\"",
             "type": "train",
             "bssid": [
@@ -1014,18 +1065,21 @@
             }
         },
         {
+            "id": 1462,
             "name": "ICE Tz 70",
             "type": null,
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 1486,
             "name": "ICE Tz 717 \"Paris\"",
             "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 241,
             "name": "ICE Tz 85",
             "type": "train",
             "bssid": [
@@ -1048,6 +1102,7 @@
             }
         },
         {
+            "id": 286,
             "name": "ICE Tz 9002",
             "type": "train",
             "bssid": [
@@ -1115,6 +1170,7 @@
             }
         },
         {
+            "id": 84,
             "name": "ICE Tz 9007",
             "type": "train",
             "bssid": [
@@ -1140,6 +1196,7 @@
             }
         },
         {
+            "id": 3285,
             "name": "ICE Tz 9008",
             "type": "train",
             "bssid": [
@@ -1190,6 +1247,7 @@
             }
         },
         {
+            "id": 3293,
             "name": "ICE Tz 9014",
             "type": "train",
             "bssid": [
@@ -1214,18 +1272,20 @@
                 "6C:31:0E:CF:E8:D2",
                 "6C:31:0E:CF:D3:A2",
                 "6C:31:0E:CF:D4:90",
+                "6C:31:0E:CF:D4:91",
                 "6C:31:0E:CF:D4:60",
                 "6C:31:0E:CF:D4:92",
                 "6C:31:0E:CF:D4:61",
                 "6C:31:0E:CF:D4:62"
             ],
             "last_position": {
-                "latitude": 49.479,
-                "longitude": 8.47,
-                "timestamp": "2021-11-30T11:00:00+01:00"
+                "latitude": 52.351,
+                "longitude": 9.734,
+                "timestamp": "2022-07-30T22:00:00+02:00"
             }
         },
         {
+            "id": 1469,
             "name": "ICE Tz 9018 \"Freistaat Bayern\"",
             "type": null,
             "bssid": [
@@ -1243,6 +1303,7 @@
             }
         },
         {
+            "id": 3304,
             "name": "ICE Tz 9022",
             "type": "train",
             "bssid": [
@@ -1263,6 +1324,7 @@
             }
         },
         {
+            "id": 1497,
             "name": "ICE Tz 9024",
             "type": "train",
             "bssid": [
@@ -1306,6 +1368,7 @@
             }
         },
         {
+            "id": 1438,
             "name": "ICE Tz 9029 \"Freistaat Sachsen\"",
             "type": "train",
             "bssid": [
@@ -1320,6 +1383,7 @@
             }
         },
         {
+            "id": 395,
             "name": "ICE Tz 9031",
             "type": "train",
             "bssid": [
@@ -1357,6 +1421,7 @@
             }
         },
         {
+            "id": 3297,
             "name": "ICE Tz 9033",
             "type": "train",
             "bssid": [
@@ -1392,6 +1457,7 @@
             }
         },
         {
+            "id": 1035,
             "name": "ICE Tz 9036",
             "type": "train",
             "bssid": [
@@ -1406,6 +1472,7 @@
             }
         },
         {
+            "id": 1503,
             "name": "ICE Tz 9037",
             "type": "train",
             "bssid": [
@@ -1424,6 +1491,7 @@
             }
         },
         {
+            "id": 88,
             "name": "ICE Tz 9043",
             "type": "train",
             "bssid": [
@@ -1454,6 +1522,7 @@
             }
         },
         {
+            "id": 85,
             "name": "ICE Tz 9044",
             "type": "train",
             "bssid": [
@@ -1462,6 +1531,7 @@
             "last_position": []
         },
         {
+            "id": 1037,
             "name": "ICE Tz 9046",
             "type": "train",
             "bssid": [
@@ -1477,6 +1547,7 @@
             }
         },
         {
+            "id": 1485,
             "name": "ICE Tz 9047",
             "type": "train",
             "bssid": [
@@ -1510,6 +1581,7 @@
             }
         },
         {
+            "id": 1519,
             "name": "ICE Tz 9052\/9452",
             "type": "train",
             "bssid": [
@@ -1595,6 +1667,7 @@
             "uic": "xx xx xxxx xxx-x D-DB"
         },
         {
+            "id": 3298,
             "name": "ICE Tz 9058\/9458",
             "type": "train",
             "bssid": [
@@ -1673,6 +1746,7 @@
             }
         },
         {
+            "id": 1447,
             "name": "ICE Tz 9204",
             "type": "train",
             "bssid": [
@@ -1685,6 +1759,7 @@
             }
         },
         {
+            "id": 1476,
             "name": "ICE Tz 9207",
             "type": null,
             "bssid": [
@@ -1700,6 +1775,7 @@
             }
         },
         {
+            "id": 1475,
             "name": "ICE Tz 9214",
             "type": null,
             "bssid": [
@@ -1712,6 +1788,7 @@
             }
         },
         {
+            "id": 1026,
             "name": "ICE Tz 9215",
             "type": "train",
             "bssid": [
@@ -1724,6 +1801,7 @@
             }
         },
         {
+            "id": 1025,
             "name": "ICE Tz 9217",
             "type": "train",
             "bssid": [
@@ -1745,12 +1823,14 @@
             }
         },
         {
+            "id": 1501,
             "name": "ICE Tz 9463",
             "type": "train",
             "bssid": [],
             "last_position": []
         },
         {
+            "id": 3296,
             "name": "Metropolitan (ehem.)",
             "type": "train",
             "bssid": [

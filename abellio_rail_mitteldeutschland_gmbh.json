@@ -4,6 +4,7 @@
     },
     "vehicles": [
         {
+            "id": 1437,
             "name": "1648 422\/922",
             "type": "train",
             "bssid": [
@@ -18,6 +19,7 @@
             "uic": "xx xx 1648 xxx-x x-xxx"
         },
         {
+            "id": 3288,
             "name": "95 80 1648 447-8 D-ABRM",
             "type": "train",
             "bssid": [

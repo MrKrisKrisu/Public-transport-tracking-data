@@ -4,6 +4,7 @@
     },
     "vehicles": [
         {
+            "id": 1504,
             "name": "FlixTrain Dummy",
             "type": "train",
             "bssid": [

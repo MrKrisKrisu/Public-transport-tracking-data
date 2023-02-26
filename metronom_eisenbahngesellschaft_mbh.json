@@ -4,6 +4,7 @@
     },
     "vehicles": [
         {
+            "id": 1461,
             "name": "metronom dummy",
             "type": null,
             "bssid": [
@@ -83,6 +84,7 @@
             }
         },
         {
+            "id": 3290,
             "name": "metronom Tz: \r\nD-BTH 55 80 86 73 303-4 DABpbzkfa, \r\nD-BTH 55 80 96 73 006-1 DBdpza, \r\nD-BTH 55 80 96 75 002-8 DBpza, \r\nD-BTH 55 80 26 75 220-1 DBpza, \r\nD-BTH 55 80 26 75 104-7 DBpza, \r\nD-BTH 55 80 26 75 023-9 DBpza,\r\nD-BTH 55 80 96 75 007-7 DBpza",
             "type": "train",
             "bssid": [
