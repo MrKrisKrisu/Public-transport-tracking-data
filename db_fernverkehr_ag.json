@@ -134,9 +134,9 @@
                 "5E:70:01:E6:26:5E"
             ],
             "last_position": {
-                "latitude": 52.333,
-                "longitude": 9.777,
-                "timestamp": "2021-12-06T13:00:00+01:00"
+                "latitude": 51.477,
+                "longitude": 11.988,
+                "timestamp": "2022-06-06T13:00:00+02:00"
             }
         },
         {
@@ -771,9 +771,9 @@
                 "02:0E:8E:71:12:8F"
             ],
             "last_position": {
-                "latitude": 52.377,
-                "longitude": 9.74,
-                "timestamp": "2021-11-13T11:00:00+01:00"
+                "latitude": 52.62,
+                "longitude": 10.062,
+                "timestamp": "2022-05-04T14:00:00+02:00"
             }
         },
         {
