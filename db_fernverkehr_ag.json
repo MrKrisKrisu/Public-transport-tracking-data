@@ -1170,6 +1170,22 @@
             }
         },
         {
+            "id": 3414,
+            "name": "ICE Tz 9005",
+            "type": "train",
+            "bssid": [
+                "06:90:E8:40:48:60",
+                "06:90:E8:40:48:5B",
+                "06:90:E8:46:98:49",
+                "06:90:E8:46:98:4B"
+            ],
+            "last_position": {
+                "latitude": 50.106,
+                "longitude": 8.663,
+                "timestamp": "2022-03-03T19:00:00+01:00"
+            }
+        },
+        {
             "id": 84,
             "name": "ICE Tz 9007",
             "type": "train",
@@ -1575,8 +1591,8 @@
                 "6C:31:0E:CF:D8:D0"
             ],
             "last_position": {
-                "latitude": 50.105,
-                "longitude": 8.659,
+                "latitude": 50.106,
+                "longitude": 8.663,
                 "timestamp": "2021-09-10T20:00:00+02:00"
             }
         },
