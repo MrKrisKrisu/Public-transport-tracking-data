@@ -1507,6 +1507,21 @@
             }
         },
         {
+            "id": 3416,
+            "name": "ICE Tz 9038",
+            "type": "train",
+            "bssid": [
+                "06:90:E8:77:7C:AE",
+                "06:90:E8:70:2A:8C",
+                "06:90:E8:70:9E:5A"
+            ],
+            "last_position": {
+                "latitude": 49.48,
+                "longitude": 8.468,
+                "timestamp": "2023-03-11T23:00:00+01:00"
+            }
+        },
+        {
             "id": 88,
             "name": "ICE Tz 9043",
             "type": "train",
@@ -1759,6 +1774,21 @@
                 "latitude": 51.536,
                 "longitude": 9.925,
                 "timestamp": "2021-12-12T19:00:00+01:00"
+            }
+        },
+        {
+            "id": 3417,
+            "name": "ICE Tz 9063",
+            "type": "train",
+            "bssid": [
+                "06:90:E8:8F:11:B4",
+                "06:90:E8:8C:8E:C6",
+                "06:90:E8:89:86:77"
+            ],
+            "last_position": {
+                "latitude": 49.48,
+                "longitude": 8.468,
+                "timestamp": "2023-03-11T23:00:00+01:00"
             }
         },
         {
