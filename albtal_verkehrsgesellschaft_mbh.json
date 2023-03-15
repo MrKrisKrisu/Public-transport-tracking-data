@@ -674,8 +674,15 @@
             "id": 3393,
             "name": "450 915",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:33:3D:22",
+                "04:F0:21:33:3D:21"
+            ],
+            "last_position": {
+                "latitude": 48.999,
+                "longitude": 8.404,
+                "timestamp": "2023-03-15T15:00:00+01:00"
+            },
             "uic": "94 80 450 915-x D-AVG"
         },
         {
