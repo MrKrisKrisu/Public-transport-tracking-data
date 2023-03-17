@@ -402,8 +402,15 @@
             "id": 3359,
             "name": "450 881",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:33:3D:1D",
+                "04:F0:21:33:3D:1E"
+            ],
+            "last_position": {
+                "latitude": 49.011,
+                "longitude": 8.36,
+                "timestamp": "2023-02-25T21:00:00+01:00"
+            },
             "uic": "94 80 450 881-x D-AVG"
         },
         {
@@ -804,6 +811,20 @@
             "bssid": [],
             "last_position": [],
             "uic": "94 80 450 930-3 D-AVG"
+        },
+        {
+            "id": 3420,
+            "name": "VBK(!) 260",
+            "type": "tram",
+            "bssid": [
+                "04:F0:21:19:E8:25",
+                "04:F0:21:19:E8:26"
+            ],
+            "last_position": {
+                "latitude": 49.011,
+                "longitude": 8.369,
+                "timestamp": "2023-03-16T15:00:00+01:00"
+            }
         }
     ]
 }
