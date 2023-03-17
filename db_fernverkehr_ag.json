@@ -1876,6 +1876,13 @@
             "last_position": []
         },
         {
+            "id": 3421,
+            "name": "ICE Tz 9470",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "id": 3296,
             "name": "Metropolitan (ehem.)",
             "type": "train",
