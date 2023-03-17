@@ -130,8 +130,15 @@
             "id": 3325,
             "name": "450 850-3",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:34:B2:2D",
+                "04:F0:21:34:B2:2E"
+            ],
+            "last_position": {
+                "latitude": 49.005,
+                "longitude": 8.438,
+                "timestamp": "2023-03-16T18:00:00+01:00"
+            },
             "uic": "94 80 450 850-3 D-AVG"
         },
         {
@@ -190,8 +197,14 @@
             "id": 3331,
             "name": "450 856-0",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:2B:54:72"
+            ],
+            "last_position": {
+                "latitude": 49.012,
+                "longitude": 8.364,
+                "timestamp": "2023-03-17T07:00:00+01:00"
+            },
             "uic": "94 80 450 856-0 D-AVG"
         },
         {
@@ -378,8 +391,16 @@
             "id": 3356,
             "name": "450 878",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:2B:54:76",
+                "04:F0:21:2B:54:75",
+                "04:F0:21:2B:54:74"
+            ],
+            "last_position": {
+                "latitude": 49.006,
+                "longitude": 8.433,
+                "timestamp": "2023-03-16T19:00:00+01:00"
+            },
             "uic": "94 80 450 878-x D-AVG"
         },
         {
@@ -433,8 +454,14 @@
             "id": 3362,
             "name": "450 884",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:34:A6:A5"
+            ],
+            "last_position": {
+                "latitude": 49.005,
+                "longitude": 8.437,
+                "timestamp": "2023-03-16T18:00:00+01:00"
+            },
             "uic": "94 80 450 884-x D-AVG"
         },
         {
