@@ -259,7 +259,11 @@
                 "02:0E:8E:70:A8:98",
                 "06:0E:8E:70:A8:98"
             ],
-            "last_position": []
+            "last_position": {
+                "latitude": 48.994,
+                "longitude": 8.402,
+                "timestamp": "2023-03-19T21:00:00+01:00"
+            }
         },
         {
             "id": 3292,
