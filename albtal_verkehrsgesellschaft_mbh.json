@@ -296,8 +296,14 @@
             "id": 3341,
             "name": "450 866",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:33:44:78"
+            ],
+            "last_position": {
+                "latitude": 49.011,
+                "longitude": 8.376,
+                "timestamp": "2023-03-20T06:00:00+01:00"
+            },
             "uic": "94 80 450 866-x D-AVG"
         },
         {
