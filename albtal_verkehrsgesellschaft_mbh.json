@@ -318,8 +318,14 @@
             "id": 3346,
             "name": "450 868",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:33:43:50"
+            ],
+            "last_position": {
+                "latitude": 49.011,
+                "longitude": 8.364,
+                "timestamp": "2023-03-21T06:00:00+01:00"
+            },
             "uic": "94 80 450 868-x D-AVG"
         },
         {
@@ -633,8 +639,14 @@
             "id": 3382,
             "name": "450 904",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:33:44:F1"
+            ],
+            "last_position": {
+                "latitude": 48.999,
+                "longitude": 8.404,
+                "timestamp": "2023-03-21T06:00:00+01:00"
+            },
             "uic": "94 80 450 904-x D-AVG"
         },
         {
@@ -705,8 +717,16 @@
             "id": 3391,
             "name": "450 913",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:2B:54:79",
+                "04:F0:21:2B:54:7A",
+                "04:F0:21:2B:54:78"
+            ],
+            "last_position": {
+                "latitude": 49.011,
+                "longitude": 8.364,
+                "timestamp": "2023-03-21T06:00:00+01:00"
+            },
             "uic": "94 80 450 913-x D-AVG"
         },
         {
