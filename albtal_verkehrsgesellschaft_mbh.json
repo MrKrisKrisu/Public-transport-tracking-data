@@ -607,8 +607,14 @@
             "id": 3377,
             "name": "450 899",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:34:A6:CD"
+            ],
+            "last_position": {
+                "latitude": 48.993,
+                "longitude": 8.401,
+                "timestamp": "2023-03-24T21:00:00+01:00"
+            },
             "uic": "94 80 450 899-0 D-AVG"
         },
         {
