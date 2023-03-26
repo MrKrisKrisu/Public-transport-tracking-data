@@ -2103,6 +2103,33 @@
             }
         },
         {
+            "id": 3428,
+            "name": "ICE Tz 9485",
+            "type": "train",
+            "bssid": [
+                "06:90:E8:A2:96:11",
+                "06:90:E8:A2:96:42"
+            ],
+            "last_position": {
+                "latitude": 48.993,
+                "longitude": 8.4,
+                "timestamp": "2023-03-26T16:00:00+02:00"
+            }
+        },
+        {
+            "id": 3429,
+            "name": "ICE Tz 9495",
+            "type": "train",
+            "bssid": [
+                "06:90:E8:A7:B5:77"
+            ],
+            "last_position": {
+                "latitude": 48.994,
+                "longitude": 8.4,
+                "timestamp": "2023-03-26T16:00:00+02:00"
+            }
+        },
+        {
             "id": 3296,
             "name": "Metropolitan (ehem.)",
             "type": "train",

@@ -4,6 +4,19 @@
     },
     "vehicles": [
         {
+            "id": 3427,
+            "name": "1440 249 \/ 1440 749",
+            "type": "train",
+            "bssid": [
+                "04:F0:21:96:CF:55"
+            ],
+            "last_position": {
+                "latitude": 49.002,
+                "longitude": 8.463,
+                "timestamp": "2023-03-26T17:00:00+02:00"
+            }
+        },
+        {
             "id": 1495,
             "name": "423 417 \/ 423 917",
             "type": "train",
