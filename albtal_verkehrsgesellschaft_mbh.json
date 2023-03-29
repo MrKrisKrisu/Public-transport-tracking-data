@@ -84,6 +84,7 @@
             "name": "450 844-6",
             "type": "train",
             "bssid": [
+                "04:F0:21:2B:54:6E",
                 "04:F0:21:2B:54:6D"
             ],
             "last_position": {
