@@ -42,9 +42,9 @@
                 "04:F0:21:2C:74:7E"
             ],
             "last_position": {
-                "latitude": 49.025,
-                "longitude": 8.335,
-                "timestamp": "2023-03-27T19:00:00+02:00"
+                "latitude": 48.994,
+                "longitude": 8.396,
+                "timestamp": "2023-03-31T15:00:00+02:00"
             },
             "uic": "94 80 450 839-6 D-AVG"
         },
@@ -112,9 +112,9 @@
                 "04:F0:21:2B:54:68"
             ],
             "last_position": {
-                "latitude": 49.024,
-                "longitude": 8.332,
-                "timestamp": "2023-03-27T19:00:00+02:00"
+                "latitude": 49.012,
+                "longitude": 8.364,
+                "timestamp": "2023-03-31T15:00:00+02:00"
             },
             "uic": "94 80 450 845-x D-AVG"
         },
@@ -256,8 +256,15 @@
             "id": 3333,
             "name": "450 858",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:2C:75:CA",
+                "04:F0:21:2C:75:C9"
+            ],
+            "last_position": {
+                "latitude": 49.012,
+                "longitude": 8.356,
+                "timestamp": "2023-02-27T17:00:00+01:00"
+            },
             "uic": "94 80 450 858-x D-AVG"
         },
         {
