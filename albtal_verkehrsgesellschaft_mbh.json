@@ -96,9 +96,9 @@
                 "04:F0:21:2B:54:6C"
             ],
             "last_position": {
-                "latitude": 49.008,
-                "longitude": 8.423,
-                "timestamp": "2023-03-28T19:00:00+02:00"
+                "latitude": 49.024,
+                "longitude": 8.337,
+                "timestamp": "2023-04-03T15:00:00+02:00"
             },
             "uic": "94 80 450 844-6 D-AVG"
         },
@@ -187,9 +187,9 @@
                 "04:F0:21:33:43:52"
             ],
             "last_position": {
-                "latitude": 49.011,
-                "longitude": 8.364,
-                "timestamp": "2023-04-03T08:00:00+02:00"
+                "latitude": 49.023,
+                "longitude": 8.337,
+                "timestamp": "2023-04-03T15:00:00+02:00"
             },
             "uic": "94 80 450 852-9 D-AVG"
         },
@@ -359,9 +359,9 @@
                 "04:F0:21:33:43:50"
             ],
             "last_position": {
-                "latitude": 49.011,
-                "longitude": 8.364,
-                "timestamp": "2023-04-03T08:00:00+02:00"
+                "latitude": 49.024,
+                "longitude": 8.336,
+                "timestamp": "2023-04-03T15:00:00+02:00"
             },
             "uic": "94 80 450 868-x D-AVG"
         },
@@ -783,9 +783,9 @@
                 "04:F0:21:2B:54:78"
             ],
             "last_position": {
-                "latitude": 48.993,
-                "longitude": 8.396,
-                "timestamp": "2023-03-30T15:00:00+02:00"
+                "latitude": 49.024,
+                "longitude": 8.334,
+                "timestamp": "2023-04-03T15:00:00+02:00"
             },
             "uic": "94 80 450 913-x D-AVG"
         },
@@ -806,9 +806,9 @@
                 "04:F0:21:33:3D:21"
             ],
             "last_position": {
-                "latitude": 49.011,
-                "longitude": 8.36,
-                "timestamp": "2023-04-03T08:00:00+02:00"
+                "latitude": 49.024,
+                "longitude": 8.338,
+                "timestamp": "2023-04-03T15:00:00+02:00"
             },
             "uic": "94 80 450 915-x D-AVG"
         },
