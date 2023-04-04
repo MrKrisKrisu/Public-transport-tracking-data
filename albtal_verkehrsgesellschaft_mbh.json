@@ -97,7 +97,7 @@
             ],
             "last_position": {
                 "latitude": 49.025,
-                "longitude": 8.336,
+                "longitude": 8.337,
                 "timestamp": "2023-04-04T21:00:00+02:00"
             },
             "uic": "94 80 450 844-6 D-AVG"
@@ -112,9 +112,9 @@
                 "04:F0:21:2B:54:68"
             ],
             "last_position": {
-                "latitude": 49.012,
-                "longitude": 8.364,
-                "timestamp": "2023-03-31T15:00:00+02:00"
+                "latitude": 49.015,
+                "longitude": 8.349,
+                "timestamp": "2023-04-04T21:00:00+02:00"
             },
             "uic": "94 80 450 845-x D-AVG"
         },
@@ -300,7 +300,7 @@
             ],
             "last_position": {
                 "latitude": 49.025,
-                "longitude": 8.336,
+                "longitude": 8.337,
                 "timestamp": "2023-04-04T21:00:00+02:00"
             },
             "uic": "94 80 450 862-x D-AVG"
@@ -445,8 +445,8 @@
                 "04:F0:21:2C:75:BC"
             ],
             "last_position": {
-                "latitude": 49.025,
-                "longitude": 8.336,
+                "latitude": 49.024,
+                "longitude": 8.337,
                 "timestamp": "2023-04-04T21:00:00+02:00"
             },
             "uic": "94 80 450 877-x D-AVG"
@@ -704,7 +704,7 @@
             ],
             "last_position": {
                 "latitude": 49.025,
-                "longitude": 8.336,
+                "longitude": 8.337,
                 "timestamp": "2023-04-04T21:00:00+02:00"
             },
             "uic": "94 80 450 904-x D-AVG"
