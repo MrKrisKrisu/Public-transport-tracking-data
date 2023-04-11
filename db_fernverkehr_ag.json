@@ -1047,6 +1047,22 @@
             }
         },
         {
+            "id": 3435,
+            "name": "ICE Tz 4601",
+            "type": "train",
+            "bssid": [
+                "00:0E:8E:77:A7:E2",
+                "00:0E:8E:77:A5:D8",
+                "00:0E:8E:76:F4:19",
+                "00:0E:8E:71:0F:0B"
+            ],
+            "last_position": {
+                "latitude": 51.364,
+                "longitude": 6.171,
+                "timestamp": "2023-04-11T14:00:00+02:00"
+            }
+        },
+        {
             "id": 443,
             "name": "ICE Tz 58 \"G\u00fctersloh\"",
             "type": "train",
