@@ -872,7 +872,8 @@
             "name": "450 922",
             "type": "train",
             "bssid": [
-                "04:F0:21:34:A6:A9"
+                "04:F0:21:34:A6:A9",
+                "04:F0:21:34:A6:AA"
             ],
             "last_position": {
                 "latitude": 49,
