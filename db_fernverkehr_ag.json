@@ -1041,9 +1041,9 @@
                 "02:0E:8E:6E:5F:26"
             ],
             "last_position": {
-                "latitude": 50.053,
-                "longitude": 8.57,
-                "timestamp": "2023-03-19T19:00:00+01:00"
+                "latitude": 50.106,
+                "longitude": 8.663,
+                "timestamp": "2023-04-19T12:00:00+02:00"
             }
         },
         {
@@ -1804,9 +1804,9 @@
                 "06:90:E8:88:E1:37"
             ],
             "last_position": {
-                "latitude": 52.377,
-                "longitude": 9.742,
-                "timestamp": "2021-11-30T16:00:00+01:00"
+                "latitude": 50.106,
+                "longitude": 8.663,
+                "timestamp": "2023-04-19T12:00:00+02:00"
             },
             "uic": "xx xx xxxx xxx-x D-DB"
         },
