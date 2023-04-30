@@ -2194,7 +2194,11 @@
                 "6C:03:09:ED:BA:C0",
                 "6C:03:09:ED:B1:00"
             ],
-            "last_position": []
+            "last_position": {
+                "latitude": 51.044,
+                "longitude": 9.667,
+                "timestamp": "2023-04-30T12:00:00+02:00"
+            }
         },
         {
             "id": 3428,
