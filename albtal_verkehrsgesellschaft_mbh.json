@@ -821,9 +821,9 @@
                 "04:F0:21:33:3D:21"
             ],
             "last_position": {
-                "latitude": 49.006,
-                "longitude": 8.435,
-                "timestamp": "2023-04-27T07:00:00+02:00"
+                "latitude": 48.994,
+                "longitude": 8.396,
+                "timestamp": "2023-05-05T07:00:00+02:00"
             },
             "uic": "94 80 450 915-x D-AVG"
         },
@@ -871,8 +871,14 @@
             "id": 3399,
             "name": "450 921",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:34:B2:25"
+            ],
+            "last_position": {
+                "latitude": 48.994,
+                "longitude": 8.396,
+                "timestamp": "2023-05-05T07:00:00+02:00"
+            },
             "uic": "94 80 450 921-x D-AVG"
         },
         {
@@ -974,6 +980,20 @@
                 "latitude": 49.01,
                 "longitude": 8.38,
                 "timestamp": "2023-04-26T15:00:00+02:00"
+            }
+        },
+        {
+            "id": 3445,
+            "name": "VBK(!) 263",
+            "type": "tram",
+            "bssid": [
+                "04:F0:21:38:E9:DA",
+                "04:F0:21:38:E9:D8"
+            ],
+            "last_position": {
+                "latitude": 49,
+                "longitude": 8.464,
+                "timestamp": "2023-05-04T16:00:00+02:00"
             }
         }
     ]
