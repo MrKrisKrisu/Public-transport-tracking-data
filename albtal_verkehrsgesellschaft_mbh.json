@@ -581,12 +581,13 @@
             "name": "450 888",
             "type": "train",
             "bssid": [
-                "04:F0:21:33:44:6E"
+                "04:F0:21:33:44:6E",
+                "04:F0:21:33:44:6D"
             ],
             "last_position": {
-                "latitude": 49.009,
-                "longitude": 8.361,
-                "timestamp": "2023-05-02T09:00:00+02:00"
+                "latitude": 48.461,
+                "longitude": 8.429,
+                "timestamp": "2023-07-05T08:00:00+02:00"
             },
             "uic": "94 80 450 888-x D-AVG"
         },
@@ -877,8 +878,15 @@
             "id": 3398,
             "name": "450 920",
             "type": "train",
-            "bssid": [],
-            "last_position": [],
+            "bssid": [
+                "04:F0:21:2B:54:66",
+                "04:F0:21:2B:54:65"
+            ],
+            "last_position": {
+                "latitude": 48.461,
+                "longitude": 8.429,
+                "timestamp": "2023-07-05T08:00:00+02:00"
+            },
             "uic": "94 80 450 920-x D-AVG"
         },
         {
