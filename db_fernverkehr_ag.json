@@ -1528,6 +1528,20 @@
             }
         },
         {
+            "id": 3447,
+            "name": "ICE Tz 9023",
+            "type": "train",
+            "bssid": [
+                "06:90:E8:67:70:EC",
+                "38:0E:4D:BF:E9:D0"
+            ],
+            "last_position": {
+                "latitude": 50.404,
+                "longitude": 9.553,
+                "timestamp": "2023-07-22T17:00:00+02:00"
+            }
+        },
+        {
             "id": 1497,
             "name": "ICE Tz 9024",
             "type": "train",
