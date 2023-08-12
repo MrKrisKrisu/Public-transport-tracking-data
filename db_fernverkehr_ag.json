@@ -1580,9 +1580,9 @@
                 "06:90:E8:67:70:FC"
             ],
             "last_position": {
-                "latitude": 50.099,
-                "longitude": 8.686,
-                "timestamp": "2021-09-10T17:00:00+02:00"
+                "latitude": 48.994,
+                "longitude": 8.403,
+                "timestamp": "2023-08-12T14:00:00+02:00"
             }
         },
         {
@@ -1774,9 +1774,9 @@
                 "06:90:E8:70:9E:8F"
             ],
             "last_position": {
-                "latitude": 52.377,
-                "longitude": 9.74,
-                "timestamp": "2021-01-27T18:00:00+01:00"
+                "latitude": 51.311,
+                "longitude": 9.448,
+                "timestamp": "2023-08-12T18:00:00+02:00"
             }
         },
         {
