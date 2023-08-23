@@ -1179,6 +1179,13 @@
             "last_position": []
         },
         {
+            "id": 3448,
+            "name": "ICE Tz 8011",
+            "type": "train",
+            "bssid": [],
+            "last_position": []
+        },
+        {
             "id": 241,
             "name": "ICE Tz 85",
             "type": "train",
