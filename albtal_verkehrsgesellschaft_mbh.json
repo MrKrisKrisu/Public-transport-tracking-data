@@ -97,9 +97,9 @@
                 "04:F0:21:2B:54:6C"
             ],
             "last_position": {
-                "latitude": 49.011,
-                "longitude": 8.382,
-                "timestamp": "2023-10-19T17:00:00+02:00"
+                "latitude": 49.024,
+                "longitude": 8.334,
+                "timestamp": "2023-10-23T10:00:00+02:00"
             },
             "uic": "94 80 450 844-6 D-AVG"
         },
@@ -232,9 +232,9 @@
                 "04:F0:21:2B:54:7E"
             ],
             "last_position": {
-                "latitude": 49.011,
-                "longitude": 8.36,
-                "timestamp": "2023-10-02T18:00:00+02:00"
+                "latitude": 49.024,
+                "longitude": 8.333,
+                "timestamp": "2023-10-23T10:00:00+02:00"
             },
             "uic": "94 80 450 855-x D-AVG"
         },
@@ -247,9 +247,9 @@
                 "04:F0:21:2B:54:71"
             ],
             "last_position": {
-                "latitude": 49.06,
-                "longitude": 8.242,
-                "timestamp": "2023-07-07T05:00:00+02:00"
+                "latitude": 49.024,
+                "longitude": 8.335,
+                "timestamp": "2023-10-23T11:00:00+02:00"
             },
             "uic": "94 80 450 856-0 D-AVG"
         },
@@ -954,9 +954,9 @@
                 "04:F0:21:39:05:60"
             ],
             "last_position": {
-                "latitude": 49.023,
-                "longitude": 8.337,
-                "timestamp": "2023-06-22T08:00:00+02:00"
+                "latitude": 49.024,
+                "longitude": 8.335,
+                "timestamp": "2023-10-23T10:00:00+02:00"
             },
             "uic": "94 80 450 926-1 D-AVG"
         },
