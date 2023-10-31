@@ -1008,9 +1008,9 @@
                 "04:F0:21:19:E8:26"
             ],
             "last_position": {
-                "latitude": 49.006,
-                "longitude": 8.41,
-                "timestamp": "2023-10-02T09:00:00+02:00"
+                "latitude": 49.015,
+                "longitude": 8.347,
+                "timestamp": "2023-10-31T07:00:00+01:00"
             }
         },
         {
@@ -1022,9 +1022,9 @@
                 "04:F0:21:38:E9:D8"
             ],
             "last_position": {
-                "latitude": 49.011,
-                "longitude": 8.364,
-                "timestamp": "2023-09-12T06:00:00+02:00"
+                "latitude": 49.015,
+                "longitude": 8.347,
+                "timestamp": "2023-10-31T10:00:00+01:00"
             }
         }
     ]
