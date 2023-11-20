@@ -816,8 +816,8 @@
             ],
             "last_position": {
                 "latitude": 49.008,
-                "longitude": 8.436,
-                "timestamp": "2023-06-26T08:00:00+02:00"
+                "longitude": 8.434,
+                "timestamp": "2023-11-20T12:00:00+01:00"
             },
             "uic": "94 80 450 913-x D-AVG"
         },
@@ -885,9 +885,9 @@
                 "04:F0:21:2B:54:65"
             ],
             "last_position": {
-                "latitude": 48.461,
-                "longitude": 8.429,
-                "timestamp": "2023-07-05T08:00:00+02:00"
+                "latitude": 49.008,
+                "longitude": 8.434,
+                "timestamp": "2023-11-20T12:00:00+01:00"
             },
             "uic": "94 80 450 920-x D-AVG"
         },
