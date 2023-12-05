@@ -430,9 +430,9 @@
                 "04:F0:21:33:44:76"
             ],
             "last_position": {
-                "latitude": 49.02,
-                "longitude": 8.62,
-                "timestamp": "2023-12-01T19:00:00+01:00"
+                "latitude": 49.01,
+                "longitude": 8.387,
+                "timestamp": "2023-12-05T07:00:00+01:00"
             },
             "uic": "94 80 450 874-x D-AVG"
         },
