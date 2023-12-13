@@ -993,6 +993,62 @@
             "uic": "94 80 450 930-3 D-AVG"
         },
         {
+            "id": 3452,
+            "name": "450 933 \"Bad Friedrichshall\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 933-x D-AVG"
+        },
+        {
+            "id": 3451,
+            "name": "450 935 \"Neckarsulm\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 935-x D-AVG"
+        },
+        {
+            "id": 3453,
+            "name": "450 940 \"Bad Rappenau\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 940-x D-AVG"
+        },
+        {
+            "id": 3454,
+            "name": "450 941 \"Sinsheim\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 941-x D-AVG"
+        },
+        {
+            "id": 3449,
+            "name": "450 946 \"Landkreis Germersheim\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 946-x D-AVG"
+        },
+        {
+            "id": 3455,
+            "name": "450 950 \"Bad Wimpfen\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 950-x D-AVG"
+        },
+        {
+            "id": 3450,
+            "name": "450 952 \"Rhein-Neckar-Kreis\"",
+            "type": "train",
+            "bssid": [],
+            "last_position": [],
+            "uic": "94 80 450 952-x D-AVG"
+        },
+        {
             "id": 3446,
             "name": "450 966",
             "type": "tram",
